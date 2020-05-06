@@ -4,7 +4,7 @@ state={
 	name="STATE_832"
 
 	history={
-		owner = CRO
+		owner = MNT
 		add_core_of = MNT
 		buildings = {
 

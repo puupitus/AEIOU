@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = CAN
+		owner = FRA
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2

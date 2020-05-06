@@ -4,7 +4,7 @@ state={
 	name="STATE_860"
 
 	history={
-		owner = ALB
+		owner = OTT
 		add_core_of = ALB
 		buildings = {
 

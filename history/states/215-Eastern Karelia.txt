@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = MOS
+		owner = RUS
 		buildings = {
 			infrastructure = 3
 

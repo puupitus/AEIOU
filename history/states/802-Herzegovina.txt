@@ -4,7 +4,7 @@ state={
 	name="STATE_802"
 
 	history={
-		owner = CRO
+		owner = BOS
 		add_core_of = BOS
 		buildings = {
 
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		953 6942 9894 11845 
+		953 6942 9894 11845
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

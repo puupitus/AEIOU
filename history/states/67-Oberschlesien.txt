@@ -7,7 +7,7 @@ state={
 		steel=19 # was: 60
 		aluminium=6 # was: 20
 	}
-	
+
 	state_category = city
 
 	history={
@@ -17,7 +17,7 @@ state={
 		victory_points = {
 			9511 3
 		}
-		owner = GEM
+		owner = PRE
 		buildings = {
 			infrastructure = 6
 		}
@@ -25,6 +25,6 @@ state={
 	}
 
 	provinces={
-		479 6512 9457 9511 11467 
+		479 6512 9457 9511 11467
 	}
 }

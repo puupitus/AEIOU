@@ -4,7 +4,7 @@ state={
 	name="STATE_838"
 
 	history={
-		owner = BUL
+		owner = OTT
 		add_core_of = BUL
 		buildings = {
 
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		878 893 6814 6923 6952 6967 9862 9888 9902 9919 11813 
+		878 893 3937 6814 6857 6923 6952 6967 6982 9818 9862 9888 9902 9919 11813 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

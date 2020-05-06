@@ -4,12 +4,12 @@ state={
 	name="STATE_10"
 
 	history={
-		owner = GEM
+		owner = POL
 		victory_points = {
-			3544 25 
+			3544 25
 		}
 		victory_points = {
-			402 1 
+			402 1
 		}
 		buildings = {
 			infrastructure = 7
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		467 524 3521 3544 6511 12562 
+		467 524 3521 3544 6511 12562
 	}
 	manpower=3089000
 	buildings_max_level_factor=1.000

@@ -6,7 +6,7 @@ state=
 	manpower=75153
 	history=
 	{
-		owner = GEM
+		owner = AUS
 		add_core_of = GUM
 		buildings = {
 			infrastructure = 5

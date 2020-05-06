@@ -3,7 +3,7 @@ state={
 	id=857
 	name="STATE_857"
 	history={
-		owner = BUL
+		owner = ROM
 		add_core_of = BUL
 		buildings = {
 

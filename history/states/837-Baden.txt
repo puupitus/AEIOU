@@ -4,7 +4,7 @@ state={
 	name="STATE_837"
 
 	history={
-		owner = GEM
+		owner = BAY
 		add_core_of = GEM
 		buildings = {
 
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		3530 3679 3692 6542 6568 6581 6712 6934 11640 
+		3530 3679 3692 6542 6568 6581 6712 6934 11640
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

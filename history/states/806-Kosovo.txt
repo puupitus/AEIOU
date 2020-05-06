@@ -3,7 +3,7 @@ state={
 	id=806
 	name="STATE_806"
 	history={
-		owner = SER
+		owner = OTT
 		add_core_of = SER
 		buildings = {
 		}

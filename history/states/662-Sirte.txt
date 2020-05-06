@@ -7,7 +7,7 @@ state={
 
 
 	history={
-		owner = SEO
+		owner = OTT
 		buildings = {
 			infrastructure = 1
 		}

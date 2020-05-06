@@ -4,7 +4,7 @@ state={
 	name="STATE_859"
 
 	history={
-		owner = MOU
+		owner = GEO
 		add_core_of = MOU
 		buildings = {
 
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		672 11599 11617 11647 
+		672 11599 11617 11647
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

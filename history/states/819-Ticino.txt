@@ -3,7 +3,7 @@ state={
 	id=819
 	name="STATE_819"
 	history={
-		owner = LOM
+		owner = SWI
 		add_core_of = SWI
 		buildings = {
 		}

@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = BUL
+		owner = OTT
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -16,7 +16,7 @@ state={
 
 		}
 		victory_points = {
-			3882 5 
+			3882 5
 		}
 		add_core_of = YUG
 		add_core_of = MAC
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		907 974 3833 3865 3882 6886 
+		907 974 3833 3865 3882 6886
 	}
 	manpower=1374200
 	buildings_max_level_factor=1.000

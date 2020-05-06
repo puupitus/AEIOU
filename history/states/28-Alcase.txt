@@ -7,15 +7,15 @@ state={
 	}
 
 	history={
-		owner = GEM
+		owner = FRA
 		victory_points = {
-			678 5 
+			678 5
 		}
 		victory_points = {
-			9503 5 
+			9503 5
 		}
 		victory_points = {
-			9559 10 
+			9559 10
 		}
 		buildings = {
 			infrastructure = 7
@@ -64,7 +64,7 @@ state={
 	}
 
 	provinces={
-		3629 9559 11502 
+		3629 9559 11502
 	}
 	manpower=1915600
 	buildings_max_level_factor=1.000

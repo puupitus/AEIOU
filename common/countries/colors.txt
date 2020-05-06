@@ -70,8 +70,8 @@ SER = {
 	color_ui = rgb { 94 95 164 }
 }
 FRA = {
-	color = rgb { 224 5 5 }
-	color_ui = rgb { 193 81 81 }
+	color = rgb { 20 81 179 }
+	color_ui = rgb { 20 81 179 }
 }
 TUR = {
 	color = rgb { 171 190 152 }
@@ -676,8 +676,8 @@ D50 = {
 	color_ui = rgb { 255 138 61 }
 }
 BAY = {
-	color = rgb { 233  231  246 }
-	color_ui = rgb { 233  231  246 }
+	color = rgb { 209 172 23 }
+	color_ui = rgb { 209 172 23 }
 }
 MEK = {
 	color = rgb { 186 245 86 }

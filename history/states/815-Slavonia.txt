@@ -2,16 +2,21 @@
 state={
 	id=815
 	name="STATE_815"
+
 	history={
-		owner = CRO
+		owner = AUS
 		add_core_of = CRO
 		buildings = {
+
 		}
 		victory_points = {
+
 		}
+
 	}
+
 	provinces={
-		3627 6647 9595 11577
+		3627 6647 9595 11577 11580 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

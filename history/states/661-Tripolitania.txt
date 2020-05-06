@@ -6,7 +6,7 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = SEO
+		owner = OTT
 		buildings = {
 			infrastructure = 1
 		}

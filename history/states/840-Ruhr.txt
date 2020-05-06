@@ -4,7 +4,7 @@ state={
 	name="STATE_840"
 
 	history={
-		owner = GEM
+		owner = WGR
 		add_core_of = GEM
 		buildings = {
 
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		529 3512 6469 6570 9482 
+		529 3512 6469 6570 9482
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

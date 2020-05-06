@@ -14,7 +14,7 @@ state={
 	}
 
 	history={
-		owner = GEM
+		owner = AUS
 		victory_points = {
 			12299 10
 		}

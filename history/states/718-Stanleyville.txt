@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = GEM
+		owner = AUS
 		buildings = {
 			infrastructure = 2
 
