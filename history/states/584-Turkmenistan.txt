@@ -1,0 +1,27 @@
+
+state={
+	id=584
+	name="STATE_584"
+
+	history={
+		add_core_of = TMS
+		owner = KOK
+		victory_points = {
+			12333 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		756 1632 1649 4482 4549 4958 5003 7491 7560 7924 9605 10357 10414 10742
+	}
+	manpower=1064523
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

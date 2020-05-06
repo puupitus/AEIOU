@@ -1,0 +1,21 @@
+
+state={
+	id=857
+	name="STATE_857"
+	history={
+		owner = BUL
+		add_core_of = BUL
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+	provinces={
+		657 687 3076 9635
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

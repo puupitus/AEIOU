@@ -1,0 +1,23 @@
+
+state={
+	id=859
+	name="STATE_859"
+
+	history={
+		owner = MOU
+		add_core_of = MOU
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		672 11599 11617 11647 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

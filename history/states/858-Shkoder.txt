@@ -1,0 +1,23 @@
+
+state={
+	id=858
+	name="STATE_858"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		3896 9780 11762 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
