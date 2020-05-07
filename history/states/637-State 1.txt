@@ -4,7 +4,7 @@ state={
 	name="STATE_637"
 
 	history={
-		owner = SOV
+		owner = JAP
 		buildings = {
 			infrastructure = 2
 			12207 = {
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		1823 1839 1863 4728 4744 5264 7878 12207 12522 13063 13204 
+		1823 1839 1863 4728 4744 5264 7878 12207 12522 13063 13204
 	}
 	manpower=48831
 	buildings_max_level_factor=1.000
