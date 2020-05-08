@@ -4,14 +4,14 @@ state={
 	name="STATE_109"
 
 	history={
-		owner = AUS
+		owner = CRO
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
 
 		}
 		victory_points = {
-			11581 3 
+			11581 3
 		}
 		add_core_of = YUG
 		add_core_of = CRO
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		624 3592 3596 6647 9595 9611 11577 11581 11594 
+		624 3592 3596 6647 9595 9611 11577 11581 11594
 	}
 	manpower=2224400
 	buildings_max_level_factor=1.000

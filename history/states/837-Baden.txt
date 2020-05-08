@@ -4,7 +4,7 @@ state={
 	name="STATE_837"
 
 	history={
-		owner = BAY
+		owner = HES
 		add_core_of = GEM
 		buildings = {
 

@@ -5,9 +5,9 @@ state={
 
 	history={
 		victory_points = {
-			6626 1 
+			6626 1
 		}
-		owner = AUS
+		owner = SLV
 		add_core_of = ITA
 		add_core_of = YUG
 		add_core_of = SLV
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		599 6626 11595 
+		599 6626 11595
 	}
 	manpower=1063159
 	buildings_max_level_factor=1.000

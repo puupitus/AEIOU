@@ -8,9 +8,9 @@ state={
 	}
 
 	history={
-		owner = AUS
+		owner = UKR
 		victory_points = {
-			525 25 
+			525 25
 		}
 		buildings = {
 			infrastructure = 7
@@ -34,7 +34,7 @@ state={
 	}
 
 	provinces={
-		504 525 3494 3543 6497 9465 9568 
+		504 525 3494 3543 6497 9465 9568
 	}
 	manpower=2495352
 	buildings_max_level_factor=1.000
