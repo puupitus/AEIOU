@@ -1055,3 +1055,43 @@ WAL = {
 	color = rgb { 237 237 9 }
 	color_ui = rgb { 237 237 9 }
 }
+UAS = {
+	color = rgb { 13 224 24 }
+	color_ui = rgb { 13 224 24 }
+}
+EAF = {
+	color = rgb { 46 173 219 }
+	color_ui = rgb { 46 173 219 }
+}
+DAR = {
+	color = rgb { 204 102 0 }
+	color_ui = rgb { 204 102 0 }
+}
+SUD = {
+	color = rgb { 166 120 56 }
+	color_ui = rgb { 166 120 56 }
+}
+ZAN = {
+	color = rgb { 97 161 77 }
+	color_ui = rgb { 97 161 77 }
+}
+HOB = {
+	color = rgb { 176 90 56 }
+	color_ui = rgb { 176 90 56 }
+}
+MAJ = {
+	color = rgb { 207 170 155 }
+	color_ui = rgb { 207 170 155 }
+}
+MAH = {
+	color = rgb { 15 133 117 }
+	color_ui = rgb { 15 133 117 }
+}
+IVO = {
+	color = rgb { 227 152 14 }
+	color_ui = rgb { 227 152 14 }
+}
+CHA = {
+	color = rgb { 201 189 18 }
+	color_ui = rgb { 201 189 18 }
+}
