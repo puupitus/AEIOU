@@ -10,7 +10,7 @@ state= {
 
 	history=
 	{
-		owner = OTT
+		owner = TUR
 		add_core_of = CYP
 		victory_points = {
 			11984 5

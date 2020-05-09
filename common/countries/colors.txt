@@ -57,13 +57,13 @@ SPR = {
 	color = rgb { 242 205 94 }
 	color_ui = rgb { 255 255 122 }
 }
-ITA = {
+PAP = {
 	color = rgb { 67 127 63 }
 	color_ui = rgb { 87 165 82 }
 }
-ROM = {
-	color = rgb { 224 224 180 }
-	color_ui = rgb { 224 224 180 }
+MOL = {
+	color = rgb { 22 197 217 }
+	color_ui = rgb { 22 197 217 }
 }
 SER = {
 	color = rgb { 72 73 126 }
@@ -73,7 +73,7 @@ FRA = {
 	color = rgb { 20 81 179 }
 	color_ui = rgb { 20 81 179 }
 }
-TUR = {
+OTT = {
 	color = rgb { 171 190 152 }
 	color_ui = rgb { 222 247 198 }
 }
@@ -456,8 +456,8 @@ PAK = {
 	color_ui = rgb { 21 38 66 }
 }
 WGR = {
-    color = rgb { 195 236 230 } # The colors are set to be more are less what we are used to
-    color_ui = rgb { 225 255 255 }
+    color = rgb { 123 224 110 } # The colors are set to be more are less what we are used to
+    color_ui = rgb { 123 224 110 }
 }
 DDR = {
     color = rgb { 120 150 80 }
@@ -675,7 +675,7 @@ D50 = {
 	color = rgb { 210 106 47 }
 	color_ui = rgb { 255 138 61 }
 }
-HES = {
+BAD = {
 	color = rgb { 209 172 23 }
 	color_ui = rgb { 209 172 23 }
 }
@@ -688,16 +688,16 @@ PRE = {
 	color_ui = rgb { 160  160  160 }
 }
 SAX = {
-	color = rgb { 102 102 0 }
-	color_ui = rgb { 102 102 0 }
+	color = rgb { 49 173 71 }
+	color_ui = rgb { 49 173 71 }
 }
 BLR = {
 	color = rgb { 255 0 0 }
 	color_ui = rgb { 255 0 0 }
 }
 WUR = {
-	color = rgb { 255 204 153 }
-	color_ui = rgb { 255 204 153 }
+	color = rgb { 99 18 5 }
+	color_ui = rgb { 99 18 5 }
 }
 SHL = {
 	color = rgb { 51 51 255 }
@@ -823,7 +823,7 @@ GAL = {
 	color = rgb { 245 181 174 }
 	color_ui = rgb { 245 181 174 }
 }
-OTT = {
+TUR = {
 	color = rgb { 184 25 7 }
 	color_ui = rgb { 184 25 7 }
 }
@@ -859,7 +859,7 @@ SAO = {
 	color = rgb { 90 54 54 }
 	color_ui = rgb { 90 54 54 }
 }
-MOL = {
+ROM = {
 	color = rgb { 195 176 52 }
 	color_ui = rgb { 195 176 52 }
 }
@@ -999,7 +999,7 @@ TUS = {
 	color = rgb { 232 151 151 }
 	color_ui = rgb { 232 151 151 }
 }
-PAP = {
+PRM = {
 	color = rgb { 242 245 61 }
 	color_ui = rgb { 242 245 61 }
 }
@@ -1034,4 +1034,20 @@ ABK = {
 CIR = {
 	color = rgb { 116 173 24 }
 	color_ui = rgb { 116 173 24 }
+}
+HES = {
+	color = rgb { 222 147 133 }
+	color_ui = rgb { 222 147 133 }
+}
+ITA = {
+	color = rgb { 219 210 208 }
+	color_ui = rgb { 219 210 208 }
+}
+MOD = {
+	color = rgb { 106 163 184 }
+	color_ui = rgb { 106 163 184 }
+}
+NAP = {
+	color = rgb { 158 149 19 }
+	color_ui = rgb { 158 149 19 }
 }

@@ -7,7 +7,7 @@ state={
 	state_category = enclave
 
 	history={
-		owner = OTT
+		owner = TUR
 		buildings = {
 			infrastructure = 3
 		}

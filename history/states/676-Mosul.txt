@@ -11,7 +11,7 @@ state={
 
 
 	history={
-		owner = OTT
+		owner = TUR
 		buildings = {
 			infrastructure = 3
 		}

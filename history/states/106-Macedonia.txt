@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = OTT
+		owner = BUL
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
