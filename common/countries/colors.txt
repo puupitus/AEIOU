@@ -1051,3 +1051,7 @@ NAP = {
 	color = rgb { 158 149 19 }
 	color_ui = rgb { 158 149 19 }
 }
+WAL = {
+	color = rgb { 237 237 9 }
+	color_ui = rgb { 237 237 9 }
+}

@@ -10,9 +10,9 @@ state={
 
 	history={
 		add_core_of = SCO
-		owner = IMP
+		owner = SCO
 		victory_points = {
-			11064 1 
+			11064 1
 		}
 		buildings = {
 			infrastructure = 4
@@ -33,7 +33,7 @@ state={
 	}
 
 	provinces={
-		131 284 3159 3178 3373 6046 6062 6104 6205 9075 9090 11064 11161 11266 
+		131 284 3159 3178 3373 6046 6062 6104 6205 9075 9090 11064 11161 11266
 	}
 	manpower=265873
 	buildings_max_level_factor=1.000
