@@ -7,7 +7,7 @@ state={
 
 	history=
 	{
-		owner = ENG
+		owner = MAD
 		buildings = {
 			infrastructure = 3
 			2188 = {

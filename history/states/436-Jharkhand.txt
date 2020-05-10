@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = GWA
+		owner = DEC
 		buildings = {
 			infrastructure = 4
 

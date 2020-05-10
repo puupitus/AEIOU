@@ -6,7 +6,7 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = USA
+		owner = PHI
 		add_core_of = GUM
 		buildings = {
 			infrastructure = 3
@@ -15,11 +15,11 @@ state={
 			}
 		}
 		victory_points = {
-			13047 1 
+			13047 1
 		}
 
 	}
 	provinces={
-		13047 
+		13047
 	}
 }

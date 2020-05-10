@@ -141,7 +141,7 @@ CAN = {
 	color = rgb { 119 48 39 }
 	color_ui = rgb { 119 48 39 }
 }
-GXC = {
+GND = {
 	color = rgb { 19 131 207 }
 	color_ui = rgb { 19 131 207 }
 }
@@ -225,7 +225,7 @@ SAF = {
 	color = rgb { 195 107 160 }
 	color_ui = rgb { 198 169 248 }
 }
-SAU = {
+JAB = {
 	color = rgb { 201 159 42 }
 	color_ui = rgb { 201 159 42 }
 }
@@ -398,7 +398,7 @@ INS = {
 	color_ui = rgb { 40  50  120 }
 }
 
-VIN = {
+DAI = {
 	color = rgb { 230  223  50 }
 	color_ui = rgb { 230  223  50 }
 }
@@ -1118,4 +1118,56 @@ NGA = {
 MAD = {
 	color = rgb { 230 122 92 }
 	color_ui = rgb { 230 122 92 }
+}
+SAU = {
+	color = rgb { 230 122 92 }
+	color_ui = rgb { 230 122 92 }
+}
+HEJ = {
+	color = rgb { 112 189 79 }
+	color_ui = rgb { 112 189 79 }
+}
+VIN = {
+	color = rgb { 212 97 74 }
+	color_ui = rgb { 212 97 74 }
+}
+BRU = {
+	color = rgb { 212 209 74 }
+	color_ui = rgb { 212 209 74 }
+}
+SWK = {
+	color = rgb { 107 106 34 }
+	color_ui = rgb { 107 106 34 }
+}
+ACE = {
+	color = rgb { 207 50 10 }
+	color_ui = rgb { 207 50 10 }
+}
+SHD = {
+	color = rgb { 189 60 17 }
+	color_ui = rgb { 189 60 17 }
+}
+ANH = {
+	color = rgb { 31 107 41 }
+	color_ui = rgb { 31 107 41 }
+}
+ZHI = {
+	color = rgb { 181 29 148 }
+	color_ui = rgb { 181 29 148 }
+}
+BEI = {
+	color = rgb { 144 198 232 }
+	color_ui = rgb { 144 198 232 }
+}
+GXC = {
+	color = rgb { 29 120 1 }
+	color_ui = rgb { 29 120 1 }
+}
+HNN = {
+	color = rgb { 109 64 135 }
+	color_ui = rgb { 109 64 135 }
+}
+AEI = {
+	color = rgb { 186 186 186 }
+	color_ui = rgb { 186 186 186 }
 }

@@ -4,7 +4,7 @@ state={
 	name="STATE_760"
 
 	history={
-		owner = XSM
+		owner = SIK
 		add_core_of = SIK
 		add_core_of = CHI
 		add_core_of = PRC
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		4704 4788 4843 7737 10674 10839 12598 12671 
+		4704 4788 4843 7737 10674 10839 12598 12671
 	}
 	manpower=700000
 	buildings_max_level_factor=1.000

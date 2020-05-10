@@ -7,7 +7,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = UAE
+		owner = OMA
 		victory_points = {
 			5074 1
 		}

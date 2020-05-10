@@ -4,7 +4,7 @@ state={
 	name="STATE_853"
 
 	history={
-		owner = PRC
+		owner = AEI
 		add_core_of = PRC
 		buildings = {
 
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		1089 4091 7014 10076 11928 12052 12076 
+		1089 4091 7014 10076 11928 12052 12076
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
