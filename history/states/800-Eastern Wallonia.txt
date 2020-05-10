@@ -2,16 +2,21 @@
 state={
 	id=800
 	name="STATE_800"
+
 	history={
 		owner = WAL
 		add_core_of = BEL
 		buildings = {
+
 		}
 		victory_points = {
+
 		}
+
 	}
+
 	provinces={
-		3488 6537 9418 9444 11407
+		9418 11407 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

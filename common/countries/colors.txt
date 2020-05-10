@@ -1095,3 +1095,27 @@ CHA = {
 	color = rgb { 201 189 18 }
 	color_ui = rgb { 201 189 18 }
 }
+MLT = {
+	color = rgb { 237 164 159 }
+	color_ui = rgb { 237 164 159 }
+}
+TZN = {
+	color = rgb { 9 118 181 }
+	color_ui = rgb { 9 118 181 }
+}
+VOL = {
+	color = rgb { 4 42 64 }
+	color_ui = rgb { 4 42 64 }
+}
+NMB = {
+	color = rgb { 115 25 7 }
+	color_ui = rgb { 115 25 7 }
+}
+NGA = {
+	color = rgb { 6 92 5 }
+	color_ui = rgb { 6 92 5 }
+}
+MAD = {
+	color = rgb { 230 122 92 }
+	color_ui = rgb { 230 122 92 }
+}
