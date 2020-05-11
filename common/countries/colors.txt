@@ -1179,3 +1179,27 @@ MLI = {
 	color = rgb { 149 222 106 }
 	color_ui = rgb { 149 222 106 }
 }
+ALA = {
+	color = rgb { 136 200 219 }
+	color_ui = rgb { 136 200 219 }
+}
+LOU = {
+	color = rgb { 136 219 194 }
+	color_ui = rgb { 136 219 194 }
+}
+ACA = {
+	color = rgb { 136 139 219 }
+	color_ui = rgb { 136 139 219 }
+}
+QUE = {
+	color = rgb { 108 173 140 }
+	color_ui = rgb { 108 173 140 }
+}
+NEW = {
+	color = rgb { 222 106 160 }
+	color_ui = rgb { 222 106 160 }
+}
+VER = {
+	color = rgb { 62 201 118 }
+	color_ui = rgb { 62 201 118 }
+}
