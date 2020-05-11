@@ -1,14 +1,10 @@
+
 state={
 	id=752
 	name="STATE_752"
-	provinces={
-		1918 7988 8104 12724 12837 4999
-	}
-	manpower=300000
-	buildings_max_level_factor=1.000
-	state_category = pastoral
+
 	history={
-		owner = CHI
+		owner = TIB
 		add_core_of = CHI
 		add_core_of = PRC
 		victory_points = {
@@ -28,4 +24,11 @@ state={
 		}
 
 	}
+
+	provinces={
+		1918 1999 7988 8104 8126 12724 12789 12837
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

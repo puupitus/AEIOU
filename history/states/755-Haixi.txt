@@ -4,7 +4,7 @@ state={
 	name="STATE_755"
 
 	history={
-		owner = XSM
+		owner = TIB
 		add_core_of = XSM
 		add_core_of = CHI
 		add_core_of = PRC
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		2053 2099 7940 7997 8018 10750 10796 10834 10865 12846 12890 13146 
+		2053 2099 5076 5100 7940 7997 8018 10750 10796 10834 10865 12596 12846 12890 13146 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

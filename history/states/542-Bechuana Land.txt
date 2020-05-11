@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = SAF
+		owner = TRV
 		buildings = {
 			infrastructure = 1
 		}

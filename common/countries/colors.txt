@@ -1171,3 +1171,11 @@ AEI = {
 	color = rgb { 186 186 186 }
 	color_ui = rgb { 186 186 186 }
 }
+TRV = {
+	color = rgb { 219 120 26 }
+	color_ui = rgb { 219 120 26 }
+}
+MLI = {
+	color = rgb { 149 222 106 }
+	color_ui = rgb { 149 222 106 }
+}
