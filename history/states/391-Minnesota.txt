@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = LAK
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3

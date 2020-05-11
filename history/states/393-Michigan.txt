@@ -9,7 +9,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = FRA
+		owner = MID
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1

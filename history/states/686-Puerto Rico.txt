@@ -4,10 +4,10 @@ state={
 	name="STATE_686"
 
 	history={
-		add_core_of = PUE
-		owner = USA
+		add_core_of = SPW
+		owner = SPW
 		victory_points = {
-			1440 1 
+			1440 1
 		}
 		buildings = {
 			infrastructure = 4
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		1440 
+		1440
 	}
 	manpower=1543913
 	buildings_max_level_factor=1.000

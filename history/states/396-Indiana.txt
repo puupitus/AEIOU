@@ -6,7 +6,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = FRA
+		owner = MID
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 5

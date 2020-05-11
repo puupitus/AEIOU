@@ -4,7 +4,7 @@ state={
 	name="STATE_101"
 
 	history={
-		owner = DEN
+		owner = BRC
 		buildings = {
 			infrastructure = 1
 			12512 = {
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		10636 13058 13066 
+		10636 13058 13066
 	}
 	manpower=18000
 	buildings_max_level_factor=1.000

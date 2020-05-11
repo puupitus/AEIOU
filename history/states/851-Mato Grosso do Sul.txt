@@ -4,7 +4,7 @@ state={
 	name="STATE_851"
 
 	history={
-		owner = MGO
+		owner = BRA
 		add_core_of = MGO
 		buildings = {
 
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		2181 8189 10959 
+		2181 8189 10959
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

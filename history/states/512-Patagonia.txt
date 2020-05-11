@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = ARG
+		owner = PAT
 		buildings = {
 			infrastructure = 3
 			10953 = {
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		8176 10953 10981 11005 12306 12349 12952 12982 
+		8176 10953 10981 11005 12306 12349 12952 12982
 	}
 	manpower=226638
 	buildings_max_level_factor=1.000

@@ -98,8 +98,8 @@ BUL = {
 	color_ui = rgb { 210 147 217 }
 }
 POR = {
-	color = rgb { 92 174 219 }
-	color_ui = rgb { 92 174 219 }
+	color = rgb { 52 134 219 }
+	color_ui = rgb { 52 134 219 }
 }
 FIN = {
 	color = rgb { 205 212 228 }
@@ -1179,7 +1179,7 @@ MLI = {
 	color = rgb { 149 222 106 }
 	color_ui = rgb { 149 222 106 }
 }
-ALA = {
+ALK = {
 	color = rgb { 136 200 219 }
 	color_ui = rgb { 136 200 219 }
 }
@@ -1202,4 +1202,72 @@ NEW = {
 VER = {
 	color = rgb { 62 201 118 }
 	color_ui = rgb { 62 201 118 }
+}
+APP = {
+	color = rgb { 020 020 240 }
+	color_ui = rgb { 020 020 240 }
+}
+TEX = {
+	color = rgb { 040 040 220 }
+	color_ui = rgb { 040 040 220 }
+}
+KAN = {
+	color = rgb { 060 060 200 }
+	color_ui = rgb { 060 060 200 }
+}
+CDO = {
+	color = rgb { 080 080 180 }
+	color_ui = rgb { 080 080 180 }
+}
+MID = {
+	color = rgb { 100 100 160 }
+	color_ui = rgb { 100 100 160 }
+}
+DES = {
+	color = rgb { 120 120 140 }
+	color_ui = rgb { 120 120 140 }
+}
+NWE = {
+	color = rgb { 140 140 120 }
+	color_ui = rgb { 140 140 120 }
+}
+CAL = {
+	color = rgb { 160 160 100 }
+	color_ui = rgb { 160 160 100 }
+}
+BAJ = {
+	color = rgb { 180 180 080 }
+	color_ui = rgb { 180 180 080 }
+}
+LAK = {
+	color = rgb { 200 200 060 }
+	color_ui = rgb { 200 200 060 }
+}
+SON = {
+	color = rgb { 220 220 040 }
+	color_ui = rgb { 220 220 040 }
+}
+RGR = {
+	color = rgb { 240 240 020 }
+	color_ui = rgb { 240 240 020 }
+}
+YUC = {
+	color = rgb { 240 020 120 }
+	color_ui = rgb { 240 020 120 }
+}
+CPS = {
+	color = rgb { 220 040 140 }
+	color_ui = rgb { 220 040 140 }
+}
+ALT = {
+	color = rgb { 200 060 120 }
+	color_ui = rgb { 200 060 120 }
+}
+SPW = {
+	color = rgb { 180 080 100 }
+	color_ui = rgb { 180 080 100 }
+}
+PAT = {
+	color = rgb { 160 100 080 }
+	color_ui = rgb { 160 100 080 }
 }
