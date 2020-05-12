@@ -4,7 +4,7 @@ state={
 	name="STATE_822"
 
 	history={
-		owner = BUL
+		owner = MAC
 		add_core_of = MAC
 		buildings = {
 

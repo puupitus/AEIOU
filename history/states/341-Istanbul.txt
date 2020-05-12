@@ -9,7 +9,7 @@ state={
 
 	history={
 		add_claim_by = GRE
-		owner = BUL
+		owner = TUR
 		victory_points = {
 			9833 20
 		}

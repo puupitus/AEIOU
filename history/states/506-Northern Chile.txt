@@ -4,7 +4,7 @@ state={
 	name="STATE_506"
 
 	history={
-		owner = CHL
+		owner = BOL
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -21,13 +21,13 @@ state={
 		}
 		add_core_of = CHL
 		victory_points = {
-			12994 1 
+			12994 1
 		}
 
 	}
 
 	provinces={
-		5131 5146 8217 8231 12994 
+		5131 5146 8217 8231 12994
 	}
 	manpower=283605
 	buildings_max_level_factor=1.000

@@ -4,7 +4,7 @@ state={
 	name="STATE_827"
 
 	history={
-		owner = BRA
+		owner = BOL
 		add_core_of = GPO
 		buildings = {
 

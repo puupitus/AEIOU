@@ -3,7 +3,7 @@ state={
 	id=848
 	name="STATE_848"
 	history={
-		owner = BRA
+		owner = SGP
 		add_core_of = SGP
 		buildings = {
 

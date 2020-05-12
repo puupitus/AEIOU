@@ -4,12 +4,12 @@ state={
 	name="STATE_64"
 
 	history={
-		owner = PRE
+		owner = DDR
 		victory_points = {
-			6521 50 
+			6521 50
 		}
 		victory_points = {
-			3522 5 
+			3522 5
 		}
 		buildings = {
 			infrastructure = 8
@@ -34,7 +34,7 @@ state={
 	}
 
 	provinces={
-		375 425 478 3367 3499 3522 3561 6487 6521 6582 9375 9428 9456 9496 9560 11219 11359 11415 11444 11468 11505 
+		375 425 478 3367 3499 3522 3561 6487 6521 6582 9375 9428 9456 9496 9560 11219 11359 11415 11444 11468 11505
 	}
 	manpower=7265029
 	buildings_max_level_factor=1.000

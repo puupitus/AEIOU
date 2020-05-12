@@ -3,7 +3,7 @@ state={
 	id=797
 	name="STATE_797"
 	history={
-		owner = BRA
+		owner = PRU
 		add_core_of = ACR
 		buildings = {
 		}

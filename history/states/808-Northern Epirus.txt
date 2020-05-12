@@ -4,7 +4,7 @@ state={
 	name="STATE_808"
 
 	history={
-		owner = BUL
+		owner = TUR
 		add_core_of = GRE
 		buildings = {
 

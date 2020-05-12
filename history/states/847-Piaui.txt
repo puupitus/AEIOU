@@ -3,7 +3,7 @@ state={
 	id=847
 	name="STATE_847"
 	history={
-		owner = BRA
+		owner = PIA
 		add_core_of = PIA
 		buildings = {
 

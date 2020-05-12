@@ -1271,3 +1271,15 @@ PAT = {
 	color = rgb { 160 100 080 }
 	color_ui = rgb { 160 100 080 }
 }
+ENT = {
+	color = rgb { 140 080 060 }
+	color_ui = rgb { 140 080 060 }
+}
+THU = {
+	color = rgb { 190 050 070 }
+	color_ui = rgb { 190 050 070 }
+}
+KUR = {
+	color = rgb { 100 180 070 }
+	color_ui = rgb { 100 180 070 }
+}

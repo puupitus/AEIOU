@@ -2,7 +2,7 @@ state={
 	id=834
 	name="STATE_834"
 	history={
-		owner = BRA
+		owner = VEN
 		add_core_of = RBR
 		buildings = {
 

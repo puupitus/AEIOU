@@ -9,15 +9,15 @@ state={
 
 	history={
 		victory_points = {
-			10203 1 
+			10203 1
 		}
 		victory_points = {
-			3914 3 
+			3914 3
 		}
 		victory_points = {
-			1205 1 
+			1205 1
 		}
-		owner = GRE
+		owner = TUR
 		buildings = {
 			infrastructure = 4
 			air_base = 3
@@ -32,7 +32,7 @@ state={
 	}
 
 	provinces={
-		1106 1205 9916 11786 11895 12001 
+		1106 1205 9916 11786 11895 12001
 	}
 	manpower=760900
 	buildings_max_level_factor=1.000

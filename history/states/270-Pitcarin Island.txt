@@ -7,7 +7,7 @@ state=
 
 	history=
 	{
-		owner = HAW
+		owner = TAH
 		buildings = {
 			infrastructure = 1
 			1280 = {

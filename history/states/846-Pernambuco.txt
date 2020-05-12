@@ -4,7 +4,7 @@ state={
 	name="STATE_846"
 
 	history={
-		owner = BRA
+		owner = PEB
 		add_core_of = PEB
 		buildings = {
 

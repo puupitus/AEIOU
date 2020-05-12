@@ -13,7 +13,7 @@ state={
 
 
 	history={
-		owner = CDO
+		owner = RGR
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = LAK
+		owner = LOU
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
