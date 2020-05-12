@@ -1,18 +1,21 @@
+
 state={
 	id=918
 	name="STATE_918"
+
 	history={
-	  owner = USA
-	  buildings = {
+		owner = USA
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		9786
+		6892 9758 9786 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

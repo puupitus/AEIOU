@@ -2,7 +2,7 @@ state={
 	id=916
 	name="STATE_916"
 	history={
-	  owner = USB
+	  owner = COL
 	  buildings = {
 
 	  }
@@ -12,7 +12,7 @@ state={
 
 	}
 	provinces={
-		905
+		7991
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

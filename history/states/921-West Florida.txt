@@ -1,18 +1,21 @@
+
 state={
 	id=921
 	name="STATE_921"
+
 	history={
-	  owner = BRS
-	  buildings = {
+		owner = BRS
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		10520
+		492 860 1453 1615 4464 4650 4756 7480 7524 7640 7668 10352 10380 10449 10520 11942 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

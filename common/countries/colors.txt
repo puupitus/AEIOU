@@ -1305,8 +1305,8 @@ BRD = {
 	color_ui = rgb { 227 158 143 }
 }
 USB = {
-	color = rgb { 5 169 65 }
-	color_ui = rgb { 5 169 65 }
+	color = rgb { 175 45 55 }
+	color_ui = rgb { 175 45 55 }
 }
 HAW = {
 	color = rgb { 109 158 232 }

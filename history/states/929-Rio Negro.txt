@@ -1,18 +1,21 @@
+
 state={
 	id=929
 	name="STATE_929"
+
 	history={
-	  owner = BRA
-	  buildings = {
+		owner = BRA
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		5083
+		5083 12919 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

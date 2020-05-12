@@ -1,18 +1,21 @@
+
 state={
 	id=931
 	name="STATE_931"
+
 	history={
-	  owner = PRU
-	  buildings = {
+		owner = PRU
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		13086
+		2182 2210 13086 13175 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

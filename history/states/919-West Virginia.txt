@@ -1,18 +1,21 @@
+
 state={
 	id=919
 	name="STATE_919"
+
 	history={
-	  owner = APP
-	  buildings = {
+		owner = APP
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		3975
+		801 3941 3975 4627 6850 6958 6971 7466 7588 7646 9923 10441 11888 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

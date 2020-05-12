@@ -1,0 +1,22 @@
+
+state={
+	id=937
+	name="STATE_937"
+
+	history={
+		owner = LAK
+		buildings = {
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		1683 1747 1767 1815 1851 1875 3613 3750 3855 4610 4749 4794 4820 4839 6722 7745 7760 7771 7814 7840 7852 7877 10587 10711 12516 12566 12586 12651 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

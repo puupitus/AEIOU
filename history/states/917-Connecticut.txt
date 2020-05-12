@@ -1,18 +1,21 @@
+
 state={
 	id=917
 	name="STATE_917"
+
 	history={
-	  owner = USB
-	  buildings = {
+		owner = USB
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		9847
+		6909 9832 9847 9850 11830 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

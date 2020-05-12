@@ -1,18 +1,21 @@
+
 state={
 	id=928
 	name="STATE_928"
+
 	history={
-	  owner = COL
-	  buildings = {
+		owner = COL
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		12825
+		12770 12825 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
