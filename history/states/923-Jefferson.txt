@@ -2,7 +2,7 @@ state={
 	id=923
 	name="STATE_923"
 	history={
-	  owner = RGR
+	  owner = LOU
 	  buildings = {
 
 	  }

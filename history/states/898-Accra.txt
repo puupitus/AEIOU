@@ -2,7 +2,7 @@ state={
 	id=898
 	name="STATE_898"
 	history={
-	  owner = GHA
+	  owner = EAF
 	  buildings = {
 
 	  }

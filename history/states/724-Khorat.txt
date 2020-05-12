@@ -11,7 +11,7 @@ state={
 
 
 	history={
-		owner = GEM
+		owner = SIA
 		buildings = {
 			infrastructure = 3
 		}
