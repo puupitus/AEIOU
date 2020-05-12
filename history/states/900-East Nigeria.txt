@@ -1,0 +1,19 @@
+state={
+	id=900
+	name="STATE_900"
+	history={
+	  owner = NGA
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		1992
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=906
+	name="STATE_906"
+	history={
+	  owner = FRA
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		611
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

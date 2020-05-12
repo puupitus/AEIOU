@@ -1,0 +1,19 @@
+state={
+	id=926
+	name="STATE_926"
+	history={
+	  owner = ALT
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		10842
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

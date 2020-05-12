@@ -1,0 +1,19 @@
+state={
+	id=911
+	name="STATE_911"
+	history={
+	  owner = NAP
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		6979
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

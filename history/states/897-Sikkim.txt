@@ -1,0 +1,19 @@
+state={
+	id=897
+	name="STATE_897"
+	history={
+	  owner = RAJ
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		4435
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

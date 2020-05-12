@@ -1,0 +1,19 @@
+state={
+	id=898
+	name="STATE_898"
+	history={
+	  owner = GHA
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		10862
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

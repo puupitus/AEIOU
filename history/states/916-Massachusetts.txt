@@ -1,0 +1,19 @@
+state={
+	id=916
+	name="STATE_916"
+	history={
+	  owner = USB
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		905
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

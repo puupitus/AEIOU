@@ -1,0 +1,19 @@
+state={
+	id=893
+	name="STATE_893"
+	history={
+	  owner = DAI
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		4341
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

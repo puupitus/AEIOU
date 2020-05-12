@@ -1,0 +1,19 @@
+state={
+	id=920
+	name="STATE_920"
+	history={
+	  owner = LOU
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		7797
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

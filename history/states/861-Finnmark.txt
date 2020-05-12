@@ -1,0 +1,19 @@
+state={
+	id=861
+	name="STATE_861"
+	history={
+	  owner = NOR
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		2995
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

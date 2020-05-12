@@ -1,0 +1,19 @@
+state={
+	id=913
+	name="STATE_913"
+	history={
+	  owner = ACA
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		1619
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=869
+	name="STATE_869"
+	history={
+	  owner = GEN
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		6788
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

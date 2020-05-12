@@ -1,0 +1,19 @@
+state={
+	id=886
+	name="STATE_886"
+	history={
+	  owner = AEI
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		9938
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

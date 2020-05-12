@@ -1,0 +1,19 @@
+state={
+	id=895
+	name="STATE_895"
+	history={
+	  owner = BRM
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		7909
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

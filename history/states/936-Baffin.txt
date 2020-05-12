@@ -1,0 +1,19 @@
+state={
+	id=936
+	name="STATE_936"
+	history={
+	  owner = QUE
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		3691
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

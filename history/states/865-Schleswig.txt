@@ -1,0 +1,19 @@
+state={
+	id=865
+	name="STATE_865"
+	history={
+	  owner = SHL
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		11366
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

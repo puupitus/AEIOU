@@ -1,0 +1,19 @@
+state={
+	id=876
+	name="STATE_876"
+	history={
+	  owner = TUR
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		10203
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

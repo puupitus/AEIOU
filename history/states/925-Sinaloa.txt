@@ -1,0 +1,19 @@
+state={
+	id=925
+	name="STATE_925"
+	history={
+	  owner = MEX
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		1945
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

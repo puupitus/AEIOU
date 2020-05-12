@@ -1,0 +1,19 @@
+state={
+	id=882
+	name="STATE_882"
+	history={
+	  owner = HOB
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		12991
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

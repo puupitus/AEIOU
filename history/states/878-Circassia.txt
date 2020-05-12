@@ -1,0 +1,19 @@
+state={
+	id=878
+	name="STATE_878"
+	history={
+	  owner = CIR
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		717
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=880
+	name="STATE_880"
+	history={
+	  owner = ETH
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		1984
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

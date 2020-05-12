@@ -1,0 +1,19 @@
+state={
+	id=934
+	name="STATE_934"
+	history={
+	  owner = PAR
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		11007
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=864
+	name="STATE_864"
+	history={
+	  owner = LIT
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		3254
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=932
+	name="STATE_932"
+	history={
+	  owner = BOL
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		5131
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

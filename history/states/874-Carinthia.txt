@@ -1,0 +1,19 @@
+state={
+	id=874
+	name="STATE_874"
+	history={
+	  owner = AUS
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		11612
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

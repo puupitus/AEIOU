@@ -1,0 +1,19 @@
+state={
+	id=922
+	name="STATE_922"
+	history={
+	  owner = APP
+	  buildings = {
+
+	  }
+	  victory_points = {
+
+	  }
+
+	}
+	provinces={
+		8014
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
