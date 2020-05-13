@@ -1,3 +1,7 @@
+set_autonomy = {
+		target = MLT
+		autonomous_state = autonomy_dominion
+}
 
 
 

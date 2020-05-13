@@ -1,6 +1,19 @@
-
-
-
+set_autonomy = {
+		target = BRC
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = ICE
+		autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+		target = EAF
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = BAN
+		autonomous_state = autonomy_colony
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "FIN_1936_naval_mtg"

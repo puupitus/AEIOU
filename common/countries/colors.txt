@@ -59,8 +59,8 @@ SPR = {
 	color_ui = rgb { 255 255 122 }
 }
 PAP = {
-	color = rgb { 11 46 4 }
-	color_ui = rgb { 11 46 4 }
+	color = rgb { 39 101 36 }
+	color_ui = rgb { 39 101 36 }
 }
 MOL = {
 	color = rgb { 22 197 217 }
@@ -1041,8 +1041,8 @@ HES = {
 	color_ui = rgb { 222 147 133 }
 }
 ITA = {
-	color = rgb { 219 210 208 }
-	color_ui = rgb { 219 210 208 }
+	color = rgb { 229 150 148 }
+	color_ui = rgb { 229 150 148 }
 }
 MOD = {
 	color = rgb { 106 163 184 }

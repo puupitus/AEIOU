@@ -1,3 +1,12 @@
+set_autonomy = {
+		target = GRE
+		autonomous_state = autonomy_puppet
+}
+
+set_autonomy = {
+		target = JAB
+		autonomous_state = autonomy_puppet
+}
 
 
 

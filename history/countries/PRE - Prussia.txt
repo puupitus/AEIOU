@@ -1,6 +1,27 @@
-
-
-
+set_autonomy = {
+		target = POL
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = LIT
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = COU
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = PNG
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = SOL
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = SAM
+		autonomous_state = autonomy_colony
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "FIN_1936_naval_mtg"

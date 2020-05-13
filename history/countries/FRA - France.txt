@@ -1,5 +1,95 @@
-
-
+set_autonomy = {
+		target = WPH
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = QUE
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = ACA
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = LOU
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = MEX
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = CAY
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = LEB
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = ALG
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = DAH
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = MLI
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = SOM
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = GNA
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = TOG
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = MRT
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = NGR
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = TUN
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = VOL
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = TAH
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = DAI
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = CAM
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = LAO
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = MAD
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = IVO
+		autonomous_state = autonomy_colony
+}
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

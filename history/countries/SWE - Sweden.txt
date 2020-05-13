@@ -1,6 +1,19 @@
-
-
-
+set_autonomy = {
+		target = LAT
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = EST
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = ING
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = FIN
+		autonomous_state = autonomy_puppet
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "FIN_1936_naval_mtg"
