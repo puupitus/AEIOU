@@ -284,8 +284,8 @@ DOM = {
 	color_ui = rgb { 198 169 248 }
 }
 HAI = {
-	color = rgb { 174 113 113 }
-	color_ui = rgb { 174 113 113 }
+	color = rgb { 94 73 173 }
+	color_ui = rgb { 94 73 173 }
 }
 YEM = {
 	color = rgb { 135 81 87 }
@@ -394,9 +394,9 @@ LAO = {
 	color_ui = rgb { 176  102  136 }
 }
 
-INS = {
-	color = rgb { 40  50  120 }
-	color_ui = rgb { 40  50  120 }
+DEI = {
+	color = rgb { 40 50 120 }
+	color_ui = rgb { 40 50 120 }
 }
 
 DAI = {
@@ -1315,4 +1315,8 @@ HAW = {
 LUS = {
 	color = rgb { 19 152 214 }
 	color_ui = rgb { 19 152 214 }
+}
+INS = {
+	color = rgb { 219 152 214 }
+	color_ui = rgb { 219 152 214 }
 }

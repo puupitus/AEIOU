@@ -1,31 +1,6 @@
-set_autonomy = {
-		target = DEI
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = SRL
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = SUR
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = NGA
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = GHA
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = SEN
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = CRC
-		autonomous_state = autonomy_colony
-}
+
+
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "FIN_1936_naval_mtg"
