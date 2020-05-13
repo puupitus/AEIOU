@@ -1,18 +1,21 @@
+
 state={
 	id=898
 	name="STATE_898"
+
 	history={
-	  owner = EAF
-	  buildings = {
+		owner = EAF
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		10862
+		8039 10862 12785 13136 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

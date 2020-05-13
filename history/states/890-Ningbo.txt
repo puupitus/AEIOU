@@ -1,18 +1,21 @@
+
 state={
 	id=890
 	name="STATE_890"
+
 	history={
-	  owner = AEI
-	  buildings = {
+		owner = AEI
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		9974
+		7058 9974 10058 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

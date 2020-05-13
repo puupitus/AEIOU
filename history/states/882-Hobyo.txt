@@ -1,18 +1,21 @@
+
 state={
 	id=882
 	name="STATE_882"
+
 	history={
-	  owner = HOB
-	  buildings = {
+		owner = HOB
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		12991
+		1964 2020 5065 12840 12991 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

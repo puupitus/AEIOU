@@ -1,18 +1,21 @@
+
 state={
 	id=869
 	name="STATE_869"
+
 	history={
-	  owner = ITA
-	  buildings = {
+		owner = ITA
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		6788
+		3772 6788 11891 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

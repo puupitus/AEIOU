@@ -6,7 +6,7 @@ state={
 	history={
 		owner = PAP
 		victory_points = {
-			925 1
+			925 1 
 		}
 		buildings = {
 			infrastructure = 6
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		925 963 967 3910 3923 6831 6926 9838 11790 11861
+		925 963 3910 6831 
 	}
 	manpower=2979335
 	buildings_max_level_factor=1.000

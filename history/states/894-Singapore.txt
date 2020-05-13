@@ -1,18 +1,21 @@
+
 state={
 	id=894
 	name="STATE_894"
+
 	history={
-	  owner = GEM
-	  buildings = {
+		owner = GEM
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		12299
+		4367 4412 4424 7427 10313 12113 12271 12299 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

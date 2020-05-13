@@ -1,18 +1,21 @@
+
 state={
 	id=881
 	name="STATE_881"
+
 	history={
-	  owner = MAJ
-	  buildings = {
+		owner = MAJ
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		1966
+		1966 4909 10818 10891 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

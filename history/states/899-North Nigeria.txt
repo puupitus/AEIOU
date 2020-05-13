@@ -1,18 +1,21 @@
+
 state={
 	id=899
 	name="STATE_899"
+
 	history={
-	  owner = NGA
-	  buildings = {
+		owner = NGA
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		8021
+		1891 1932 1969 2025 4938 4972 4997 5028 8021 8109 10820 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

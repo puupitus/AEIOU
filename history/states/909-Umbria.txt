@@ -1,18 +1,21 @@
+
 state={
 	id=909
 	name="STATE_909"
+
 	history={
-	  owner = PAP
-	  buildings = {
+		owner = PAP
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		9794
+		6926 9794 11790 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

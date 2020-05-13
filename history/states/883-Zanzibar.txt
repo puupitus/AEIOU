@@ -1,18 +1,21 @@
+
 state={
 	id=883
 	name="STATE_883"
+
 	history={
-	  owner = ZAN
-	  buildings = {
+		owner = ZAN
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		2196
+		2196 8182 8183 12944 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

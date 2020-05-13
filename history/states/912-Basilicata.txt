@@ -1,18 +1,21 @@
+
 state={
 	id=912
 	name="STATE_912"
+
 	history={
-	  owner = NAP
-	  buildings = {
+		owner = NAP
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		6972
+		3958 3968 6972 9856 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

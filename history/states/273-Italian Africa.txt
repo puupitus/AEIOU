@@ -4,7 +4,7 @@ state={
 	name="STATE_273"
 
 	history={
-		owner = LBA
+		owner = SEO
 		buildings = {
 			infrastructure = 0
 
@@ -14,7 +14,7 @@ state={
 	}
 
 	provinces={
-		1057 1060 1140 1994 4191 4962 7985 10104 10754 10785 10884 11951 12022 12082 12866 
+		1057 1060 1140 1994 4191 7985 10104 10754 10785 11951
 	}
 	manpower=42633
 	buildings_max_level_factor=1.000

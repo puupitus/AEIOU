@@ -1,18 +1,21 @@
+
 state={
 	id=901
 	name="STATE_901"
+
 	history={
-	  owner = LBA
-	  buildings = {
+		owner = LBA
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		5004
+		4962 5004 10884 12022 12082 12866 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

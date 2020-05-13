@@ -1,18 +1,21 @@
+
 state={
 	id=916
 	name="STATE_916"
+
 	history={
-	  owner = COL
-	  buildings = {
+		owner = COL
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		7991
+		2007 2079 7936 7991 10846 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

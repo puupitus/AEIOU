@@ -1,9 +1,7 @@
+
 state={
 	id=728
 	name="STATE_728"
-	manpower = 200000
-
-	state_category = enclave
 
 	history={
 		owner = FRA
@@ -13,11 +11,17 @@ state={
 			infrastructure = 3
 			11981 = {
 				naval_base = 1
+
 			}
+
 		}
+
 	}
 
 	provinces={
-		11981
+		7039 10105 11981 
 	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=enclave
 }

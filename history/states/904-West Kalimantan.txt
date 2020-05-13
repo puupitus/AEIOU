@@ -1,18 +1,21 @@
+
 state={
 	id=904
 	name="STATE_904"
+
 	history={
-	  owner = INS
-	  buildings = {
+		owner = INS
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		1316
+		1230 1304 1316 2170 2222 4279 4335 4409 7424 10282 12129 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -1,18 +1,21 @@
+
 state={
 	id=935
 	name="STATE_935"
+
 	history={
-	  owner = BOL
-	  buildings = {
+		owner = BOL
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		10982
+		10982 12973 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

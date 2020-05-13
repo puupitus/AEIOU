@@ -1,18 +1,21 @@
+
 state={
 	id=902
 	name="STATE_902"
+
 	history={
-	  owner = ACE
-	  buildings = {
+		owner = ACE
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		7658
+		7658 10509 12488 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
