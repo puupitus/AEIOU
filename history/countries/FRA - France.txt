@@ -90,6 +90,10 @@ set_autonomy = {
 		target = IVO
 		autonomous_state = autonomy_colony
 }
+set_autonomy = {
+		target = GDL
+		autonomous_state = autonomy_colony
+}
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

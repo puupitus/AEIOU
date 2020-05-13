@@ -1,11 +1,10 @@
 
 state={
-	id=838
-	name="STATE_838"
+	id=938
+	name="STATE_938"
 
 	history={
 		owner = TUR
-		add_core_of = BUL
 		buildings = {
 
 		}
@@ -16,7 +15,7 @@ state={
 	}
 
 	provinces={
-		878 893 6814 6923 6952 6967 6982 9862 9888 9902 9919 
+		3937 6857 9818 11813
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
