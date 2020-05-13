@@ -71,8 +71,8 @@ SER = {
 	color_ui = rgb { 94 95 164 }
 }
 FRA = {
-	color = rgb { 20 81 179 }
-	color_ui = rgb { 20 81 179 }
+	color = rgb { 5 61 169 }
+	color_ui = rgb { 5 61 169 }
 }
 OTT = {
 	color = rgb { 171 190 152 }

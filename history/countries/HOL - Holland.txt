@@ -11,7 +11,7 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = NIG
+		target = NGA
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {

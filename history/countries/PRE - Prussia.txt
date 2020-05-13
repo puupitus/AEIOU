@@ -22,6 +22,10 @@ set_autonomy = {
 		target = SAM
 		autonomous_state = autonomy_colony
 }
+set_autonomy = {
+		target = NMB
+		autonomous_state = autonomy_colony
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "FIN_1936_naval_mtg"
