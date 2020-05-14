@@ -2,6 +2,7 @@
 state={
 	id=847
 	name="STATE_847"
+
 	history={
 		owner = PIA
 		add_core_of = PIA
@@ -13,8 +14,9 @@ state={
 		}
 
 	}
+
 	provinces={
-		2228 5153 5204 10984
+		2228 5153 5204 10984 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -1,18 +1,21 @@
+
 state={
 	id=866
 	name="STATE_866"
+
 	history={
-	  owner = WAL
-	  buildings = {
+		owner = WAL
+		buildings = {
 
-	  }
-	  victory_points = {
+		}
+		victory_points = {
 
-	  }
+		}
 
 	}
+
 	provinces={
-		3488
+		3488 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
