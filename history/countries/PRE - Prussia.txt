@@ -26,6 +26,30 @@ set_autonomy = {
 		target = NMB
 		autonomous_state = autonomy_colony
 }
+POL = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+LIT = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+COU = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "FIN_1936_naval_mtg"

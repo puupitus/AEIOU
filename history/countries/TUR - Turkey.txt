@@ -7,8 +7,34 @@ set_autonomy = {
 		target = JAB
 		autonomous_state = autonomy_puppet
 }
-
-
+set_autonomy = {
+		target = ACE
+		autonomous_state = autonomy_puppet
+}
+GRE = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+JAB = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+ACE = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

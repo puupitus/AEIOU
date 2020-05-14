@@ -1,5 +1,5 @@
 
-
+set_cosmetic_tag = CAN_commonwealth
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

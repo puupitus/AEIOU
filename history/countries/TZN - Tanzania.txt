@@ -1,5 +1,5 @@
 
-
+set_cosmetic_tag = TZN_eaf
 
 if = {
 	limit = { has_dlc = "Man the Guns" }
