@@ -1,5 +1,10 @@
+create_faction = "Entente"
 set_autonomy = {
 		target = WPH
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = SAR
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {

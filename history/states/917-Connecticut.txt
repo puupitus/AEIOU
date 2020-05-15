@@ -4,7 +4,7 @@ state={
 	name="STATE_917"
 
 	history={
-		owner = USB
+		owner = USA
 		buildings = {
 
 		}
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		6909 9832 9847 9850 11830 
+		6909 9832 9847 9850 11830
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

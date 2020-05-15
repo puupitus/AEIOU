@@ -1,3 +1,5 @@
+create_faction = "Vienna Convention"
+
 set_autonomy = {
 		target = LOM
 		autonomous_state = autonomy_integrated_puppet
@@ -55,10 +57,6 @@ set_autonomy = {
 		autonomous_state = autonomy_integrated_puppet
 }
 set_autonomy = {
-		target = GAL
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
 		target = BAY
 		autonomous_state = autonomy_integrated_puppet
 }
@@ -98,6 +96,39 @@ set_autonomy = {
 		target = SCO
 		autonomous_state = autonomy_dominion
 }
+set_autonomy = {
+		target = POL
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = LIT
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = COU
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = UKR
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = PNG
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = SOL
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = SAM
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = NMB
+		autonomous_state = autonomy_colony
+}
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "FIN_1936_naval_mtg"

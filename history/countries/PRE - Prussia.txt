@@ -1,55 +1,5 @@
-set_autonomy = {
-		target = POL
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = LIT
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = COU
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = PNG
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = SOL
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = SAM
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = NMB
-		autonomous_state = autonomy_colony
-}
-POL = {
-	set_politics = {
-		ruling_party = neutrality
-	}
-	set_popularities = {
-		neutrality = 100
-	}
-}
-LIT = {
-	set_politics = {
-		ruling_party = neutrality
-	}
-	set_popularities = {
-		neutrality = 100
-	}
-}
-COU = {
-	set_politics = {
-		ruling_party = neutrality
-	}
-	set_popularities = {
-		neutrality = 100
-	}
-}
+
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "FIN_1936_naval_mtg"
@@ -91,7 +41,7 @@ set_convoys = 5
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = communism
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = yes

@@ -4,7 +4,7 @@ state={
 	name="STATE_915"
 
 	history={
-		owner = USB
+		owner = ACA
 		buildings = {
 
 		}
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		733 3712 3715 10481 
+		733 3712 3715 10481
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

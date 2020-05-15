@@ -1,3 +1,5 @@
+create_faction = "Hague Treaty"
+set_cosmetic_tag = HOL_united
 set_autonomy = {
 		target = DEI
 		autonomous_state = autonomy_colony
@@ -71,7 +73,7 @@ set_convoys = 5
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = yes

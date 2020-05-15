@@ -1,4 +1,4 @@
-
+create_faction = "Labour and Socialist International"
 
 
 if = {

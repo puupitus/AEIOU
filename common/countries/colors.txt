@@ -13,8 +13,8 @@ GEO = {
 	color_ui = rgb { 163 17 31 }
 }
 SWE = {
-	color = rgb { 224 224 31 }
-	color_ui = rgb { 224 224 31 }
+	color = rgb { 40 85 222 }
+	color_ui = rgb { 40 85 222 }
 }
 BUR = {
 	color = rgb { 180 180 200 }
@@ -39,8 +39,8 @@ POL = {
 	color_ui = rgb { 255 120 138 }
 }
 AUS = {
-	color = rgb { 194 198 215 }
-	color_ui = rgb { 255 255 255 }
+	color = rgb { 180 180 180 }
+	color_ui = rgb { 180 180 180 }
 }
 LIT = {
 	color = rgb { 219 219 119 }
@@ -55,8 +55,8 @@ LAT = {
 	color_ui = rgb { 124 125 184 }
 }
 SPR = {
-	color = rgb { 242 205 94 }
-	color_ui = rgb { 255 255 122 }
+	color = rgb { 227 223 2 }
+	color_ui = rgb { 227 223 2 }
 }
 PAP = {
 	color = rgb { 39 101 36 }
@@ -99,8 +99,8 @@ BUL = {
 	color_ui = rgb { 210 147 217 }
 }
 POR = {
-	color = rgb { 52 134 219 }
-	color_ui = rgb { 52 134 219 }
+	color = rgb { 32 124 29 }
+	color_ui = rgb { 32 124 29 }
 }
 FIN = {
 	color = rgb { 205 212 228 }
@@ -420,8 +420,8 @@ MNT = {
 }
 
 BLR = {
-	color = rgb { 230 217 213 }
-	color_ui = rgb { 230 217 213 }
+	color = rgb { 220 177 173 }
+	color_ui = rgb { 220 177 173 }
 }
 MAN = {
 	color = rgb { 207 194 19 }
@@ -685,8 +685,8 @@ MEK = {
 	color_ui = rgb { 186 245 86 }
 }
 PRE = {
-	color = rgb { 85 85 85 }
-	color_ui = rgb { 85 85 85 }
+	color = rgb { 115 115 115 }
+	color_ui = rgb { 115 115 115 }
 }
 SAX = {
 	color = rgb { 49 173 71 }
@@ -1217,8 +1217,8 @@ KAN = {
 	color_ui = rgb { 060 060 200 }
 }
 CDO = {
-	color = rgb { 080 080 180 }
-	color_ui = rgb { 080 080 180 }
+	color = rgb { 219 139 0 }
+	color_ui = rgb { 219 139 0 }
 }
 MID = {
 	color = rgb { 100 100 160 }

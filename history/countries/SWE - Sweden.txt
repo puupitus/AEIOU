@@ -12,7 +12,39 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = FIN
-		autonomous_state = autonomy_puppet
+		autonomous_state = autonomy_dominion
+}
+FIN = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+LAT = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+EST = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+ING = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
 }
 if = {
 	limit = { has_dlc = "Man the Guns" }
