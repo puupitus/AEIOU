@@ -1,4 +1,4 @@
-
+set_cosmetic_tag = ALG_mag
 
 
 if = {

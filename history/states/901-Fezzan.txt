@@ -4,7 +4,7 @@ state={
 	name="STATE_901"
 
 	history={
-		owner = LBA
+		owner = ALG
 		buildings = {
 
 		}
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		4962 5004 10884 12022 12082 12866 
+		4962 5004 10884 12022 12082 12866
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

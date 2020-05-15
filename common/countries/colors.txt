@@ -1320,3 +1320,7 @@ INS = {
 	color = rgb { 219 152 214 }
 	color_ui = rgb { 219 152 214 }
 }
+GYA = {
+	color = rgb { 171 171 14 }
+	color_ui = rgb { 171 171 14 }
+}
