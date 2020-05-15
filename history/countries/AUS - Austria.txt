@@ -93,19 +93,11 @@ set_autonomy = {
 		autonomous_state = autonomy_dominion
 }
 set_autonomy = {
-		target = SCO
-		autonomous_state = autonomy_dominion
-}
-set_autonomy = {
 		target = POL
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = LIT
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = COU
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {

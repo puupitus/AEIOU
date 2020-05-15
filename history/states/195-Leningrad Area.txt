@@ -4,7 +4,7 @@ state={
 	name="STATE_195"
 
 	history={
-		owner = ING
+		owner = MOS
 		victory_points = {
 			3151 30.0 
 		}
