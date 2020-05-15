@@ -99,8 +99,8 @@ BUL = {
 	color_ui = rgb { 210 147 217 }
 }
 POR = {
-	color = rgb { 32 124 29 }
-	color_ui = rgb { 32 124 29 }
+	color = rgb { 9 180 227 }
+	color_ui = rgb { 9 180 227 }
 }
 FIN = {
 	color = rgb { 205 212 228 }
