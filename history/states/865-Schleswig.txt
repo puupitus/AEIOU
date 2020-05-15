@@ -6,7 +6,7 @@ state={
 	history={
 		owner = SHL
 		buildings = {
-
+			infrastructure = 6
 		}
 		victory_points = {
 
@@ -15,8 +15,9 @@ state={
 	}
 
 	provinces={
-		317 11366 
+		317 11366
 	}
-	manpower=0
+	manpower=1500000
 	buildings_max_level_factor=1.000
+	state_category=city
 }

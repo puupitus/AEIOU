@@ -3,8 +3,8 @@ state={
 	id=144
 	name="STATE_144"
 	resources={
-		steel=9.000
-		tungsten=15.000
+		steel=8.000
+		tungsten=12.000
 	}
 
 	history={
@@ -27,22 +27,22 @@ state={
 
 		}
 		victory_points = {
-			192 1 
+			192 1
 		}
 		victory_points = {
-			9116 1 
+			9116 1
 		}
 		victory_points = {
-			11050 1 
+			11050 1
 		}
 		add_core_of = NOR
 
 	}
 
 	provinces={
-		38 44 91 173 192 3034 3048 3058 3082 3088 3126 3132 3145 6071 6111 6130 6187 6214 9126 9208 11050 11090 11157 
+		38 44 91 173 192 3034 3048 3058 3082 3088 3126 3132 3145 6071 6111 6130 6187 6214 9126 9208 11050 11090 11157
 	}
-	manpower=355251
+	manpower=205251
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

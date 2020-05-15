@@ -6,7 +6,7 @@ state={
 		owner = BUL
 		add_core_of = BUL
 		buildings = {
-
+			infrastructure = 6
 		}
 		victory_points = {
 
@@ -16,6 +16,7 @@ state={
 	provinces={
 		657 687 3076 9635
 	}
-	manpower=0
+	manpower=1000000
 	buildings_max_level_factor=1.000
+	state_category=town
 }

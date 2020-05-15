@@ -25,15 +25,15 @@ state={
 		}
 		add_core_of = GUA
 		victory_points = {
-			10886 3 
+			10886 3
 		}
 
 	}
 
 	provinces={
-		4991 10886 13085 
+		4991 10886 13085
 	}
-	manpower=1771000
+	manpower=2071000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

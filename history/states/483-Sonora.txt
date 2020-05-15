@@ -7,6 +7,7 @@ state={
 		owner = SON
 		buildings = {
 			infrastructure = 3
+			industrial_complex = 1
 			4908 = {
 				naval_base = 3
 
@@ -15,15 +16,15 @@ state={
 		}
 		add_core_of = MEX
 		victory_points = {
-			10765 5 
+			10765 5
 		}
 
 	}
 
 	provinces={
-		2069 3834 4908 4977 5071 7920 8012 8033 10765 10783 10848 12833 13214 
+		2069 3834 4908 4977 5071 7920 8012 8033 10765 10783 10848 12833 13214
 	}
-	manpower=303987
+	manpower=603987
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

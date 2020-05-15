@@ -9,7 +9,7 @@ state={
 	history={
 		owner = MYS
 		victory_points = {
-			8011 1 
+			8011 1
 		}
 		buildings = {
 			infrastructure = 4
@@ -20,9 +20,9 @@ state={
 	}
 
 	provinces={
-		1412 5032 7395 8011 8100 10208 10897 12146 12734 
+		1412 5032 7395 8011 8100 10208 10897 12146 12734
 	}
-	manpower=12348200
+	manpower=17348200
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

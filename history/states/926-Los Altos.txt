@@ -4,7 +4,9 @@ state={
 	history={
 	  owner = ALT
 	  buildings = {
-
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
 	  }
 	  victory_points = {
 
@@ -14,6 +16,7 @@ state={
 	provinces={
 		10842
 	}
-	manpower=0
+	manpower=750000
 	buildings_max_level_factor=1.000
+	state_category=town
 }

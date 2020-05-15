@@ -6,7 +6,7 @@ state={
 	history={
 		owner = MAJ
 		buildings = {
-
+			infrastructure = 3
 		}
 		victory_points = {
 
@@ -15,8 +15,9 @@ state={
 	}
 
 	provinces={
-		1966 4909 10818 10891 
+		1966 4909 10818 10891
 	}
-	manpower=0
+	manpower=700000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

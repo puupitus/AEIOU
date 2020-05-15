@@ -6,10 +6,10 @@ state={
 	history={
 		owner = BUL
 		victory_points = {
-			9783 5 
+			9783 5
 		}
 		victory_points = {
-			9902 3 
+			9902 3
 		}
 		buildings = {
 			infrastructure = 4
@@ -29,9 +29,9 @@ state={
 	}
 
 	provinces={
-		649 9612 9769 9783 
+		649 9612 9769 9783
 	}
-	manpower=1575499
+	manpower=2075499
 	buildings_max_level_factor=1.000
 	state_category=town
 }

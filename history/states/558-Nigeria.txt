@@ -20,15 +20,15 @@ state={
 
 		}
 		victory_points = {
-			2050 1 
+			2050 1
 		}
 
 	}
 
 	provinces={
-		2050 4952 12731 12817 12900 
+		2050 4952 12731 12817 12900
 	}
-	manpower=19757000
+	manpower=9757000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

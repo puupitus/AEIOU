@@ -2,11 +2,17 @@
 state={
 	id=894
 	name="STATE_894"
-
+	resources={
+		rubber=142.000
+		steel=10.000
+		tungsten=89.000
+		aluminium=5.000
+	}
 	history={
 		owner = GEM
 		buildings = {
-
+			infrastructure = 3
+			industrial_complex = 1
 		}
 		victory_points = {
 
@@ -15,8 +21,9 @@ state={
 	}
 
 	provinces={
-		4367 4412 4424 7427 10313 12113 12271 12299 
+		4367 4412 4424 7427 10313 12113 12271 12299
 	}
-	manpower=0
+	manpower=2000000
 	buildings_max_level_factor=1.000
+	state_category=large_town
 }

@@ -2,9 +2,9 @@
 state={
 	id=444
 	name="STATE_444" # Baluchistan
-	manpower = 463500
+	manpower = 2463500
 
-	state_category = wasteland
+	state_category = rural
 
 	history={
 		victory_points = {
@@ -13,6 +13,8 @@ state={
 		owner = BAL
 		buildings = {
 			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
 		}
 		add_core_of = PAK
 	}

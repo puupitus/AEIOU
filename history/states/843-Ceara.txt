@@ -7,7 +7,8 @@ state={
 		owner = CEA
 		add_core_of = CEA
 		buildings = {
-
+			infrastructure = 3
+			industrial_complex = 1
 		}
 		victory_points = {
 
@@ -16,8 +17,9 @@ state={
 	}
 
 	provinces={
-		2132 2164 2178 5107 8179 
+		2132 2164 2178 5107 8179
 	}
-	manpower=0
+	manpower=1000000
 	buildings_max_level_factor=1.000
+	state_category=town
 }

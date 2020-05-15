@@ -6,7 +6,9 @@ state={
 	history={
 		owner = VER
 		buildings = {
-
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 2
 		}
 		victory_points = {
 
@@ -15,8 +17,9 @@ state={
 	}
 
 	provinces={
-		4445 7629 9675 13158 
+		4445 7629 9675 13158
 	}
-	manpower=0
+	manpower=2000000
 	buildings_max_level_factor=1.000
+	state_category=city
 }

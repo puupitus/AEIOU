@@ -7,7 +7,7 @@ state={
 		owner = FIN
 		add_core_of = FIN
 		buildings = {
-
+			infrastructure = 2
 		}
 		victory_points = {
 
@@ -18,6 +18,7 @@ state={
 	provinces={
 		124 3055 3193 11115 11125 11130
 	}
-	manpower=0
+	manpower=60000
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

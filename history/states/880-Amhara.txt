@@ -6,7 +6,7 @@ state={
 	history={
 		owner = ETH
 		buildings = {
-
+			infrastructure = 3
 		}
 		victory_points = {
 
@@ -15,8 +15,9 @@ state={
 	}
 
 	provinces={
-		1984 2040 2072 4954 13137 
+		1984 2040 2072 4954 13137
 	}
-	manpower=0
+	manpower=3000000
 	buildings_max_level_factor=1.000
+	state_category=town
 }

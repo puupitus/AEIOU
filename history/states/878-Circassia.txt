@@ -2,11 +2,17 @@
 state={
 	id=878
 	name="STATE_878"
-
+	resources={
+		tungsten=17.000
+		oil=12.000
+	}
 	history={
 		owner = CIR
 		buildings = {
-
+			infrastructure = 5
+			industrial_complex = 1
+			dockyard = 1
+			arms_factory = 1
 		}
 		victory_points = {
 
@@ -15,8 +21,9 @@ state={
 	}
 
 	provinces={
-		717 719 735 3698 3717 3720 3760 6721 6736 6738 9663 9694 9696 11668 11681 
+		717 719 735 3698 3717 3720 3760 6721 6736 6738 9663 9694 9696 11668 11681
 	}
-	manpower=0
+	manpower=1400000
 	buildings_max_level_factor=1.000
+	state_category=large_town
 }

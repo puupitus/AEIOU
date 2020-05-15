@@ -7,7 +7,7 @@ state={
 		owner = WPH
 		add_core_of = GEM
 		buildings = {
-
+			infrastructure = 8
 		}
 		victory_points = {
 
@@ -16,8 +16,9 @@ state={
 	}
 
 	provinces={
-		11531 
+		11531
 	}
-	manpower=0
+	manpower=500000
 	buildings_max_level_factor=1.000
+	state_category=town
 }

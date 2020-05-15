@@ -3,16 +3,16 @@ state={
 	id=51
 	name="STATE_51"
 	resources={
-		steel=30.000
+		steel=10.000
 	}
 
 	history={
 		owner = WPH
 		victory_points = {
-			6469 10 
+			6469 10
 		}
 		victory_points = {
-			587 5 
+			587 5
 		}
 		buildings = {
 			infrastructure = 8
@@ -38,9 +38,9 @@ state={
 	}
 
 	provinces={
-		587 3423 3444 3547 9522 9575 11435 11470 11494 
+		587 3423 3444 3547 9522 9575 11435 11470 11494
 	}
-	manpower=6144743
+	manpower=3744743
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=large_city
 }

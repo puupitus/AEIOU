@@ -7,7 +7,7 @@ state={
 		owner = BUL
 		add_core_of = SER
 		buildings = {
-
+			infrastructure = 4
 		}
 		victory_points = {
 
@@ -16,8 +16,9 @@ state={
 	}
 
 	provinces={
-		11857 11868 11887 
+		11857 11868 11887
 	}
-	manpower=0
+	manpower=300000
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

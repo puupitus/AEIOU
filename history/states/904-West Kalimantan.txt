@@ -6,7 +6,7 @@ state={
 	history={
 		owner = DEI
 		buildings = {
-
+			infrastructure = 2
 		}
 		victory_points = {
 
@@ -15,8 +15,9 @@ state={
 	}
 
 	provinces={
-		1230 1304 1316 2170 2222 4279 4335 4409 7424 10282 12129 
+		1230 1304 1316 2170 2222 4279 4335 4409 7424 10282 12129
 	}
-	manpower=0
+	manpower=700000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

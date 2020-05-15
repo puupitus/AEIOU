@@ -5,7 +5,7 @@ state={
 		owner = DEN
 		add_core_of = DEN
 		buildings = {
-
+			infrastructure = 2
 		}
 		victory_points = {
 
@@ -15,6 +15,7 @@ state={
 	provinces={
 		6361
 	}
-	manpower=0
+	manpower=20000
 	buildings_max_level_factor=1.000
+	state_category=tiny_island
 }

@@ -6,7 +6,7 @@ state={
 	history={
 		owner = PAT
 		buildings = {
-
+			infrastructure = 1
 		}
 		victory_points = {
 
@@ -15,8 +15,9 @@ state={
 	}
 
 	provinces={
-		2169 5173 5201 5209 5215 8161 8913 11009 12946 
+		2169 5173 5201 5209 5215 8161 8913 11009 12946
 	}
-	manpower=0
+	manpower=70000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -2,11 +2,14 @@
 state={
 	id=861
 	name="STATE_861"
-
+	resources={
+		steel=5.000
+		tungsten=7.000
+	}
 	history={
 		owner = NOR
 		buildings = {
-
+		infrastructure = 3
 		}
 		victory_points = {
 
@@ -15,8 +18,9 @@ state={
 	}
 
 	provinces={
-		22 64 76 128 2995 3016 3040 6015 6079 6092 6107 9042 9064 9089 9116 9128 9191 11034 11063 11077 11104 11169 
+		22 64 76 128 2995 3016 3040 6015 6079 6092 6107 9042 9064 9089 9116 9128 9191 11034 11063 11077 11104 11169
 	}
-	manpower=0
+	manpower=150000
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

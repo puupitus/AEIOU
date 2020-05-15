@@ -17,9 +17,9 @@ state={
 	}
 
 	provinces={
-		984 3924 3943 3974 11901 
+		984 3924 3943 3974 11901
 	}
-	manpower=18000
+	manpower=1218000
 	buildings_max_level_factor=1.000
-	state_category=enclave
+	state_category=town
 }

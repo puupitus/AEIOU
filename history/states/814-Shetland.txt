@@ -5,6 +5,7 @@ state={
 		owner = SCO
 		add_core_of = SCO
 		buildings = {
+			infrastructure = 2
 		}
 		victory_points = {
 		}
@@ -12,6 +13,7 @@ state={
 	provinces={
 		6196
 	}
-	manpower=0
+	manpower=55000
 	buildings_max_level_factor=1.000
+	state_category=tiny_island
 }

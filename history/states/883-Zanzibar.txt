@@ -6,7 +6,7 @@ state={
 	history={
 		owner = ZAN
 		buildings = {
-
+			infrastructure = 3
 		}
 		victory_points = {
 
@@ -15,8 +15,9 @@ state={
 	}
 
 	provinces={
-		2196 8182 8183 12944 
+		2196 8182 8183 12944
 	}
-	manpower=0
+	manpower=2000000
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

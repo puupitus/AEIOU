@@ -6,7 +6,7 @@ state={
 	history={
 		owner = SON
 		buildings = {
-
+			infrastructure = 3
 		}
 		victory_points = {
 
@@ -17,6 +17,7 @@ state={
 	provinces={
 		1945 8057 10895
 	}
-	manpower=0
+	manpower=500000
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

@@ -6,6 +6,7 @@ state={
 		owner = PRU
 		add_core_of = ACR
 		buildings = {
+			infrastructure = 2
 		}
 		victory_points = {
 		}
@@ -13,6 +14,7 @@ state={
 	provinces={
 		2198 5216 10960
 	}
-	manpower=0
+	manpower=200000
 	buildings_max_level_factor=1.000
+	state_category = pastoral
 }

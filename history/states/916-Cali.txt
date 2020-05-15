@@ -6,7 +6,7 @@ state={
 	history={
 		owner = COL
 		buildings = {
-
+			infrastructure = 2
 		}
 		victory_points = {
 
@@ -15,8 +15,9 @@ state={
 	}
 
 	provinces={
-		2007 2079 7936 7991 10846 
+		2007 2079 7936 7991 10846
 	}
-	manpower=0
+	manpower=1100000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

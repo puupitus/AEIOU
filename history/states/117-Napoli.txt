@@ -10,7 +10,7 @@ state={
 	history={
 		owner = NAP
 		victory_points = {
-			819 20 
+			819 20
 		}
 		buildings = {
 			infrastructure = 6
@@ -36,9 +36,9 @@ state={
 	}
 
 	provinces={
-		819 851 955 9826 11803 
+		819 851 955 9826 11803
 	}
-	manpower=5333611
+	manpower=7333611
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 }

@@ -6,7 +6,7 @@ state={
 	history={
 		owner = BUL
 		victory_points = {
-			6923 5 
+			6923 5
 		}
 		buildings = {
 			infrastructure = 4
@@ -20,9 +20,9 @@ state={
 	}
 
 	provinces={
-		793 3796 3819 3952 3971 6842 9610 11754 
+		793 3796 3819 3952 3971 6842 9610 11754
 	}
-	manpower=2611100
+	manpower=4411100
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 }

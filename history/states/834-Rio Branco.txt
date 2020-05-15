@@ -5,7 +5,7 @@ state={
 		owner = VEN
 		add_core_of = RBR
 		buildings = {
-
+			infrastructure = 1
 		}
 		victory_points = {
 
@@ -15,6 +15,7 @@ state={
 	provinces={
 		5214
 	}
-	manpower=0
+	manpower=150000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -7,7 +7,7 @@ state={
 		owner = POP
 		buildings = {
 			infrastructure = 2
-
+			industrial_complex = 1
 		}
 		add_core_of = POP
 
@@ -16,7 +16,7 @@ state={
 	provinces={
 		5200 8224 12951
 	}
-	manpower=229900
+	manpower=429900
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

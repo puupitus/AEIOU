@@ -6,7 +6,7 @@ state={
 	history={
 		owner = BRA
 		buildings = {
-
+			infrastructure = 1
 		}
 		victory_points = {
 
@@ -15,8 +15,9 @@ state={
 	}
 
 	provinces={
-		5083 12919 
+		5083 12919
 	}
-	manpower=0
+	manpower=100000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

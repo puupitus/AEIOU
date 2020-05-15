@@ -4,7 +4,7 @@ state={
 	history={
 	  owner = BOL
 	  buildings = {
-
+			infrastructure = 3
 	  }
 	  victory_points = {
 
@@ -14,6 +14,7 @@ state={
 	provinces={
 		5131
 	}
-	manpower=0
+	manpower=150000
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

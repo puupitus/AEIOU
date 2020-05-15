@@ -6,7 +6,8 @@ state={
 	history={
 		owner = USA
 		buildings = {
-
+			infrastructure = 8
+			industrial_complex = 1
 		}
 		victory_points = {
 
@@ -15,8 +16,9 @@ state={
 	}
 
 	provinces={
-		6892 9758 9786 
+		6892 9758 9786
 	}
-	manpower=0
+	manpower=1000000
 	buildings_max_level_factor=1.000
+	state_category = large_town
 }

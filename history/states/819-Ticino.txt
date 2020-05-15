@@ -7,7 +7,7 @@ state={
 		owner = LOM
 		add_core_of = SWI
 		buildings = {
-
+			infrastructure = 6
 		}
 		victory_points = {
 
@@ -16,8 +16,9 @@ state={
 	}
 
 	provinces={
-		3641 9600 
+		3641 9600
 	}
-	manpower=0
+	manpower=200000
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

@@ -6,7 +6,8 @@ state={
 	history={
 		owner = AEI
 		buildings = {
-
+			infrastructure = 5
+			industrial_complex = 2
 		}
 		victory_points = {
 
@@ -15,8 +16,9 @@ state={
 	}
 
 	provinces={
-		4137 9969 10068 12043 
+		4137 9969 10068 12043
 	}
-	manpower=0
+	manpower=4000000
 	buildings_max_level_factor=1.000
+	state_category=city
 }
