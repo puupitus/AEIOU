@@ -85,6 +85,8 @@
  SOL_subject:0 "$OVERLORDADJ$ Solomon Islands"
  FSM_subject:0 "$OVERLORDADJ$ Micronesia"
  MAL_subject:0 "$OVERLORDADJ$ Malacca"
+ CRC_subject:0 "$OVERLORDADJ$ Antilles"
+ GDL_subject:0 "$OVERLORDADJ$ Caribbean"
  PHI_SPR_subject:0 "Spanish East Indies"
  PHI_subject:0 "$OVERLORDADJ$ Philippines"
  CAN_commonwealth_neutrality:0 "Kingdom of British Canada"
