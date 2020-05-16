@@ -11,6 +11,7 @@ state={
 			11504 3
 		}
 		owner = UKR
+add_core_of = UKR
 		buildings = {
 			infrastructure = 5
 		}

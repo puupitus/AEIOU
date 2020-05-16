@@ -17,7 +17,7 @@ add_core_of = ROM
 	provinces={
 		657 687 3076 9635
 	}
-	manpower=1000000
+	manpower=1500000
 	buildings_max_level_factor=1.000
 	state_category=town
 }
