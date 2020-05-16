@@ -5,8 +5,8 @@ state={
 
 	history={
 		owner = MOS
-add_core_of = MOS
-add_core_of = ING
+		add_core_of = MOS
+		add_core_of = ING
 		victory_points = {
 			3151 30.0
 		}
@@ -23,7 +23,6 @@ add_core_of = ING
 			}
 
 		}
-
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 7
@@ -35,9 +34,9 @@ add_core_of = ING
 	}
 
 	provinces={
-		79 149 3151 6174 6197 11068
+		79 149 3151 6174 6197 9097 11032 11068 11080
 	}
-	manpower=7750158
+	manpower=8750158
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 }

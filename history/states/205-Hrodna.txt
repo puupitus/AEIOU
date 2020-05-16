@@ -6,20 +6,21 @@ state={
 	history={
 		owner = MOS
 		add_core_of = MOS
+		add_core_of = BLR
 		buildings = {
 			infrastructure = 5
 
 		}
 		victory_points = {
-			382 1 
+			382 1
 		}
 
 	}
 
 	provinces={
-		246 300 352 3345 6252 6365 9261 9301 11235 11284 11369 
+		246 300 352 3345 6252 6365 9261 9301 11235 11284 11369
 	}
-	manpower=1121004
+	manpower=2121004
 	buildings_max_level_factor=1.000
 	state_category=town
 }

@@ -9,8 +9,8 @@ state={
 
 	history={
 		owner = FRA
-add_core_of = FRA
-add_core_of = WAL
+		add_core_of = FRA
+		add_core_of = WAL
 		victory_points = {
 			575 5
 		}
@@ -30,8 +30,6 @@ add_core_of = WAL
 			}
 
 		}
-
-
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 6
@@ -43,9 +41,9 @@ add_core_of = WAL
 	}
 
 	provinces={
-		3476 3536 6504 9500 11548 11606
+		3447 3476 3536 3560 6504 9472 9500 11548 11606
 	}
-	manpower=1476400
+	manpower=2476400
 	buildings_max_level_factor=1.000
 	state_category=city
 }
