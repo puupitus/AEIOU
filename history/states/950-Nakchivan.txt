@@ -1,0 +1,26 @@
+
+state={
+	id=950
+	name="STATE_950"
+
+	history={
+		owner = ARM
+		add_core_of = ARM
+		add_core_of = AZR
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+
+		}
+
+	}
+
+	provinces={
+		4660 6642 6997
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

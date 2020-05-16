@@ -8,13 +8,12 @@ state={
 
 	history={
 		owner = CIR
-add_core_of = CIR
+		add_core_of = CIR
 		buildings = {
 			infrastructure = 4
 			air_base = 2
 
 		}
-		
 		victory_points = {
 			11696 3 
 		}
@@ -22,7 +21,7 @@ add_core_of = CIR
 	}
 
 	provinces={
-		731 748 3748 6750 6753 9688 9707 9726 9742 11678 11696 
+		714 731 748 3748 6718 6750 6753 9688 9707 9726 9742 11633 11678 11696 
 	}
 	manpower=1316516
 	buildings_max_level_factor=1.000

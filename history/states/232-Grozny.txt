@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = MOU
-add_core_of = MOU
+		add_core_of = MOU
 		buildings = {
 			infrastructure = 4
 
@@ -16,14 +16,13 @@ add_core_of = MOU
 		victory_points = {
 			3672 5
 		}
-		
 
 	}
 
 	provinces={
-		666 683 700 712 728 1450 1455 3668 3672 3682 3711 4463 6689 6701 6702 6730 6748 7554 7624 9645 11632 11661 11690
+		666 670 683 712 3667 3672 6702 6733 9628 9647 11609 11632 11661 11690
 	}
-	manpower=2658292
+	manpower=1458292
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
