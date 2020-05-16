@@ -5,7 +5,7 @@ state={
 
 	history={
 		victory_points = {
-			9262 3 
+			9262 3
 		}
 		owner = COU
 add_core_of = COU
@@ -18,14 +18,14 @@ add_core_of = COU
 			dockyard = 1
 
 		}
-		
+
 
 	}
 
 	provinces={
-		3194 3296 3319 6322 9262 11246 
+		3194 3296 3319 6322 9262 11246
 	}
-	manpower=379500
+	manpower=879500
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

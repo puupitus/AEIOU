@@ -9,6 +9,7 @@ state={
 	history={
 		owner = FIN
 add_core_of = FIN
+add_core_of = SWE
 		victory_points = {
 			11105 15
 		}
