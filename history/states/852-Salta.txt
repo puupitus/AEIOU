@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = ARG
-		add_core_of = ARG
+add_core_of = ARG
+
 		buildings = {
 			infrastructure = 3
 		}
@@ -18,7 +19,7 @@ state={
 	provinces={
 		2224 11001
 	}
-	manpower=150000
+	manpower=350000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

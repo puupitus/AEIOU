@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = NWE
+add_core_of = NWE
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -15,17 +16,17 @@ state={
 			}
 
 		}
-		add_core_of = USA
+
 		victory_points = {
-			3513 1 
+			3513 1
 		}
 
 	}
 
 	provinces={
-		1414 3513 4328 4380 4826 7398 7721 7865 10183 10625 12183 12211 12553 
+		1414 3513 4328 4380 4826 7398 7721 7865 10183 10625 12183 12211 12553
 	}
-	manpower=953785
+	manpower=1953785
 	buildings_max_level_factor=1.000
 	state_category=town
 }

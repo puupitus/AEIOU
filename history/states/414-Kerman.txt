@@ -5,21 +5,22 @@ state={
 
 	history={
 		owner = PER
+add_core_of = PER
 		buildings = {
 			infrastructure = 1
 
 		}
 		victory_points = {
-			10913 1 
+			10913 1
 		}
-		add_core_of = PER
+
 
 	}
 
 	provinces={
-		1986 10759 10913 11249 12739 12809 12852 12895 
+		1986 10759 10913 11249 12739 12809 12852 12895
 	}
-	manpower=486013
+	manpower=1486013
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

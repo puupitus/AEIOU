@@ -2,7 +2,7 @@
 state={
 	id=21
 	name="STATE_21" # Provence
-	manpower = 2060400
+	manpower = 3060400
 	resources={
 		aluminium=60 # was: 120
 	}
@@ -11,6 +11,7 @@ state={
 
 	history={
 		owner = FRA
+add_core_of = FRA
 		victory_points = {
 			911 1
 		}
@@ -33,8 +34,8 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = OCC
-		add_core_of = FRA
+
+
 		1939.1.1 = {
 			buildings = {
 				dockyard = 3

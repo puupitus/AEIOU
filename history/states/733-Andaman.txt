@@ -1,11 +1,12 @@
 state={
 	id=733
 	name="STATE_733"
-	manpower=29500
+	manpower=229500
 	state_category = small_island
 
 	history={
 		owner = BAN
+add_core_of = BAN
 		buildings = {
 			infrastructure = 3
 			12251 = {

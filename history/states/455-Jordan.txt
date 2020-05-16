@@ -2,12 +2,13 @@
 state={
 	id=455
 	name="STATE_455"
-	manpower = 932000
+	manpower = 1932000
 
 	state_category = rural
 
 	history={
 		owner = TUR
+add_core_of = TUR
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -16,7 +17,7 @@ state={
 			7151 1
 		}
 
-		add_core_of = JOR
+
 	}
 
 	provinces={

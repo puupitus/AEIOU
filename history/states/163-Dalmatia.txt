@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = DAL
+add_core_of = DAL
 		buildings = {
 			infrastructure = 5
 			3943 = {

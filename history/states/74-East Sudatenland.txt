@@ -13,15 +13,17 @@ state=
 			3583 5
 		}
 		owner = CZE
+add_core_of = CZE
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
 		}
-		add_core_of = CZE
+		
 
 		1938.9.30 = {
 			owner = AUS
-			controller = GER
+add_core_of = AUS
+
 		}
 	}
 	provinces= {

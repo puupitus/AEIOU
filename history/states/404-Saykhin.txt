@@ -5,12 +5,13 @@ state={
 
 	history={
 		owner = KOK
-		add_core_of = KAZ
+add_core_of = KOK
+		
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = SOV
+		
 
 	}
 

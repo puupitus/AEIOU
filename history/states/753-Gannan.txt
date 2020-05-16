@@ -5,9 +5,10 @@ state={
 
 	history={
 		owner = TIB
-		add_core_of = XSM
-		add_core_of = CHI
-		add_core_of = PRC
+add_core_of = TIB
+
+
+
 		victory_points = {
 			2045 1
 		}
@@ -21,7 +22,7 @@ state={
 	provinces={
 		531 556 1257 1933 2022 2045 4403 5193 6638 7397 7911 9966 10787 10903 12797 12882
 	}
-	manpower=3000000
+	manpower=4000000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

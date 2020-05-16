@@ -3,7 +3,8 @@ state={
 	name="STATE_834"
 	history={
 		owner = VEN
-		add_core_of = RBR
+add_core_of = VEN
+
 		buildings = {
 			infrastructure = 1
 		}
@@ -15,7 +16,7 @@ state={
 	provinces={
 		5214
 	}
-	manpower=150000
+	manpower=250000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

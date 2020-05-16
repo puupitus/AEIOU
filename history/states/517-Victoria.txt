@@ -3,7 +3,7 @@ state={
 	id=517
 	name="STATE_517"
 
-	manpower = 2219500
+	manpower = 4219500
 
 	state_category = large_city
 
@@ -14,6 +14,7 @@ state={
 
 	history={
 		owner = AST
+add_core_of = AST
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
@@ -33,7 +34,7 @@ state={
 		victory_points = {
 			12910 5
 		}
-		add_core_of = AST
+
 	}
 
 	provinces={

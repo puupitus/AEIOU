@@ -2,13 +2,14 @@ state=
 {
 	id=446
 	name="STATE_446"
-	manpower = 7586596
+	manpower = 8586596
 
 	state_category = town
 
 	history=
 	{
 		owner = EGY
+add_core_of = EGY
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -31,7 +32,7 @@ state=
 			4073 3
 		}
 
-		add_core_of = EGY
+
 
 	}
 

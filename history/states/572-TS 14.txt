@@ -2,12 +2,13 @@
 state={
 	id=572
 	name="STATE_572" # Chelyabinsk
-	manpower = 2074932
+	manpower = 3074932
 
 	state_category = town
 
 	history={
 		owner = SIB
+add_core_of = SIB
 		victory_points = {
 			9292 5
 		}
@@ -16,7 +17,7 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = SOV
+
 	}
 
 	provinces={

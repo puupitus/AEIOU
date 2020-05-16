@@ -3,6 +3,7 @@ state={
 	name="STATE_926"
 	history={
 	  owner = ALT
+add_core_of = ALT
 	  buildings = {
 			infrastructure = 4
 			arms_factory = 1
@@ -16,7 +17,7 @@ state={
 	provinces={
 		10842
 	}
-	manpower=750000
+	manpower=1450000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

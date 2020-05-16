@@ -11,6 +11,7 @@ state={
 			9347 20
 		}
 		owner = SHL
+add_core_of = SHL
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
@@ -22,7 +23,7 @@ state={
 			}
 
 		}
-		add_core_of = GER
+
 		1939.1.1 = {
 			buildings = {
 				synthetic_refinery = 3
@@ -39,7 +40,7 @@ state={
 	provinces={
 		3231 3368 6257 6389 9320 9347 11331
 	}
-	manpower=3248150
+	manpower=4248150
 	buildings_max_level_factor=1.000
 	state_category=city
 }

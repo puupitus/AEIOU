@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = PAP
+add_core_of = PAP
 		victory_points = {
 			9904 40
 		}
@@ -26,7 +27,7 @@ state={
 			}
 
 		}
-		add_core_of = ITA
+
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 2
@@ -41,7 +42,7 @@ state={
 	provinces={
 		923 6862 9904 11751 11846 11882
 	}
-	manpower=4081971
+	manpower=6081971
 	buildings_max_level_factor=1.000
 	state_category=city
 }

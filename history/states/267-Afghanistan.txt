@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = UZB
+add_core_of = UZB
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -17,7 +18,7 @@ state={
 		victory_points = {
 			10737 5 
 		}
-		add_core_of = AFG
+		
 
 	}
 

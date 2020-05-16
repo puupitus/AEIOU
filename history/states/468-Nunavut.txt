@@ -2,7 +2,7 @@
 state={
 	id=468
 	name="STATE_468" # Saint Lawrence
-	manpower = 3432754
+	manpower = 4432754
 
 	state_category = city
 
@@ -12,6 +12,7 @@ state={
 
 	history={
 		owner = QUE
+add_core_of = QUE
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
@@ -21,7 +22,7 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = CAN
+
 		victory_points = {
 			4345 20
 		}

@@ -10,6 +10,7 @@ state={
 	history={
 		add_claim_by = GRE
 		owner = TUR
+add_core_of = TUR
 		victory_points = {
 			9833 20
 		}
@@ -25,14 +26,14 @@ state={
 			}
 
 		}
-		add_core_of = TUR
+
 
 	}
 
 	provinces={
 		9833 11829
 	}
-	manpower=2404509
+	manpower=6404509
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=large_city
 }

@@ -2,7 +2,7 @@
 state={
 	id=189
 	name="STATE_189"
-	manpower = 697100
+	manpower = 1697100
 
 	state_category = town
 
@@ -12,6 +12,7 @@ state={
 
 	history={
 		owner = LIT
+add_core_of = LIT
 		victory_points = {
 			9483 5
 		}
@@ -24,7 +25,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = LIT
+
 	}
 
 	provinces={

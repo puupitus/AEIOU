@@ -15,12 +15,13 @@ state={
 			11598 1
 		}
 		owner = AUS
+add_core_of = AUS
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
 		}
-		add_core_of = ITA
-		add_core_of = AUS
+		
+		
 	}
 
 	provinces={

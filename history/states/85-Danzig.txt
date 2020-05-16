@@ -5,14 +5,15 @@ state={
 
 	history={
 		owner = PRE
+add_core_of = PRE
 		victory_points = {
-			362 10 
+			362 10
 		}
 		victory_points = {
-			3295 5 
+			3295 5
 		}
 		victory_points = {
-			279 1 
+			279 1
 		}
 		buildings = {
 			infrastructure = 6
@@ -26,8 +27,8 @@ state={
 			}
 
 		}
-		add_core_of = POL
-		add_core_of = GER
+
+
 		1938.3.12 = {
 			add_claim_by = GER
 
@@ -36,9 +37,9 @@ state={
 	}
 
 	provinces={
-		17 243 279 334 362 389 3295 3324 3381 6347 9263 
+		17 243 279 334 362 389 3295 3324 3381 6347 9263
 	}
-	manpower=1080100
+	manpower=4080100
 	buildings_max_level_factor=1.000
 	state_category=city
 }

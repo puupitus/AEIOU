@@ -2,7 +2,7 @@
 state={
 	id=295
 	name="STATE_295" # Leopoldville
-	manpower = 4540948
+	manpower = 7540948
 
 	state_category = rural
 
@@ -12,6 +12,7 @@ state={
 
 	history={
 		owner = COG
+add_core_of = COG
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -25,7 +26,7 @@ state={
 		victory_points = {
 			5117 3
 		}
-			add_core_of = COG
+
 	}
 
 	provinces={

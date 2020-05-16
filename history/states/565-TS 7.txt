@@ -9,18 +9,19 @@ state={
 
 	history={
 		owner = SOV
+add_core_of = SOV
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = SOV
+
 
 	}
 
 	provinces={
-		1761 4716 4835 7736 7854 
+		1761 4716 4835 7736 7854
 	}
-	manpower=195325
+	manpower=695325
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

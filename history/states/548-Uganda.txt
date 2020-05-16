@@ -8,11 +8,12 @@ state={
 	}
 	history={
 		owner = TZN
+add_core_of = TZN
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = UGA
+
 		victory_points = {
 			12989 1
 		}
@@ -21,6 +22,6 @@ state={
 	provinces={
 		3854 7088 7133 8223 12929 12989 13177
 	}
-	manpower=3515625
+	manpower=4515625
 	buildings_max_level_factor=1.000
 }

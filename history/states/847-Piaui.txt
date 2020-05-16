@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = PIA
-		add_core_of = PIA
+add_core_of = PIA
+
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -19,7 +20,7 @@ state={
 	provinces={
 		2228 5153 5204 10984
 	}
-	manpower=1000000
+	manpower=2000000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

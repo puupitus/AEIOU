@@ -3,6 +3,7 @@ state={
 	name="STATE_940"
 	history={
 		owner = AEI
+add_core_of = AEI
 		buildings = {
 			infrastructure = 3
 		}

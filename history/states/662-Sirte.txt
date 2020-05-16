@@ -5,18 +5,19 @@ state={
 
 	history={
 		owner = SEO
+add_core_of = SEO
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = LBA
+
 
 	}
 
 	provinces={
 		4200 7076 8069
 	}
-	manpower=13213
+	manpower=313213
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

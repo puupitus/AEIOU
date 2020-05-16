@@ -9,6 +9,7 @@ state={
 
 	history={
 		owner = LOM
+add_core_of = LOM
 		victory_points = {
 			11584 10
 		}
@@ -24,7 +25,7 @@ state={
 			}
 
 		}
-		add_core_of = ITA
+
 		1939.1.1 = {
 			buildings = {
 				dockyard = 2
@@ -39,7 +40,7 @@ state={
 	provinces={
 		603 3604 6656 9582 11584
 	}
-	manpower=3963151
+	manpower=4963151
 	buildings_max_level_factor=1.000
 	state_category=city
 }

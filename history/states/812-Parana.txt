@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = PNA
-		add_core_of = PNA
+add_core_of = PNA
+		
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

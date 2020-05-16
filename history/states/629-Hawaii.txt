@@ -2,11 +2,12 @@
 state={
 	id=629
 	name="STATE_629"
-	manpower = 1368336
-	state_category = town
+	manpower = 1868336
+	state_category = large_town
 	history={
 		owner = HAW
-		add_core_of = HAW
+add_core_of = HAW
+
 		buildings = {
 			infrastructure = 3
 			air_base = 5

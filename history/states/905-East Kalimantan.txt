@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = DEI
+add_core_of = DEI
 		buildings = {
 			infrastructure = 2
 		}

@@ -2,13 +2,14 @@
 state={
 	id=460
 	name="STATE_460" # Constantine
-	manpower = 2343837
+	manpower = 3343837
 
 	state_category = town
 
 	history={
 		owner = ALG
-		add_core_of = ALG
+add_core_of = ALG
+
 		victory_points = {
 			7081 1
 		}

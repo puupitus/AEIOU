@@ -12,7 +12,8 @@ state={
 			9809 3
 		}
 		owner = MNT
-		add_core_of = MNT
+add_core_of = MNT
+		
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -22,7 +23,7 @@ state={
 			}
 
 		}
-		add_core_of = YUG
+		
 
 	}
 

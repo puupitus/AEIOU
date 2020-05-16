@@ -5,10 +5,11 @@ state={
 
 	history={
 		owner = POR
-		add_core_of = CHI
-		add_core_of = PRC
+add_core_of = POR
+
+
 		victory_points = {
-			4189 1 
+			4189 1
 		}
 		buildings = {
 			infrastructure = 4
@@ -22,9 +23,9 @@ state={
 	}
 
 	provinces={
-		1047 4189 
+		1047 4189
 	}
-	manpower=157805
+	manpower=1157805
 	buildings_max_level_factor=1.000
 	state_category=enclave
 }

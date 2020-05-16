@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = BAY
+add_core_of = BAY
 		buildings = {
 			infrastructure = 7
 			arms_factory = 2
@@ -20,7 +21,7 @@ state={
 		victory_points = {
 			3535 5
 		}
-		add_core_of = GER
+
 		1939.1.1 = {
 			buildings = {
 				synthetic_refinery = 2
@@ -36,7 +37,7 @@ state={
 	provinces={
 		514 573 3514 3535 6441 6559 9441 9471 9535 11481 11545
 	}
-	manpower=7592576
+	manpower=9592576
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 }

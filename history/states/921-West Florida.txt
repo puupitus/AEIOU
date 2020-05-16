@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = BRS
+add_core_of = BRS
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

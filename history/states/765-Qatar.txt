@@ -2,12 +2,13 @@
 state={
 	id=765
 	name="STATE_765"
-	manpower = 51600
+	manpower = 351600
 	state_category = pastoral
 
 	history={
-		add_core_of = QAT
+
 		owner = QAT
+add_core_of = QAT
 		victory_points = {
 			8051 1
 		}

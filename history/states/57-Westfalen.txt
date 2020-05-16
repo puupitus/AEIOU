@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = WPH
+add_core_of = WPH
 		victory_points = {
 			495 5
 		}
@@ -15,7 +16,7 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = GER
+		
 		1939.1.1 = {
 			buildings = {
 				radar_station = 1

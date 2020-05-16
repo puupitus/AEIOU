@@ -11,11 +11,12 @@ state={
 			12763 3
 		}
 		owner = JAK
+add_core_of = JAK
 		buildings = {
 			infrastructure = 3
 			air_base = 3
 		}
-		add_core_of = PAK
+		
 	}
 
 	provinces={

@@ -4,7 +4,8 @@ state={
 	name="STATE_848"
 	history={
 		owner = SGP
-		add_core_of = SGP
+add_core_of = SGP
+
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -17,7 +18,7 @@ state={
 	provinces={
 		1524 8143
 	}
-	manpower=1000000
+	manpower=2000000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

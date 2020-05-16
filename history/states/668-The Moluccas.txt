@@ -2,13 +2,14 @@
 state={
 	id=668
 	name="STATE_668"
-	manpower = 579100
+	manpower = 1579100
 
 	state_category = pastoral
 
 	history={
 		owner = DEI
-		add_core_of = INS
+add_core_of = DEI
+
 		buildings = {
 			infrastructure = 3
 			1574 = {

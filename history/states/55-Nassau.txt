@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = BAY
+add_core_of = BAY
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
@@ -17,7 +18,7 @@ state={
 		victory_points = {
 			564 3
 		}
-		add_core_of = GER
+		
 		1939.1.1 = {
 			buildings = {
 				air_base = 3

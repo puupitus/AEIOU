@@ -8,11 +8,12 @@ state={
 			651 1 
 		}
 		owner = FRA
+add_core_of = FRA
 		buildings = {
 			infrastructure = 6
 
 		}
-		add_core_of = FRA
+		
 
 	}
 

@@ -4,8 +4,9 @@ state={
 	name="STATE_686"
 
 	history={
-		add_core_of = SPW
+
 		owner = SPW
+add_core_of = SPW
 		victory_points = {
 			1440 1
 		}
@@ -25,7 +26,7 @@ state={
 	provinces={
 		1440
 	}
-	manpower=1543913
+	manpower=2543913
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

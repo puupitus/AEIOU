@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = ETH
+add_core_of = ETH
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2
@@ -24,10 +25,11 @@ state={
 		victory_points = {
 			7980 1.0 
 		}
-		add_core_of = ETH
+		
 		1936.6.1 = {
 			owner = SAR
-			controller = ITA
+add_core_of = SAR
+
 
 		}
 

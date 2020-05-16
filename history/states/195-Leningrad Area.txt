@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = MOS
+add_core_of = MOS
 		victory_points = {
 			3151 30.0
 		}
@@ -21,7 +22,7 @@ state={
 			}
 
 		}
-		add_core_of = SOV
+		
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 7

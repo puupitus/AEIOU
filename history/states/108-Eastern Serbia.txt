@@ -8,22 +8,23 @@ state={
 
 	history={
 		victory_points = {
-			9602 3 
+			9602 3
 		}
 		owner = SER
+add_core_of = SER
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = YUG
-		add_core_of = SER
+
+
 
 	}
 
 	provinces={
-		630 6634 9602 9756 
+		630 6634 9602 9756
 	}
-	manpower=1533000
+	manpower=2533000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

@@ -2,7 +2,7 @@ state=
 {
 	id=422
 	name="STATE_422"
-	manpower = 5500000
+	manpower = 7500000
 
 	state_category = rural
 
@@ -11,8 +11,9 @@ state=
 	}
 
 	history={
-		add_core_of = SRL
+
 		owner = SRL
+add_core_of = SRL
 		victory_points = {
 			10201 3
 		}

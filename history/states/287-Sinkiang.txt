@@ -5,9 +5,10 @@ state={
 
 	history={
 		owner = KOK
-		add_core_of = SIK
-		add_core_of = CHI
-		add_core_of = PRC
+add_core_of = KOK
+
+
+
 		buildings = {
 			infrastructure = 1
 
@@ -18,7 +19,7 @@ state={
 	provinces={
 		4973 8042 8086
 	}
-	manpower=408000
+	manpower=1408000
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

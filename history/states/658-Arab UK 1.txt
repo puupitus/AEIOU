@@ -2,7 +2,7 @@
 state={
 	id=658
 	name="STATE_658"
-	manpower = 170200
+	manpower = 670200
 	resources={
 		oil=5 # was: 6
 	}
@@ -11,8 +11,9 @@ state={
 
 
 	history={
-		add_core_of = OMA
+
 		owner = OMA
+add_core_of = OMA
 		victory_points = {
 			7960 1
 		}

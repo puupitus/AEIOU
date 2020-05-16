@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = BRC
-		add_core_of = DEN
+add_core_of = BRC
+		
 		buildings = {
 			infrastructure = 1
 		}

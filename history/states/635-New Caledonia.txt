@@ -10,7 +10,8 @@ state={
 
 	history={
 		owner = TAH
-		add_core_of = TAH
+add_core_of = TAH
+
 		victory_points = {
 			4268 1
 		}
@@ -37,6 +38,6 @@ state={
 	provinces={
 		1237 1263 4231 4247 4268 7264 10160 12120 12132
 	}
-	manpower=51876
+	manpower=251876
 	buildings_max_level_factor=1.000
 }

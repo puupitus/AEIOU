@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = ARG
+add_core_of = ARG
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
@@ -27,7 +28,7 @@ state={
 			}
 
 		}
-		add_core_of = ARG
+
 		victory_points = {
 			12364 10
 		}
@@ -40,7 +41,7 @@ state={
 	provinces={
 		2149 5152 5184 5219 7500 7550 8208 10935 10985 11021 12306 12321 12494 12970 12998
 	}
-	manpower=4596366
+	manpower=3596366
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 }

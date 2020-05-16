@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = HOB
-		add_core_of = SOM
+add_core_of = HOB
+
 		victory_points = {
 			12991 3
 		}
@@ -22,7 +23,7 @@ state={
 	}
 
 	provinces={
-		2063 8164 10928 11014 12941
+		2063 8164 10928 11014 12941 12991
 	}
 	manpower=1028895
 	buildings_max_level_factor=1.000

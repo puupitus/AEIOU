@@ -9,7 +9,8 @@ state={
 	}
 	history={
 		owner = SWE
-		add_core_of = SWE
+add_core_of = SWE
+
 		buildings = {
 			infrastructure = 4
 		}
@@ -22,7 +23,7 @@ state={
 	provinces={
 		61 101 151 201 3095 6055 6125 6155 6165 6168 6170 6206 6208 9083 9147 9178 9186 9226 11060 11073 11155 11208
 	}
-	manpower=200000
+	manpower=400000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

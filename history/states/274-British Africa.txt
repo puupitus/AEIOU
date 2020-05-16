@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = GHA
-		add_core_of = GHA
+add_core_of = GHA
+
 		victory_points = {
 			10862 1
 		}
@@ -23,7 +24,7 @@ state={
 	provinces={
 		8096 12742 12787
 	}
-	manpower=2163600
+	manpower=4163600
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

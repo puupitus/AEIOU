@@ -8,6 +8,7 @@ state={
 			2054 1
 		}
 		owner = SIN
+add_core_of = SIN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

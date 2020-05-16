@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = LEB
+add_core_of = LEB
 		victory_points = {
 			792 5
 		}
@@ -20,7 +21,7 @@ state={
 			}
 		}
 
-		add_core_of = LEB
+		
 	}
 
 	provinces={

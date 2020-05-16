@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = MAH
+add_core_of = MAH
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -21,14 +22,14 @@ state={
 		victory_points = {
 			12725 1
 		}
-		add_core_of = SUD
+
 
 	}
 
 	provinces={
 		1977 2003 2046 2088 4138 4918 4961 4963 7925 7989 8105 10743 10745 10784 10902 12725 12796 12806 12826 12836 12862 12881
 	}
-	manpower=1593507
+	manpower=2593507
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

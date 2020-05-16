@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = HOL
-		add_core_of = HOL
+add_core_of = HOL
+
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 5
@@ -26,7 +27,7 @@ state={
 	provinces={
 		480 3262 6496 9431 11456
 	}
-	manpower=1849000
+	manpower=2849000
 	buildings_max_level_factor=1.000
 	state_category=large_town
 }

@@ -9,6 +9,7 @@ state={
 
 	history={
 		owner = ALB
+add_core_of = ALB
 		victory_points = {
 			9914 5
 		}
@@ -26,11 +27,12 @@ state={
 			}
 
 		}
-		add_core_of = ALB
+
 		add_claim_by = ITA
 		1939.4.12 = {
 			owner = SAR
-			controller = ITA
+add_core_of = SAR
+
 			remove_claim_by = ITA
 
 		}
@@ -40,7 +42,7 @@ state={
 	provinces={
 		3448 3884 6900 9875 9914
 	}
-	manpower=803000
+	manpower=1203000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

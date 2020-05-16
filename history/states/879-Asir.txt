@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = MIT
+add_core_of = MIT
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -18,7 +19,7 @@ state={
 	provinces={
 		1923 5006 8073 10786
 	}
-	manpower=500000
+	manpower=1200000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

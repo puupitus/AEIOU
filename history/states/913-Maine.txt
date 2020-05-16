@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = ACA
+add_core_of = ACA
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1

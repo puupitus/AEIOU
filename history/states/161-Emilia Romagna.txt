@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = PAP
+add_core_of = PAP
 		victory_points = {
 			6606 3
 		}
@@ -21,7 +22,7 @@ state={
 			}
 
 		}
-		add_core_of = ITA
+		
 
 	}
 

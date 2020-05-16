@@ -10,6 +10,7 @@ state={
 	}
 	history={
 		owner = GEM
+add_core_of = GEM
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

@@ -2,7 +2,7 @@
 state={
 	id=444
 	name="STATE_444" # Baluchistan
-	manpower = 2463500
+	manpower = 4463500
 
 	state_category = rural
 
@@ -11,12 +11,13 @@ state={
 			8066 1
 		}
 		owner = BAL
+add_core_of = BAL
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
 			industrial_complex = 1
 		}
-		add_core_of = PAK
+
 	}
 
 	provinces={

@@ -6,6 +6,7 @@ state = {
 
 	history={
 		owner = BAJ
+add_core_of = BAJ
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -17,7 +18,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = MEX
+		
 
 		victory_points = {
 			12461 10

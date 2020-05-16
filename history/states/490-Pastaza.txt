@@ -5,20 +5,21 @@ state={
 
 	history={
 		owner = PRU
+add_core_of = PRU
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			air_base = 1
 
 		}
-		add_core_of = PRU
+
 
 	}
 
 	provinces={
-		2156 8149 10942 
+		2156 8149 10942
 	}
-	manpower=70020
+	manpower=370020
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

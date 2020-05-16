@@ -5,9 +5,10 @@ state={
 
 	history={
 		owner = MON
-		add_core_of = SIK
-		add_core_of = CHI
-		add_core_of = PRC
+add_core_of = MON
+
+
+
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -17,9 +18,9 @@ state={
 	}
 
 	provinces={
-		1838 4704 4788 4843 7732 7737 10674 10839 12598 12656 12671 
+		1838 4704 4788 4843 7732 7737 10674 10839 12598 12656 12671
 	}
-	manpower=700000
+	manpower=1700000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = NAP
+add_core_of = NAP
 		victory_points = {
 			925 1
 		}
@@ -21,7 +22,7 @@ state={
 			}
 
 		}
-		add_core_of = ITA
+		
 
 	}
 

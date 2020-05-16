@@ -2,7 +2,7 @@
 state={
 	id=141
 	name="STATE_141" # Svealand
-	manpower = 2488181
+	manpower = 3488181
 	state_category = city
 
 	resources={
@@ -12,6 +12,7 @@ state={
 
 	history={
 		owner = SWE
+add_core_of = SWE
 		victory_points = {
 			6050 20
 		}
@@ -27,7 +28,7 @@ state={
 			}
 
 		}
-		add_core_of = SWE
+
 	}
 
 	provinces={

@@ -5,8 +5,9 @@ state={
 	state_category = small_island
 
 	history={
-		add_core_of = BAS
+		
 		owner = GDL
+add_core_of = GDL
 		buildings = {
 			infrastructure = 4
 			11350 = {

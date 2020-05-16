@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = SON
+add_core_of = SON
 		buildings = {
 			infrastructure = 3
 		}

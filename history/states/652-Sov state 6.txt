@@ -7,11 +7,12 @@ state={
 
 	history={
 		owner = IDE
+add_core_of = IDE
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = SOV
+		
 
 	}
 

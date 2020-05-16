@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = TRV
+add_core_of = TRV
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
@@ -28,14 +29,14 @@ state={
 		victory_points = {
 			4696 1
 		}
-		add_core_of = SAF
+
 
 	}
 
 	provinces={
 		1468 1494 7900 8178
 	}
-	manpower=4962157
+	manpower=6962157
 	buildings_max_level_factor=1.000
 	state_category=city
 }

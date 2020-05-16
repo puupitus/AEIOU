@@ -5,18 +5,19 @@ state={
 
 	history={
 		owner = AZR
+add_core_of = AZR
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = PER
+
 
 	}
 
 	provinces={
-		1896 2071 4553 4609 4637 4755 4825 4901 7969 8040 8125 9816 10454 10523 12793 12861 
+		1896 2071 4553 4609 4637 4755 4825 4901 7969 8040 8125 9816 10454 10523 12793 12861
 	}
-	manpower=1314948
+	manpower=2314948
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

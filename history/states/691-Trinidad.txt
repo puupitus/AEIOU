@@ -10,8 +10,9 @@ state={
 
 
 	history={
-		add_core_of = TRI
+		
 		owner = GDL
+add_core_of = GDL
 		victory_points = {
 			3284 1
 		}

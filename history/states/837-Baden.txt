@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = BAY
-		add_core_of = GEM
+add_core_of = BAY
+		
 		buildings = {
 			infrastructure = 8
 		}

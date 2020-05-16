@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = DON
+add_core_of = DON
 		victory_points = {
 			9417 15
 		}
@@ -19,7 +20,7 @@ state={
 			}
 
 		}
-		add_core_of = SOV
+
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 2
@@ -33,7 +34,7 @@ state={
 	provinces={
 		585 6445 9417 9430 11559
 	}
-	manpower=1501076
+	manpower=2501076
 	buildings_max_level_factor=1.000
 	state_category=city
 }

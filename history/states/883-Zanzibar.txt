@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = ZAN
+add_core_of = ZAN
 		buildings = {
 			infrastructure = 3
 		}

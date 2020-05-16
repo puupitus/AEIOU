@@ -9,6 +9,7 @@ state={
 
 	history={
 		owner = NAP
+add_core_of = NAP
 		victory_points = {
 			819 20
 		}
@@ -23,7 +24,7 @@ state={
 			}
 
 		}
-		add_core_of = ITA
+		
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 2

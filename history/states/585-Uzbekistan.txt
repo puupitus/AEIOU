@@ -4,13 +4,14 @@ state={
 	name="STATE_585"
 
 	history={
-		add_core_of = UZB
+		
 		owner = TMS
+add_core_of = TMS
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = SOV
+		
 
 	}
 

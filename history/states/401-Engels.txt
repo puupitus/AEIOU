@@ -9,11 +9,12 @@ state={
 
 	history={
 		owner = KAL
+add_core_of = KAL
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = SOV
+
 		victory_points = {
 			6502 1
 		}
@@ -23,7 +24,7 @@ state={
 	provinces={
 		410 452 499 3490 3551 6339 6430 6473 6502 6574 6601 9337 9432 9447 9473 9577 11321 11421 11458 11460 11523
 	}
-	manpower=927795
+	manpower=1927795
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

@@ -4,7 +4,8 @@ state={
 	name="STATE_797"
 	history={
 		owner = PRU
-		add_core_of = ACR
+add_core_of = PRU
+
 		buildings = {
 			infrastructure = 2
 		}
@@ -14,7 +15,7 @@ state={
 	provinces={
 		2198 5216 10960
 	}
-	manpower=200000
+	manpower=500000
 	buildings_max_level_factor=1.000
 	state_category = pastoral
 }

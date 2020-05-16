@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = PAP
+add_core_of = PAP
 		buildings = {
 			infrastructure = 8
 		}

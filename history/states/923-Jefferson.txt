@@ -8,6 +8,7 @@ state={
 	}
 	history={
 		owner = NWE
+add_core_of = NWE
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
@@ -22,7 +23,7 @@ state={
 	provinces={
 		505 528 610 766 768 781 3471 3588 3644 4274 4331 4347 6482 6665 6745 6757 6772 9697 9730 10151 10159 10305 11495 11698 11733 12281
 	}
-	manpower=3000000
+	manpower=2500000
 	buildings_max_level_factor=1.000
 	state_category=large_city
 }

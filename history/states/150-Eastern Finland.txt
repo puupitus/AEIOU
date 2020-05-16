@@ -11,11 +11,12 @@ state={
 	}
 	history={
 		owner = FIN
+add_core_of = FIN
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 		}
-		add_core_of = FIN
+		
 	}
 
 	provinces={

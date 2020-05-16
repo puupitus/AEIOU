@@ -5,18 +5,19 @@ state={
 
 	history={
 		owner = KUR
+add_core_of = KUR
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = PER
+
 
 	}
 
 	provinces={
 		4943 5050 5098 12773
 	}
-	manpower=1780278
+	manpower=2780278
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

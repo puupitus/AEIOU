@@ -8,7 +8,8 @@ state={
 
 	history={
 		owner = NGR
-		add_core_of = NGA
+add_core_of = NGR
+
 		buildings = {
 			infrastructure = 3
 			arms_factory = 0
@@ -28,7 +29,7 @@ state={
 	provinces={
 		2050 4952 12731 12817 12900
 	}
-	manpower=9757000
+	manpower=11757000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

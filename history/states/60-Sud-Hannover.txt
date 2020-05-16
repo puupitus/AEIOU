@@ -10,6 +10,7 @@ state={
 
 	history={
 		owner = PRE
+add_core_of = PRE
 		victory_points = {
 			3561 5
 		}
@@ -21,7 +22,7 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = GER
+
 		1939.1.1 = {
 			buildings = {
 				synthetic_refinery = 3
@@ -36,7 +37,7 @@ state={
 	provinces={
 		425 482 538 3500 3561 6501 6524 9497
 	}
-	manpower=3005214
+	manpower=4005214
 	buildings_max_level_factor=1.000
 	state_category=large_city
 }

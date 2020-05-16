@@ -6,7 +6,8 @@ state={
 
 	history={
 		owner = TZN
-		add_core_of = BRD
+add_core_of = TZN
+
 		victory_points = {
 			2220 1
 		}
@@ -19,6 +20,6 @@ state={
 	provinces={
 		2220
 	}
-	manpower=2145731
+	manpower=3145731
 	buildings_max_level_factor=1.000
 }

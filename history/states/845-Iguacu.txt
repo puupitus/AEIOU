@@ -4,7 +4,7 @@ state={
 	name="STATE_845"
 	history={
 		owner = IGU
-		add_core_of = IGU
+
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -17,7 +17,7 @@ state={
 	provinces={
 		5178 12466
 	}
-	manpower=600000
+	manpower=900000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

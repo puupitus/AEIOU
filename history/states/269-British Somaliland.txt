@@ -2,7 +2,7 @@ state=
 {
 	id=269
 	name="STATE_269"
-	manpower = 344700
+	manpower = 1344700
 
 	state_category = enclave
 
@@ -14,7 +14,8 @@ state=
 			5068 1
 		}
 		owner = SOM
-		add_core_of = SOM
+add_core_of = SOM
+
 		buildings = {
 			infrastructure = 3
 			10833 = {

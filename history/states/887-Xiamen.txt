@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = AEI
+add_core_of = AEI
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

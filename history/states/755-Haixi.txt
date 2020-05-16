@@ -5,9 +5,10 @@ state={
 
 	history={
 		owner = TIB
-		add_core_of = XSM
-		add_core_of = CHI
-		add_core_of = PRC
+add_core_of = TIB
+
+
+
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -17,9 +18,9 @@ state={
 	}
 
 	provinces={
-		2053 2099 5076 5100 7940 7997 8018 10750 10796 10834 10865 12596 12846 12890 13146 
+		2053 2099 5076 5100 7940 7997 8018 10750 10796 10834 10865 12596 12846 12890 13146
 	}
-	manpower=1000000
+	manpower=2000000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

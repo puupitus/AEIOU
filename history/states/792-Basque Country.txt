@@ -7,10 +7,11 @@ state={
 
 	history={
 		owner = SPR
+add_core_of = SPR
 		victory_points = {
 			740 10
 		}
-		add_core_of = NAV
+
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
@@ -20,14 +21,14 @@ state={
 			}
 			air_base = 1
 		}
-		add_core_of = SPR
+
 
 	}
 
 	provinces={
-		740 3735 6756 13233 
+		740 3735 6756 13233
 	}
-	manpower=928094
+	manpower=1928094
 	buildings_max_level_factor=1.000
 	state_category=town
 }

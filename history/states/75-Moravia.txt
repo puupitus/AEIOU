@@ -1,7 +1,7 @@
 state={
 	id=75
 	name="STATE_75"
-	manpower = 2598400
+	manpower = 3598400
 	resources={
 		steel=4 # was: 6
 		oil = 2 # was: 4
@@ -11,6 +11,7 @@ state={
 
 	history={
 		owner = CZE
+add_core_of = CZE
 		victory_points = {
 			3569 20
 		}
@@ -23,11 +24,12 @@ state={
 			air_base = 5
 
 		}
-		add_core_of = CZE
+
 
 		1939.3.14 = {
 			owner = AUS
-			controller = GER
+add_core_of = AUS
+
 		}
 	}
 

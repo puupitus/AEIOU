@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = FRA
+add_core_of = FRA
 		victory_points = {
 			9620 15
 		}
@@ -18,14 +19,14 @@ state={
 			air_base = 4
 
 		}
-		add_core_of = SWI
+
 
 	}
 
 	provinces={
 		636 9587 9618 9620
 	}
-	manpower=1211689
+	manpower=1711689
 	buildings_max_level_factor=1.000
 	state_category=city
 }

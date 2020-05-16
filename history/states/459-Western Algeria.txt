@@ -2,7 +2,7 @@
 state={
 	id=459
 	name="STATE_459" # Algiers
-	manpower = 3089944
+	manpower = 5089944
 	state_category = town
 
 	resources={
@@ -11,7 +11,8 @@ state={
 
 	history={
 		owner = ALG
-		add_core_of = ALG
+add_core_of = ALG
+
 
 		victory_points = {
 			1145 5

@@ -9,6 +9,7 @@ state={
 
 	history={
 		owner = KUB
+add_core_of = KUB
 		victory_points = {
 			3720 1 
 		}
@@ -28,7 +29,7 @@ state={
 			}
 
 		}
-		add_core_of = SOV
+		
 
 	}
 

@@ -8,11 +8,12 @@ state={
 
 	history={
 		owner = MOU
+add_core_of = MOU
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = SOV
+		
 		victory_points = {
 			9628 3 
 		}

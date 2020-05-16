@@ -11,6 +11,7 @@ state={
 
 	history={
 		owner = FRA
+add_core_of = FRA
 		victory_points = {
 			6788 10
 		}
@@ -29,7 +30,7 @@ state={
 			}
 
 		}
-		add_core_of = ITA
+
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 10
@@ -45,7 +46,7 @@ state={
 	provinces={
 		770 771 776 3782 6635 6780 9738 9741 11570 11721 11723 11726 11730
 	}
-	manpower=3765476
+	manpower=4265476
 	buildings_max_level_factor=1.000
 	state_category=city
 }

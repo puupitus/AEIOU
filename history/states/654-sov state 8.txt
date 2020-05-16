@@ -5,19 +5,20 @@ state={
 
 	history={
 		owner = TAN
+add_core_of = TAN
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = SOV
-		add_core_of = TAN
+
+
 
 	}
 
 	provinces={
-		1749 1779 1794 1818 1864 4674 4781 4800 4803 7680 7890 10531 10610 10713 12427 12509 12528 12564 
+		1749 1779 1794 1818 1864 4674 4781 4800 4803 7680 7890 10531 10610 10713 12427 12509 12528 12564
 	}
-	manpower=153510
+	manpower=553510
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

@@ -5,11 +5,12 @@ state={
 
 	history={
 		owner = RGR
+add_core_of = RGR
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = MEX
+		
 		victory_points = {
 			8097 10
 		}

@@ -6,7 +6,8 @@ state={
 
 	history={
 		owner = TAH
-		add_core_of = TAH
+add_core_of = TAH
+		
 		buildings = {
 			infrastructure = 3
 			7390 = {

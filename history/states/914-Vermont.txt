@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = VER
+add_core_of = VER
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1

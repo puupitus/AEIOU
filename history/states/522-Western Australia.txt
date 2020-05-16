@@ -3,11 +3,12 @@ state={
 	id=522
 	name="STATE_522"
 
-	manpower = 367200
+	manpower = 867200
 	state_category = rural
 
 	history={
 		owner = AST
+add_core_of = AST
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -20,7 +21,7 @@ state={
 		victory_points = {
 			1652 3
 		}
-		add_core_of = AST
+
 	}
 
 	provinces={

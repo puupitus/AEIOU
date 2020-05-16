@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = DEC
+add_core_of = DEC
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

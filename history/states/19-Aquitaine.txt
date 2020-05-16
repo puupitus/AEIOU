@@ -9,8 +9,9 @@ state={
 
 	history={
 		owner = FRA
+add_core_of = FRA
 		victory_points = {
-			9737 20 
+			9737 20
 		}
 		buildings = {
 			infrastructure = 6
@@ -24,14 +25,14 @@ state={
 			}
 
 		}
-		add_core_of = FRA
+
 
 	}
 
 	provinces={
-		743 6621 6762 6777 9710 9737 
+		743 6621 6762 6777 9710 9737
 	}
-	manpower=1340400
+	manpower=2340400
 	buildings_max_level_factor=1.000
 	state_category=city
 }

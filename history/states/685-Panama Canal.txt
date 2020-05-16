@@ -1,12 +1,13 @@
 state={
 	id=685
 	name="STATE_685"
-	manpower = 39467
+	manpower = 139467
 
 	state_category = enclave
 
 	history={
 		owner = SPW
+add_core_of = SPW
 		victory_points = {
 			7617 5
 		}
@@ -17,7 +18,7 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = PAN
+
 	}
 
 	provinces={ 7617 }

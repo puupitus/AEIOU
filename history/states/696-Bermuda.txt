@@ -6,6 +6,7 @@ state={
 
 	history={
 		owner = SPW
+add_core_of = SPW
 		victory_points = {
 			13010 1
 		}

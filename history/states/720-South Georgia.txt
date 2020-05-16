@@ -7,6 +7,7 @@ state={
 	history=
 	{
 		owner = PAT
+add_core_of = PAT
 		buildings = {
 			infrastructure = 1
 			10995 = {

@@ -8,12 +8,13 @@ state={
 			619 3
 		}
 		owner = TEM
+add_core_of = TEM
 		buildings = {
 			infrastructure = 6
 
 		}
-		add_core_of = YUG
-		add_core_of = SER
+		
+		
 
 	}
 

@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = RGN
+add_core_of = RGN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -19,7 +20,7 @@ state={
 			}
 
 		}
-		add_core_of = RGN
+
 		victory_points = {
 			5107 3
 		}
@@ -32,7 +33,7 @@ state={
 	provinces={
 		2175 10933
 	}
-	manpower=3746000
+	manpower=2746000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

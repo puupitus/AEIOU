@@ -10,18 +10,19 @@ state={
 
 	history={
 		owner = DES
+add_core_of = DES
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = USA
+
 
 	}
 
 	provinces={
-		710 1432 1601 1862 4521 4607 4736 4816 7667 7756 7827 7879 10422 10591 11763 12134 12399 12425 
+		710 1432 1601 1862 4521 4607 4736 4816 7667 7756 7827 7879 10422 10591 11763 12134 12399 12425
 	}
-	manpower=91057
+	manpower=491057
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

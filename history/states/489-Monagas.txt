@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = VEN
+add_core_of = VEN
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
@@ -17,17 +18,17 @@ state={
 			}
 
 		}
-		add_core_of = VEN
+
 		victory_points = {
-			1944 1 
+			1944 1
 		}
 
 	}
 
 	provinces={
-		1944 1997 2052 4526 4892 4942 5000 5056 5088 10855 12772 
+		1944 1997 2052 4526 4892 4942 5000 5056 5088 10855 12772
 	}
-	manpower=1576373
+	manpower=2576373
 	buildings_max_level_factor=1.000
 	state_category=town
 }

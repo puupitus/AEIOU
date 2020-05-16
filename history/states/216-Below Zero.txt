@@ -6,6 +6,7 @@ state={
 
 	history={
 		owner = MOS
+add_core_of = MOS
 		victory_points = {
 			11159 1
 		}
@@ -14,7 +15,7 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = SOV
+		
 
 	}
 

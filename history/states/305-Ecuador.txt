@@ -2,7 +2,7 @@
 state={
 	id=305
 	name="STATE_305"
-	manpower = 2800000
+	manpower = 3800000
 	resources={
 		oil=2 # was: 2
 	}
@@ -11,6 +11,7 @@ state={
 
 	history={
 		owner = ECU
+add_core_of = ECU
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -20,7 +21,7 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = ECU
+
 		victory_points = {
 			12798 5
 		}

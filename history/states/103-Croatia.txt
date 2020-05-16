@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = CRO
+add_core_of = CRO
 		victory_points = {
 			3924 3
 		}
@@ -25,15 +26,15 @@ state={
 			}
 
 		}
-		add_core_of = YUG
-		add_core_of = CRO
+
+
 
 	}
 
 	provinces={
 		591 3601 6611 11564
 	}
-	manpower=1031700
+	manpower=2031700
 	buildings_max_level_factor=1.000
 	state_category=large_town
 }

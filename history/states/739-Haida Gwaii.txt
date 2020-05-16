@@ -4,6 +4,7 @@ state={
 
 	history={
 		owner = CAN
+add_core_of = CAN
 		buildings = {
 			infrastructure = 1
 
@@ -14,13 +15,13 @@ state={
 
 
 		}
-		add_core_of = CAN
+
 	}
 
 	provinces={
 		1869
 	}
-	manpower=12684
+	manpower=42684
 	buildings_max_level_factor=1
 	state_category="small_island"
 }

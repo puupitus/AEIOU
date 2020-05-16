@@ -2,7 +2,7 @@
 state={
 	id=445
 	name="STATE_445" # Quetta
-	manpower = 1405100
+	manpower = 2405100
 
 	state_category = wasteland
 
@@ -11,11 +11,12 @@ state={
 			5105 1
 		}
 		owner = BAL
+add_core_of = BAL
 		buildings = {
 			infrastructure = 3
 			air_base = 4
 		}
-		add_core_of = PAK
+
 	}
 
 	provinces={

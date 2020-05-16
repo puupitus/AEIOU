@@ -2,7 +2,7 @@
 state={
 	id=527
 	name="STATE_527"
-	manpower = 6774200
+	manpower = 16774200
 	state_category = town
 	resources={
 		steel=18 # was: 30
@@ -11,6 +11,7 @@ state={
 
 	history={
 		owner = KOR
+add_core_of = KOR
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -20,7 +21,7 @@ state={
 			4052 1
 		}
 
-		add_core_of = KOR
+
 	}
 
 	provinces={

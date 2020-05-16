@@ -5,11 +5,12 @@ state={
 
 	history={
 		owner = CDO
+add_core_of = CDO
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = USA
+		
 
 	}
 

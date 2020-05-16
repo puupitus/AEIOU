@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = FRA
+add_core_of = FRA
 		victory_points = {
 			3552 20
 		}
@@ -34,8 +35,8 @@ state={
 			}
 
 		}
-		add_core_of = FRA
-		add_core_of = BRI
+
+
 		1939.1.1 = {
 			buildings = {
 				dockyard = 5
@@ -49,7 +50,7 @@ state={
 	provinces={
 		542 3552 3758 6536 6548 6572 9495 9510 9525 11465 11508 11616
 	}
-	manpower=3396600
+	manpower=4396600
 	buildings_max_level_factor=1.000
 	state_category=city
 }

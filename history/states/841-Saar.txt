@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = WPH
-		add_core_of = GEM
+add_core_of = WPH
+		
 		buildings = {
 			infrastructure = 8
 		}

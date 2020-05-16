@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = LAK
+add_core_of = LAK
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

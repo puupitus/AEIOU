@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = WAL
+add_core_of = WAL
 		buildings = {
 			infrastructure = 6
 		}
