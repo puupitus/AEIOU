@@ -12,12 +12,12 @@ state={
 		}
 		owner = TUR
 add_core_of = TUR
+add_core_of = BUL
 		buildings = {
 			infrastructure = 4
 
 		}
 
-		add_claim_by = BUL
 
 	}
 

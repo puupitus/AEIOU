@@ -6,6 +6,7 @@ state={
 	history={
 		owner = PRE
 add_core_of = PRE
+add_core_of = MEK
 		victory_points = {
 			321 5
 		}

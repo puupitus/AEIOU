@@ -9,6 +9,7 @@ state={
 	history={
 		owner = CPS
 add_core_of = CPS
+add_core_of = MEX
 		buildings = {
 			infrastructure = 3
 		}

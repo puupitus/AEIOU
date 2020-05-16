@@ -1,14 +1,15 @@
 state={
 	id=690
 	name="STATE_690"
-	manpower = 40000
+	manpower = 140000
 
 	state_category = tiny_island
 
 	history={
-		
+
 		owner = SPW
 add_core_of = SPW
+add_core_of = BAH
 		victory_points = {
 			10254 1
 		}

@@ -6,6 +6,7 @@ state={
 	history={
 		owner = AZR
 add_core_of = AZR
+add_core_of = PER
 		buildings = {
 			infrastructure = 3
 
@@ -15,7 +16,7 @@ add_core_of = AZR
 	}
 
 	provinces={
-		1896 2071 4553 4609 4637 4755 4825 4901 7969 8040 8125 9816 10454 10523 12793 12861
+		1636 1896 1982 2065 2071 4553 4609 4755 4825 4901 7969 8040 8125 9816 10454 10523 10922 12793 12861
 	}
 	manpower=2314948
 	buildings_max_level_factor=1.000

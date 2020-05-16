@@ -11,7 +11,10 @@ state={
 
 	history= {
 		owner = DEI
+add_core_of = INS
 add_core_of = DEI
+add_core_of = SWK
+add_core_of = BRU
 
 		victory_points = {
 			10263 3

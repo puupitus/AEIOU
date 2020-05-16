@@ -9,6 +9,7 @@ state={
 	history={
 		owner = TUR
 add_core_of = TUR
+add_core_of = SYR
 		victory_points = {
 			4111 5
 		}
@@ -16,7 +17,7 @@ add_core_of = TUR
 			infrastructure = 3
 			air_base = 1
 		}
-		
+
 
 	}
 

@@ -2,12 +2,12 @@
 state={
 	id=121
 	name="STATE_121" # Lothian
-	manpower = 2431624
+	manpower = 3431624
 
 	state_category = city
 
 	history={
-		
+
 		owner = SCO
 add_core_of = SCO
 		victory_points = { 9392 10 }

@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		
+
 		owner = SCO
 add_core_of = SCO
 		victory_points = {
@@ -36,7 +36,7 @@ add_core_of = SCO
 	provinces={
 		131 284 3159 3178 3373 6046 6062 6104 6205 9075 9090 11064 11161 11266
 	}
-	manpower=265873
+	manpower=765873
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

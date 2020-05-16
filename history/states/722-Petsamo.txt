@@ -8,13 +8,14 @@ state={
 	history={
 		owner = MOS
 add_core_of = MOS
+add_core_of = FIN
 		buildings = {
 			infrastructure = 3
 			9140 = {
 				naval_base = 1
 			}
 		}
-		
+
 	}
 
 	provinces={

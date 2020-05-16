@@ -5,6 +5,7 @@ state={
 	history={
 		owner = SPR
 add_core_of = SPR
+add_core_of = ADU
 		victory_points = {
 			1048 3
 		}

@@ -6,7 +6,7 @@ state={
 	history={
 		owner = PBA
 add_core_of = PBA
-
+add_core_of = BRA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

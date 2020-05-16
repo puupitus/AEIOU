@@ -8,6 +8,7 @@ state={
 	history={
 		owner = SPW
 add_core_of = SPW
+add_core_of = PAN
 		victory_points = {
 			7617 5
 		}

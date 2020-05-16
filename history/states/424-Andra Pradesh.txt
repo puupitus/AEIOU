@@ -6,6 +6,7 @@ state={
 	history={
 		owner = RAJ
 add_core_of = RAJ
+add_core_of = MDS
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -15,7 +16,7 @@ add_core_of = RAJ
 	}
 
 	provinces={
-		1228 1268 1344 1430 4237 4321 4365 4414 4420 7297 7310 7340 7436 8067 10001 10152 10246 10255 10278 10296 10756 10808 12164 12180 12779 
+		1228 1268 1344 1430 4237 4321 4365 4414 4420 7297 7310 7340 7436 8067 10001 10152 10246 10255 10278 10296 10756 10808 12164 12180 12779
 	}
 	manpower=15791700
 	buildings_max_level_factor=1.000

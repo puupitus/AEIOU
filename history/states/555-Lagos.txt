@@ -2,8 +2,8 @@
 state={
 	id=555
 	name="STATE_555" #Kuril Islands
-	manpower = 15000 
-	
+	manpower = 115000 
+
 	state_category = tiny_island
 
 	history={
@@ -23,6 +23,6 @@ add_core_of = JAP
 	}
 
 	provinces={
-		1399 1515 13037 
+		1399 1515 13037
 	}
 }

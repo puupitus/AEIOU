@@ -10,6 +10,7 @@ state={
 
 		owner = DAI
 add_core_of = DAI
+add_core_of = VIN
 		victory_points = {
 			4401 3
 		}

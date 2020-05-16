@@ -6,14 +6,15 @@ state={
 	history={
 		owner = HAN
 add_core_of = HAN
+add_core_of = HOL
 		victory_points = {
-			241 5 
+			241 5
 		}
 		victory_points = {
-			11360 1 
+			11360 1
 		}
 		victory_points = {
-			11388 5 
+			11388 5
 		}
 		buildings = {
 			infrastructure = 6
@@ -27,7 +28,7 @@ add_core_of = HAN
 			air_base = 3
 
 		}
-		
+
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 4
@@ -40,7 +41,7 @@ add_core_of = HAN
 	}
 
 	provinces={
-		241 336 9281 11264 11360 
+		241 336 9281 11264 11360
 	}
 	manpower=2058467
 	buildings_max_level_factor=1.000

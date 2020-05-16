@@ -6,6 +6,7 @@ state={
 	history={
 		owner = NIR
 add_core_of = NIR
+add_core_of = IRE
 		victory_points = {
 			3379 5
 		}
@@ -26,7 +27,7 @@ add_core_of = NIR
 	provinces={
 		276 385 3217 3242 3329 3379 11257
 	}
-	manpower=2198537
+	manpower=3198537
 	buildings_max_level_factor=1
 	state_category="city"
 

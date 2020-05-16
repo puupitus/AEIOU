@@ -12,6 +12,8 @@ state={
 	history={
 		owner = MAL
 add_core_of = MAL
+add_core_of = SWK
+add_core_of = BRU
 		victory_points = {
 			12299 10
 		}
@@ -40,7 +42,7 @@ add_core_of = MAL
 			}
 
 		}
-		
+
 
 	}
 

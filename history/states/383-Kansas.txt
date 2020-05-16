@@ -9,13 +9,14 @@ state={
 	history={
 		owner = CDO
 add_core_of = CDO
+add_core_of = KAN
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
 			industrial_complex = 1
 
 		}
-		
+
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 2

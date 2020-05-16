@@ -9,6 +9,8 @@ state={
 	history={
 		owner = SWK
 add_core_of = SWK
+add_core_of = BRU
+add_core_of = MAL
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -22,7 +24,7 @@ add_core_of = SWK
 	provinces={
 		1208 2117 4216 4396 7443 8091 10285 12283 12905
 	}
-	manpower=1700000
+	manpower=2700000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

@@ -9,6 +9,8 @@ state={
 	history={
 		owner = FRA
 add_core_of = FRA
+add_core_of = HOL
+add_core_of = BEL
 		buildings = {
 			infrastructure = 8
 		}

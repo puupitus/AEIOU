@@ -9,11 +9,13 @@ state={
 	history={
 		owner = MOS
 add_core_of = MOS
+add_core_of = FIN
+add_core_of = KAR
 		buildings = {
 			infrastructure = 3
 
 		}
-		
+
 
 	}
 

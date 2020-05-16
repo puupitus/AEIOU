@@ -10,6 +10,7 @@ state={
 	history={
 		owner = POL
 add_core_of = POL
+add_core_of = GAL
 		victory_points = {
 			9427 20
 		}
@@ -23,7 +24,7 @@ add_core_of = POL
 			air_base = 4
 
 		}
-		
+
 
 	}
 

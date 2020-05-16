@@ -2,7 +2,7 @@ state={
 	id=758
 	name="STATE_758"
 	provinces={
-		1961 5094 8029 10802 12784 12801 
+		1961 5094 8029 10802 12784 12801
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
@@ -10,10 +10,23 @@ state={
 	history={
 		owner = TIB
 add_core_of = TIB
+add_core_of = CHI
+add_core_of = XSM
+add_core_of = SIK
+add_core_of = YUN
+add_core_of = GXC
+add_core_of = PRC
+add_core_of = GND
+add_core_of = HNN
+add_core_of = ANH
+add_core_of = ZHI
+add_core_of = SHD
+add_core_of = SHX
+add_core_of = BEI
 		buildings = {
 			infrastructure = 1
 		}
-		
+
 
 	}
 }

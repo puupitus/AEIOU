@@ -6,7 +6,7 @@ state={
 	history={
 		owner = CAY
 add_core_of = CAY
-
+add_core_of = AMA
 		buildings = {
 			infrastructure = 1
 		}

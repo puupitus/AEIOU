@@ -9,6 +9,7 @@ state={
 	history={
 		owner = BLR
 add_core_of = BLR
+add_core_of = LIT
 		victory_points = {
 			11370 20
 		}
@@ -20,8 +21,8 @@ add_core_of = BLR
 			industrial_complex = 2
 			air_base = 8
 		}
-		
-		
+
+
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 3

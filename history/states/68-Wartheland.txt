@@ -12,12 +12,13 @@ state={
 		}
 		owner = PRE
 add_core_of = PRE
+add_core_of = LUS
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
 
 		}
-		
+
 
 	}
 

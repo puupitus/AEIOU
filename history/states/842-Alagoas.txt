@@ -5,7 +5,7 @@ state={
 	history={
 		owner = ALA
 add_core_of = ALA
-
+add_core_of = BRA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

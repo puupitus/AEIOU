@@ -1,7 +1,7 @@
 state={
 	id=687
 	name="STATE_687"
-	manpower = 609000
+	manpower = 809000
 
 	state_category = pastoral
 
@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		
+
 		owner = GYA
 add_core_of = GYA
 		victory_points = {

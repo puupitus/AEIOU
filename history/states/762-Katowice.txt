@@ -13,6 +13,7 @@ state={
 		}
 		owner = PRE
 add_core_of = PRE
+add_core_of = HOL
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1

@@ -10,6 +10,8 @@ state=
 	{
 		owner = PHI
 add_core_of = PHI
+add_core_of = SWK
+add_core_of = BRU
 		buildings = {
 			infrastructure = 3
 			4429 = {

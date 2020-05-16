@@ -8,7 +8,9 @@ state={
 
 	history={
 		owner = MON
+add_core_of = TAN
 add_core_of = MON
+add_core_of = MEN
 		victory_points = {
 			4801 5
 		}
@@ -22,7 +24,7 @@ add_core_of = MON
 			air_base = 1
 
 		}
-		
+
 
 	}
 

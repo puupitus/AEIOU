@@ -7,6 +7,8 @@ state={
 	history={
 		owner = MOS
 add_core_of = MOS
+add_core_of = KAR
+add_core_of = FIN
 		victory_points = {
 			11159 1
 		}
@@ -15,7 +17,7 @@ add_core_of = MOS
 			air_base = 3
 
 		}
-		
+
 
 	}
 

@@ -2,8 +2,8 @@
 state={
 	id=131
 	name="STATE_131"
-	manpower = 2128860
-	
+	manpower = 3128860
+
 	state_category = city
 	resources={
 		steel=38 # was: 60
@@ -14,7 +14,7 @@ state={
 		owner = ENG
 add_core_of = ENG
 		victory_points = {
-			351 10 
+			351 10
 		}
 		buildings = {
 			infrastructure = 6
@@ -28,7 +28,7 @@ add_core_of = ENG
 				naval_base = 1
 			}
 		}
-		
+
 		1939.1.1 = {
 			buildings = {
 				dockyard = 5
@@ -38,6 +38,6 @@ add_core_of = ENG
 	}
 
 	provinces={
-		219 351 3311 6399 9285 11270 11299 11332 
+		219 351 3311 6399 9285 11270 11299 11332
 	}
 }

@@ -1,14 +1,14 @@
 state={
 	id=699
 	name="STATE_699"
-	manpower = 21056
+	manpower = 621056
 
 	state_category = wasteland
 
 	history={
 		owner = MOR
 add_core_of = MOR
-		
+add_core_of = WES
 		buildings = {
 			infrastructure = 1
 			8038 = {

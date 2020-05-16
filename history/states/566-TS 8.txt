@@ -10,6 +10,9 @@ state={
 	history={
 		owner = TAN
 add_core_of = TAN
+add_core_of = MON
+add_core_of = MEN
+add_core_of = SIB
 		victory_points = {
 			4797 3
 		}
@@ -26,7 +29,7 @@ add_core_of = TAN
 	provinces={
 		1707 1727 1762 1810 1829 4797 7838 10543 10661 12525 12540 13152
 	}
-	manpower=1255237
+	manpower=1755237
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

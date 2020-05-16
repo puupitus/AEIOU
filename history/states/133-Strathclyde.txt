@@ -2,7 +2,7 @@
 state={
 	id=133
 	name="STATE_133" # Lanark
-	manpower = 2257723
+	manpower = 3257723
 
 	state_category = city
 
@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		
+
 		owner = SCO
 add_core_of = SCO
 		victory_points = {

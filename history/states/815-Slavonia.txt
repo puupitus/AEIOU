@@ -6,7 +6,8 @@ state={
 	history={
 		owner = SLA
 add_core_of = SLA
-		
+add_core_of = SER
+add_core_of = CRO
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1

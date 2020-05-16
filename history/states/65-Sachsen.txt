@@ -9,6 +9,7 @@ state={
 	history={
 		owner = BAY
 add_core_of = BAY
+add_core_of = SAX
 		buildings = {
 			infrastructure = 7
 			arms_factory = 2

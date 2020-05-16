@@ -4,8 +4,8 @@ state={
 	name="STATE_260"
 
 	history={
-		owner = DON
-add_core_of = DON
+		owner = MOS
+		add_core_of = MOS
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
@@ -15,11 +15,10 @@ add_core_of = DON
 			413 5
 		}
 
-
 	}
 
 	provinces={
-		413 510 3469 3527 3566 3567 6428 6477 6553 6587 9448 9552 11396 11412 11475 11540
+		413 510 3527 3566 6428 6553 6587 9448 11540
 	}
 	manpower=2567983
 	buildings_max_level_factor=1.000

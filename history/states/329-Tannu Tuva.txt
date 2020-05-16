@@ -2,7 +2,7 @@
 state={
 	id=329
 	name="STATE_329"
-	manpower = 585000
+	manpower = 985000
 	resources={
 		chromium=2 # was: 2
 	}
@@ -12,6 +12,9 @@ state={
 	history={
 		owner = TAN
 add_core_of = TAN
+add_core_of = MON
+add_core_of = MEN
+add_core_of = SIB
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

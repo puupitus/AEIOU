@@ -9,6 +9,7 @@ state={
 	history={
 		owner = MAR
 add_core_of = MAR
+add_core_of = BRA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -19,7 +20,7 @@ add_core_of = MAR
 			}
 
 		}
-		
+
 		victory_points = {
 			12853 1
 		}

@@ -6,6 +6,7 @@ state={
 	history={
 		owner = RGN
 add_core_of = RGN
+add_core_of = BRA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

@@ -9,6 +9,7 @@ state={
 	history={
 		owner = ACA
 add_core_of = ACA
+add_core_of = CAN
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2

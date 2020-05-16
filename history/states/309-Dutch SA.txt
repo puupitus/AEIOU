@@ -2,7 +2,7 @@
 state={
 	id=309
 	name="STATE_309"
-	manpower = 452000
+	manpower = 752000
 
 	resources={
 		aluminium=60 # was: 104
@@ -11,7 +11,7 @@ state={
 	state_category = rural
 
 	history={
-		
+
 		owner = SUR
 add_core_of = SUR
 		victory_points = {

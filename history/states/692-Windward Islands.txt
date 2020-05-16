@@ -1,11 +1,11 @@
 state={
 	id=692
 	name="STATE_692"
-	manpower=76485
+	manpower=176485
 	state_category = small_island
 
 	history={
-		
+
 		owner = GDL
 add_core_of = GDL
 		buildings = {

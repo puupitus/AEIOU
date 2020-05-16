@@ -8,6 +8,8 @@ state={
 
 	history={
 		owner = MLT
+		add_core_of = PAL
+		add_core_of = ISR
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

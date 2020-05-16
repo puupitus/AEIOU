@@ -8,6 +8,8 @@ state={
 	history={
 		owner = POL
 add_core_of = POL
+add_core_of = UKR
+add_core_of = GAL
 		victory_points = {
 			11479 3
 		}
@@ -19,8 +21,8 @@ add_core_of = POL
 			industrial_complex = 3
 			air_base = 5
 		}
-		
-		
+
+
 	}
 
 	provinces={

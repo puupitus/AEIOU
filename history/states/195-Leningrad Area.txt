@@ -6,6 +6,7 @@ state={
 	history={
 		owner = MOS
 add_core_of = MOS
+add_core_of = ING
 		victory_points = {
 			3151 30.0
 		}
@@ -22,7 +23,7 @@ add_core_of = MOS
 			}
 
 		}
-		
+
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 7

@@ -9,6 +9,7 @@ state={
 	history={
 		owner = SOV
 add_core_of = SOV
+add_core_of = SIB
 		victory_points = {
 			12189 1
 		}
@@ -29,7 +30,7 @@ add_core_of = SOV
 	provinces={
 		725 739 753 1267 1325 1343 1397 1504 3664 3756 3963 4290 4404 4841 4844 6774 7249 7266 7309 7868 9589 9604 9659 9733 9749 10466 10571 11575 11719 12136 12189 12559
 	}
-	manpower=795605
+	manpower=1295605
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

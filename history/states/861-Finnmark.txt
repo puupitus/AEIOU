@@ -9,6 +9,7 @@ state={
 	history={
 		owner = NOR
 add_core_of = NOR
+add_core_of = FIN
 		buildings = {
 		infrastructure = 3
 		}

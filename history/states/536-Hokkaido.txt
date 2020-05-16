@@ -9,7 +9,7 @@ state={
 	history={
 		owner = GEA
 add_core_of = GEA
-		
+add_core_of = JAP		
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3

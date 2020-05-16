@@ -9,6 +9,7 @@ state={
 	history={
 		owner = YUC
 add_core_of = YUC
+add_core_of = MEX
 		buildings = {
 			infrastructure = 3
 			air_base = 1

@@ -9,7 +9,7 @@ state={
 		}
 		owner = TZN
 add_core_of = TZN
-		
+add_core_of = SUD		
 		buildings = {
 			infrastructure = 3
 

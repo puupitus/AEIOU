@@ -9,7 +9,7 @@ state={
 	history={
 		owner = SOM
 add_core_of = SOM
-
+add_core_of = DJI	
 		victory_points = {
 			8124 1
 		}

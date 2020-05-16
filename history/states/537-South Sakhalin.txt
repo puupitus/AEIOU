@@ -1,7 +1,7 @@
 state= {
 	id=537
 	name="STATE_537"
-	manpower = 595196
+	manpower = 795196
 	resources={
 		oil=3 # was: 4
 	}
@@ -11,7 +11,7 @@ state= {
 	history= {
 		owner = SOV
 add_core_of = SOV
-
+add_core_of = SIB
 
 		buildings = {
 			infrastructure = 3

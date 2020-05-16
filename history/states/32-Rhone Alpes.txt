@@ -14,14 +14,15 @@ state={
 	history={
 		owner = FRA
 add_core_of = FRA
+add_core_of = OCC
 		buildings = {
 			infrastructure = 4
 		}
 		victory_points = {
 			3768 1
 		}
-		
-		
+
+
 	}
 
 	provinces={

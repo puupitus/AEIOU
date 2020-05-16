@@ -21,7 +21,7 @@ add_core_of = PER
 	}
 
 	provinces={
-		4580 8093 10385 10768 10837 12704 12818
+		4580 4637 8093 10385 10768 10837 12704 12818
 	}
 	manpower=5446250
 	buildings_max_level_factor=1.000

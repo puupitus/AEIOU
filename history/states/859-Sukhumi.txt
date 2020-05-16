@@ -6,7 +6,7 @@ state={
 	history={
 		owner = ABK
 add_core_of = ABK
-		
+add_core_of = GEO
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

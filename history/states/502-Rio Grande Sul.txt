@@ -9,6 +9,7 @@ state={
 	history={
 		owner = PIR
 add_core_of = PIR
+add_core_of = BRA
 		buildings = {
 			infrastructure = 5
 			air_base = 2
@@ -16,7 +17,7 @@ add_core_of = PIR
 				naval_base = 3
 			}
 		}
-		
+
 		victory_points = {
 			10447 3
 		}

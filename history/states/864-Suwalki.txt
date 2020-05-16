@@ -18,7 +18,7 @@ add_core_of = LIT
 	provinces={
 		347 400 3254 11301 11357
 	}
-	manpower=700000
+	manpower=1300000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
