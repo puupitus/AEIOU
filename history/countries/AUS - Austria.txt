@@ -53,14 +53,6 @@ set_autonomy = {
 		autonomous_state = autonomy_integrated_puppet
 }
 set_autonomy = {
-		target = MOL
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
-		target = ROM
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
 		target = BAY
 		autonomous_state = autonomy_integrated_puppet
 }
@@ -106,6 +98,18 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = UKR
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = BLR
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = MOL
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = ROM
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
