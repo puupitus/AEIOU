@@ -5,7 +5,7 @@ state={
 
 	history={
 		owner = COL
-add_core_of = COL
+		add_core_of = COL
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -13,7 +13,6 @@ add_core_of = COL
 			air_base = 2
 
 		}
-		
 		victory_points = {
 			10747 10 
 		}
@@ -21,7 +20,7 @@ add_core_of = COL
 	}
 
 	provinces={
-		2023 10494 10747 10790 12872 
+		2023 4969 10494 10790 10864 12703 12790 12872 
 	}
 	manpower=4953049
 	buildings_max_level_factor=1.000

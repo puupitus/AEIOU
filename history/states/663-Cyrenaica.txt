@@ -1,20 +1,22 @@
+
 state={
 	id=663
 	name="STATE_663"
-	manpower = 338808
-
-	state_category = wasteland
 
 	history={
 		owner = SEO
-add_core_of = SEO
+		add_core_of = SEO
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		1062 1186 4060 4063 4133 7063 7139 7206 9977 10049 12025 12079 13078
+		1060 1140 4133 9977 10785 11951 
 	}
+	manpower=338808
+	buildings_max_level_factor=1.000
+	state_category=wasteland
 }

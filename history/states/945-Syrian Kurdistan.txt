@@ -1,14 +1,16 @@
 
 state={
-	id=855
-	name="STATE_855"
+	id=945
+	name="STATE_945"
 
 	history={
-		owner = FIN
-add_core_of = FIN
-add_core_of = SWE
+		owner = TUR
+		add_core_of = SYR
+		add_core_of = TUR
+		add_core_of = KUR
 		buildings = {
 			infrastructure = 2
+
 		}
 		victory_points = {
 
@@ -17,9 +19,9 @@ add_core_of = SWE
 	}
 
 	provinces={
-		124 3055 3193 11115 11125 11130
+		901 1549 1578 1606 1634 6883 10882 
 	}
-	manpower=260000
+	manpower=500000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

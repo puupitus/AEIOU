@@ -5,17 +5,16 @@ state={
 
 	history={
 		owner = SEO
-add_core_of = SEO
+		add_core_of = SEO
 		buildings = {
 			infrastructure = 0
 
 		}
 
-
 	}
 
 	provinces={
-		1057 1060 1140 1994 4191 7985 10104 10754 10785 11951
+		1057 1994 4191 10104 
 	}
 	manpower=142633
 	buildings_max_level_factor=1.000

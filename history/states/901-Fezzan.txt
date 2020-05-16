@@ -5,9 +5,10 @@ state={
 
 	history={
 		owner = ALG
-add_core_of = ALG
+		add_core_of = ALG
 		buildings = {
 			infrastructure = 0
+
 		}
 		victory_points = {
 
@@ -16,7 +17,7 @@ add_core_of = ALG
 	}
 
 	provinces={
-		4962 5004 10884 12022 12082 12866
+		5004 10884 12022 12082 
 	}
 	manpower=20000
 	buildings_max_level_factor=1.000

@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = MOS
-add_core_of = MOS
+		add_core_of = MOS
 		victory_points = {
 			11349 1 
 		}
@@ -16,12 +16,11 @@ add_core_of = MOS
 			infrastructure = 5
 
 		}
-		
 
 	}
 
 	provinces={
-		226 287 333 2999 3101 3215 3235 6264 6303 6367 6400 9265 9343 11224 11272 11315 11326 11349 
+		226 333 2999 3101 3215 9265 9343 11224 11315 11349 
 	}
 	manpower=1025458
 	buildings_max_level_factor=1.000
