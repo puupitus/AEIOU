@@ -1149,8 +1149,8 @@ SHD = {
 	color_ui = rgb { 189 60 17 }
 }
 ANH = {
-	color = rgb { 31 107 41 }
-	color_ui = rgb { 31 107 41 }
+	color = rgb { 230 201 14 }
+	color_ui = rgb { 230 201 14 }
 }
 ZHI = {
 	color = rgb { 181 29 148 }
