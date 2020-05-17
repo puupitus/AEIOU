@@ -18,7 +18,7 @@ add_core_of = NAP
 	provinces={
 		3958 3968 6972 9856
 	}
-	manpower=400000
+	manpower=1400000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
