@@ -31,7 +31,7 @@ add_core_of = CHL
 	provinces={
 		5146 8217 8231 12994
 	}
-	manpower=283605
+	manpower=783605
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

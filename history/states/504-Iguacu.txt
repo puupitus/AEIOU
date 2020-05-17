@@ -18,7 +18,7 @@ add_core_of = BRA
 	provinces={
 		5200 8224 12951
 	}
-	manpower=929900
+	manpower=1929900
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

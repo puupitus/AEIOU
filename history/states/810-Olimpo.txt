@@ -5,7 +5,7 @@ state={
 	history={
 		owner = BOL
 add_core_of = BOL
-		
+
 		buildings = {
 			infrastructure = 3
 		}
@@ -15,7 +15,7 @@ add_core_of = BOL
 	provinces={
 		2195 5165 8203 10973
 	}
-	manpower=200000
+	manpower=500000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

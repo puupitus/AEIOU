@@ -10,14 +10,14 @@ add_core_of = COL
 			infrastructure = 1
 
 		}
-		
+
 
 	}
 
 	provinces={
-		1887 5026 10792 12729 
+		1887 5026 10792 12729
 	}
-	manpower=213160
+	manpower=1213160
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

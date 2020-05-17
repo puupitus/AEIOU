@@ -19,7 +19,7 @@ add_core_of = PRU
 	provinces={
 		2156 8149 10942
 	}
-	manpower=370020
+	manpower=670020
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }
