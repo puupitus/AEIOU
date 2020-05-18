@@ -23,7 +23,6 @@ add_core_of = MAC
 
 		}
 
-		add_claim_by = BUL
 
 	}
 

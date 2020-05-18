@@ -5,9 +5,10 @@ state={
 
 	history={
 		owner = LAT
-add_core_of = LAT
+		add_core_of = LAT
 		buildings = {
 			infrastructure = 5
+
 		}
 		victory_points = {
 
@@ -16,7 +17,7 @@ add_core_of = LAT
 	}
 
 	provinces={
-		222 310 319 341 6459 9275
+		222 310 319 341 6459 7482 9275 11222 
 	}
 	manpower=900000
 	buildings_max_level_factor=1.000

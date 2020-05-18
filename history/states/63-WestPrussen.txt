@@ -9,12 +9,12 @@ state={
 
 	history={
 		owner = PRE
-add_core_of = PRE
+		add_core_of = PRE
 		victory_points = {
-			6282 5
+			6282 5 
 		}
 		victory_points = {
-			11372 3
+			11372 3 
 		}
 		buildings = {
 			infrastructure = 6
@@ -31,11 +31,10 @@ add_core_of = PRE
 
 		}
 
-
 	}
 
 	provinces={
-		388 537 6236 6282 6309 6334 6390 9252 9277 9306 9334 9361 9387 11232 11260 11288 11316 11343 11372
+		444 537 3473 6236 6282 6309 6334 6390 9252 9277 9306 9334 9361 9387 11260 11288 11316 11343 11372 11478 
 	}
 	manpower=2124417
 	buildings_max_level_factor=1.000

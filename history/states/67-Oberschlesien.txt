@@ -19,6 +19,7 @@ state={
 		}
 		owner = PRE
 add_core_of = PRE
+add_core_of = GER
 		buildings = {
 			infrastructure = 6
 		}

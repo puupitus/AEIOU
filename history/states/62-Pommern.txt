@@ -5,16 +5,15 @@ state={
 
 	history={
 		victory_points = {
-			9388 1
+			9388 1 
 		}
 		owner = PRE
-add_core_of = PRE
+		add_core_of = PRE
 		buildings = {
 			infrastructure = 6
 			fuel_silo = 1
 
 		}
-
 		1939.1.1 = {
 			buildings = {
 				air_base = 8
@@ -26,7 +25,7 @@ add_core_of = PRE
 	}
 
 	provinces={
-		349 3312 3340 9388
+		349 3207 3312 3340 9388 
 	}
 	manpower=2006221
 	buildings_max_level_factor=1.000
