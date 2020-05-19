@@ -19,8 +19,8 @@ add_core_of = SHD
 add_core_of = SHX
 add_core_of = BEI
 add_core_of = AEI
-		
-		
+
+
 		victory_points = {
 			10000 5
 		}
@@ -36,10 +36,7 @@ add_core_of = AEI
 			}
 
 		}
-		1938.10.25 = {
-
-
-		}
+	
 
 	}
 

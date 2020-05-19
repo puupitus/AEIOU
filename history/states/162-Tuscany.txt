@@ -19,7 +19,7 @@ add_core_of = TUS
 			infrastructure = 8
 			arms_factory = 1
 			industrial_complex = 1
-			dockyard = 3
+			dockyard = 1
 			air_base = 2
 			6973 = {
 				naval_base = 10
@@ -31,15 +31,7 @@ add_core_of = TUS
 			}
 
 		}
-
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-				industrial_complex = 2
-
-			}
-
-		}
+ 
 
 	}
 

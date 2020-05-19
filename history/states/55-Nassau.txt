@@ -10,7 +10,7 @@ add_core_of = HES
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
-			industrial_complex = 2
+			industrial_complex = 1
 
 		}
 		victory_points = {
@@ -20,14 +20,6 @@ add_core_of = HES
 			564 3
 		}
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 3
-				arms_factory = 4
-
-			}
-
-		}
 
 	}
 

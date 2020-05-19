@@ -21,7 +21,7 @@ add_core_of = POR
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
+			industrial_complex = 1
 		}
 		
 	}

@@ -16,7 +16,7 @@ state={
 add_core_of = SCO
 		buildings = {
 			infrastructure = 6
-			dockyard = 2
+			dockyard = 1
 		}
 	}
 

@@ -14,17 +14,12 @@ add_core_of = SIB
 		}
 		buildings = {
 			infrastructure = 6
-			arms_factory = 2
+			arms_factory = 1
 			industrial_complex = 1
 			air_base = 1
 
 		}
 
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 3
-			}
-		}
 	}
 
 	provinces={

@@ -19,7 +19,7 @@ add_core_of = ENG
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
-			dockyard = 4
+			dockyard = 1
 			air_base = 6
 			351 = {
 				naval_base = 6
@@ -29,12 +29,6 @@ add_core_of = ENG
 			}
 		}
 
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-				industrial_complex = 2
-			}
-		}
 	}
 
 	provinces={

@@ -23,9 +23,9 @@ add_core_of = ZHI
 add_core_of = SHD
 add_core_of = SHX
 add_core_of = BEI
-		
-		
-		
+
+
+
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -33,32 +33,6 @@ add_core_of = BEI
 				naval_base = 1
 				coastal_bunker = 1
 				bunker = 1
-
-			}
-
-		}
-		1938.10.25 = {
-			remove_core_of = GXC
-			owner = GXC
-add_core_of = CHI
-add_core_of = XSM
-add_core_of = SIK
-add_core_of = YUN
-add_core_of = GXC
-add_core_of = PRC
-add_core_of = GND
-add_core_of = HNN
-add_core_of = ANH
-add_core_of = ZHI
-add_core_of = SHD
-add_core_of = SHX
-add_core_of = BEI
-			JAP = {
-
-
-
-
-
 
 			}
 

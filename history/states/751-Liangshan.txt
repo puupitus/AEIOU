@@ -18,8 +18,8 @@ add_core_of = ZHI
 add_core_of = SHD
 add_core_of = SHX
 add_core_of = BEI
-		
-		
+
+
 		buildings = {
 			infrastructure = 1
 
@@ -30,14 +30,7 @@ add_core_of = BEI
 		victory_points = {
 			7294 1
 		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 1
-				infrastructure = 2
-
-			}
-
-		}
+		 
 
 	}
 

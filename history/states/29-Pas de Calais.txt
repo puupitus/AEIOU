@@ -22,7 +22,7 @@ state={
 		}
 		buildings = {
 			infrastructure = 8
-			industrial_complex = 3
+			industrial_complex = 1
 			air_base = 10
 			575 = {
 				naval_base = 6
@@ -30,13 +30,7 @@ state={
 			}
 
 		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 6
-
-			}
-
-		}
+	 
 
 	}
 

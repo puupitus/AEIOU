@@ -5,7 +5,7 @@ state={
 
 	history={
 		victory_points = {
-			11683 3 
+			11683 3
 		}
 		owner = UKR
 add_core_of = UKR
@@ -14,20 +14,13 @@ add_core_of = UKR
 			dockyard = 1
 
 		}
-		
-		
-		1939.1.1 = {
-			buildings = {
-				dockyard = 2
 
-			}
-
-		}
+ 
 
 	}
 
 	provinces={
-		409 574 3403 3755 6597 9573 11546 11683 11715 
+		409 574 3403 3755 6597 9573 11546 11683 11715
 	}
 	manpower=896311
 	buildings_max_level_factor=1.000

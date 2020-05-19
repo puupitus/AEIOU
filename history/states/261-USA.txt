@@ -14,7 +14,7 @@ add_core_of = MID
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
-			industrial_complex = 6
+			industrial_complex = 1
 
 		}
 
@@ -24,13 +24,7 @@ add_core_of = MID
 		victory_points = {
 			6890 10
 		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 7
-
-			}
-
-		}
+	 
 
 	}
 

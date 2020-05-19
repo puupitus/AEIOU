@@ -235,10 +235,7 @@ technologies = {
 
 		ai_will_do = {
 			factor = 1
-			modifier = {
-				has_war_with = GER
-				factor = 5
-			}
+
 			modifier = {
 
 				factor = 2

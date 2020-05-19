@@ -23,40 +23,16 @@ add_core_of = ZHI
 add_core_of = SHD
 add_core_of = SHX
 add_core_of = BEI
-		
-		
+
+
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 2
+			industrial_complex = 1
 		}
 		victory_points = {
 			9958 1
 		}
 
-		1938.10.25 = {
-			buildings = {
-				industrial_complex = 4
-				infrastructure = 8
-				air_base = 2
-				arms_factory = 2
-			}
-			JAP = {
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			}
-		}
 	}
 
 	provinces={

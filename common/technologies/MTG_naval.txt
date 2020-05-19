@@ -251,10 +251,7 @@ technologies = {
 		ai_will_do = {
 			factor = 4
 
-			modifier = {
-				factor = 2
-				has_war_with = GER
-			}
+
 			modifier = {
 				factor = 2
 				anti_submarine_strategy_required_trigger = yes
@@ -297,10 +294,6 @@ technologies = {
 
 			modifier = {
 				factor = 2
-				has_war_with = GER
-			}
-			modifier = {
-				factor = 2
 				anti_submarine_strategy_required_trigger = yes
 			}
 		}
@@ -338,10 +331,7 @@ technologies = {
 		ai_will_do = {
 			factor = 2
 
-			modifier = {
-				factor = 4
-				has_war_with = GER
-			}
+
 			modifier = {
 				factor = 2
 				anti_submarine_strategy_required_trigger = yes
@@ -379,10 +369,6 @@ technologies = {
 			factor = 2
 
 			modifier = {
-				factor = 4
-				has_war_with = GER
-			}
-			modifier = {
 				factor = 2
 				anti_submarine_strategy_required_trigger = yes
 			}
@@ -418,10 +404,6 @@ technologies = {
 			factor = 2
 
 			modifier = {
-				factor = 4
-				has_war_with = GER
-			}
-			modifier = {
 				factor = 2
 				anti_submarine_strategy_required_trigger = yes
 			}
@@ -453,10 +435,6 @@ technologies = {
 		ai_will_do = {
 			factor = 2
 
-			modifier = {
-				factor = 4
-				has_war_with = GER
-			}
 			modifier = {
 				factor = 2
 				anti_submarine_strategy_required_trigger = yes
@@ -3433,15 +3411,6 @@ early_ship_hull_carrier = {
 
 			}
 
-			modifier = {
-				factor = 10
-				OR = {
-
-
-				}
-				has_war_with = GER
-				GER = { has_war_with = SOV }
-			}
 		}
 
 		categories = {

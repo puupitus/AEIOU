@@ -11,27 +11,23 @@ state={
 		owner = CZE
 		add_core_of = CZE
 		victory_points = {
-			3569 20 
+			3569 20
 		}
 		victory_points = {
-			6562 5 
+			6562 5
 		}
 		buildings = {
 			infrastructure = 7
-			industrial_complex = 4
+			industrial_complex = 1
 			air_base = 5
 
 		}
-		1939.3.14 = {
-			owner = AUS
-			add_core_of = AUS
 
-		}
 
 	}
 
 	provinces={
-		421 569 3553 3569 6562 6576 6590 11511 
+		421 569 3553 3569 6562 6576 6590 11511
 	}
 	manpower=3598400
 	buildings_max_level_factor=1.000

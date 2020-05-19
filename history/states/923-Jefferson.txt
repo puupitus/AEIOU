@@ -12,7 +12,7 @@ add_core_of = NWE
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
-			industrial_complex = 3
+			industrial_complex = 1
 		}
 		victory_points = {
 

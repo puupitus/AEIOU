@@ -20,17 +20,12 @@ add_core_of = BAY
 		}
 		buildings = {
 			infrastructure = 7
-			arms_factory = 2
+			arms_factory = 1
 			industrial_complex = 1
 			air_base = 6
 		}
 
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 10
-			}
-		}
 	}
 
 	provinces={

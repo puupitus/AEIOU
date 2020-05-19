@@ -17,26 +17,12 @@ add_core_of = AUS
 		}
 		buildings = {
 			infrastructure = 9
-			arms_factory = 6
-			industrial_complex = 7
+			arms_factory = 1
+			industrial_complex = 1
 			air_base = 6
 
 		}
-		
-		1938.3.12 = {
-			owner = AUS
-add_core_of = AUS
 
-			
-
-		}
-		1939.1.1 = {
-			buildings = {
-				anti_air_building = 5
-
-			}
-
-		}
 
 	}
 

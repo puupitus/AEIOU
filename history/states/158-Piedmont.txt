@@ -22,9 +22,9 @@ add_core_of = SAR
 		}
 		buildings = {
 			infrastructure = 7
-			arms_factory = 7
+			arms_factory = 1
 			industrial_complex = 1
-			dockyard = 2
+			dockyard = 1
 			air_base = 8
 			6788 = {
 				naval_base = 8
@@ -32,16 +32,7 @@ add_core_of = SAR
 			}
 
 		}
-
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 10
-				industrial_complex = 2
-				dockyard = 3
-
-			}
-
-		}
+ 
 
 	}
 

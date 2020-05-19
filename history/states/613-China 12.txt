@@ -43,10 +43,7 @@ add_core_of = AEI
 		victory_points = {
 			10076 3
 		}
-		1938.10.25 = {
-
-
-		}
+	
 
 	}
 

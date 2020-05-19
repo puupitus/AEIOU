@@ -9,7 +9,7 @@ add_core_of = TMS
 add_core_of = PER
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 2
+			industrial_complex = 1
 
 		}
 		victory_points = {

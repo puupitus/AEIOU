@@ -15,6 +15,30 @@ bookmarks = {
 			focuses = {
 			}
 		}
+		"ENG"={
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"AUS"={
+			history = "AUS_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"HOL"={
+			history = "HOL_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
 
 		"---"={
 			history = "OTHER_GATHERING_STORM_DESC"

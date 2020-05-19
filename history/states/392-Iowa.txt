@@ -11,18 +11,14 @@ state={
 add_core_of = LOU
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 4
+			industrial_complex = 1
 		}
-		
+
 		victory_points = {
 			1770 3
 		}
 
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 5
-			}
-		}
+	 
 
 	}
 

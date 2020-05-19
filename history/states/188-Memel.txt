@@ -22,12 +22,7 @@ add_core_of = LIT
 			}
 		}
 
-
-		1939.3.22 = {
-			owner = AUS
-add_core_of = AUS
-
-		}
+ 
 	}
 	provinces={
 		3288

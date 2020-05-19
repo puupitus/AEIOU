@@ -17,9 +17,9 @@ add_core_of = JAP
 		buildings = {
 			infrastructure = 8
 			air_base = 6
-			industrial_complex = 5
-			arms_factory = 2
-			dockyard = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
 			9998 = {
 				naval_base = 6
 
@@ -29,13 +29,7 @@ add_core_of = JAP
 		victory_points = {
 			1182 50
 		}
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 4
-				dockyard = 4
-				industrial_complex = 6
-			}
-		}
+	 
 
 	}
 

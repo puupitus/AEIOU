@@ -20,7 +20,7 @@ add_core_of = FRA
 		}
 		buildings = {
 			infrastructure = 7
-			industrial_complex = 3
+			industrial_complex = 1
 			549 = {
 				bunker = 10
 
@@ -53,14 +53,7 @@ add_core_of = FRA
 			air_base = 5
 
 		}
-
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-
-			}
-
-		}
+ 
 
 	}
 

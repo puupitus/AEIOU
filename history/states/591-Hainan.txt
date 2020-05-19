@@ -20,9 +20,9 @@ add_core_of = SHD
 add_core_of = SHX
 add_core_of = BEI
 add_core_of = AEI
-		
-		
-		
+
+
+
 
 		victory_points = {
 			1070 1
@@ -37,16 +37,6 @@ add_core_of = AEI
 
 		}
 
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = { has_dlc = "Waking the Tiger" }
-				}
-				remove_core_of = GXC
-				CHI = { transfer_state = PREV }
-			}
-
-		}
 	}
 
 	provinces={

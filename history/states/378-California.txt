@@ -12,9 +12,9 @@ state={
 add_core_of = CAL
 		buildings = {
 			infrastructure = 6
-			arms_factory = 2
-			industrial_complex = 6
-			dockyard = 2
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
 			air_base = 10
 			1562 = {
 				naval_base = 10
@@ -47,13 +47,7 @@ add_core_of = CAL
 		victory_points = {
 			9713 1
 		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 7
-
-			}
-
-		}
+	 
 
 	}
 

@@ -11,32 +11,26 @@ state={
 add_core_of = ETH
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 2
+			arms_factory = 1
+			industrial_complex = 1
 			air_base = 1
 
 		}
 		victory_points = {
-			5010 5 
+			5010 5
 		}
 		victory_points = {
-			1984 1.0 
+			1984 1.0
 		}
 		victory_points = {
-			7980 1.0 
+			7980 1.0
 		}
 		
-		1936.6.1 = {
-			owner = SAR
-add_core_of = SAR
-
-
-		}
 
 	}
 
 	provinces={
-		2009 5010 5041 5097 7912 7944 8019 8036 10734 12856 
+		2009 5010 5041 5097 7912 7944 8019 8036 10734 12856
 	}
 	manpower=10000000
 	buildings_max_level_factor=1.000

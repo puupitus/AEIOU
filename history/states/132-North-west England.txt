@@ -24,19 +24,13 @@ add_core_of = ENG
 			infrastructure = 8
 			arms_factory = 1
 			industrial_complex = 1
-			dockyard = 3
+			dockyard = 1
 			air_base = 3
 			6384 = {
 				naval_base = 5
 			}
 		}
 
-		1939.1.1 = {
-			buildings = {
-				dockyard = 4
-				industrial_complex = 2
-			}
-		}
 	}
 	provinces= {
 		3205 6318 6335 6384
