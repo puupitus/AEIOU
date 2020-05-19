@@ -1,7 +1,7 @@
 ﻿POL_OPERATIVE_CODENAME_HISTORICAL = {
 	name = POL_OPERATIVE_CODENAME_HISTORICAL
 
-	for_countries = { POL }
+	for_countries = { POL GAL GER LUS }
 
 	type = codename
 
