@@ -6,13 +6,11 @@ state={
 	history={
 		owner = ALB
 add_core_of = ALB
-		
+
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = {
-
-		}
+ 
 
 	}
 

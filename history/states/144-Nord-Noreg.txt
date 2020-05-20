@@ -17,10 +17,7 @@ add_core_of = NOR
 				naval_base = 3
 
 			}
-			9116 = {
-				naval_base = 3
-
-			}
+			
 			11050 = {
 				naval_base = 2
 

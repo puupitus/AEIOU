@@ -8,10 +8,13 @@ add_core_of = BRA
 add_core_of = ESP
 		buildings = {
 			infrastructure = 6
-		}
-		victory_points = {
+industrial_complex = 1
+10999 = {
+	naval_base = 1
 
+}
 		}
+ 
 
 	}
 	provinces={

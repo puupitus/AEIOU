@@ -9,16 +9,13 @@ add_core_of = BOL
 add_core_of = CHL
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+
 			air_base = 1
 			12994 = {
 				naval_base = 1
 
 			}
-			5228 = {
-				naval_base = 2
-
-			}
+			
 
 		}
 

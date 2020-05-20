@@ -8,16 +8,15 @@ state={
 		add_core_of = FIN
 		buildings = {
 			infrastructure = 5
+arms_factory = 1
 
 		}
-		victory_points = {
-
-		}
+ 
 
 	}
 
 	provinces={
-		67 3025 3119 3137 6047 6138 6141 6163 9056 9160 9166 9167 11033 11144 13100 13102 13103 13106 13107 13110 13113 
+		67 3025 3119 3137 6047 6138 6141 6163 9056 9160 9166 9167 11033 11144 13100 13102 13103 13106 13107 13110 13113
 	}
 	manpower=1200000
 	buildings_max_level_factor=1.000

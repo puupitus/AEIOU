@@ -10,9 +10,7 @@ add_core_of = AMZ
 		buildings = {
 			infrastructure = 1
 		}
-		victory_points = {
-
-		}
+ 
 
 	}
 

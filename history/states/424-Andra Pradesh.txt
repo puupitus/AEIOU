@@ -9,7 +9,11 @@ add_core_of = RAJ
 add_core_of = MDS
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
+arms_factory = 1
+10278 = {
+	naval_base = 4
+
+}
 
 		}
 

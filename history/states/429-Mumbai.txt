@@ -8,7 +8,8 @@ state={
 add_core_of = DEC
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
+arms_factory = 1
+
 			air_base = 2
 			1349 = {
 				naval_base = 6

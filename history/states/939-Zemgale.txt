@@ -8,16 +8,15 @@ state={
 		add_core_of = COU
 		buildings = {
 			infrastructure = 5
+arms_factory = 1
 
 		}
-		victory_points = {
-
-		}
+ 
 
 	}
 
 	provinces={
-		265 3525 6222 6342 
+		265 3525 6222 6342
 	}
 	manpower=500000
 	buildings_max_level_factor=1.000

@@ -19,13 +19,14 @@ state={
 add_core_of = NOR
 		buildings = {
 			infrastructure = 6
-			arms_factory = 1
-			industrial_complex = 1
-			dockyard = 1
+industrial_complex = 1
+
+
+
 			air_base = 4
 			6115 = {
 				naval_base = 6
-				coastal_bunker = 3
+
 			}
 		}
 		

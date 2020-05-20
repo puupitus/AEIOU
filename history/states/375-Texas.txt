@@ -12,16 +12,14 @@ state={
 add_core_of = TEX
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 1
+industrial_complex = 1
+
 			air_base = 3
 			10337 = {
 				naval_base = 3
 
 			}
-			6785 = {
-				naval_base = 1
-
-			}
+			
 
 		}
 

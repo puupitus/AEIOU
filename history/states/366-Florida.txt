@@ -8,7 +8,8 @@ state={
 add_core_of = BRS
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
+arms_factory = 1
+
 			air_base = 8
 			1572 = {
 				naval_base = 2
@@ -22,10 +23,7 @@ add_core_of = BRS
 				naval_base = 3
 
 			}
-			10352 = {
-				naval_base = 1
 
-			}
 
 		}
 

@@ -8,11 +8,10 @@ state={
 add_core_of = PRM
 		buildings = {
 			infrastructure = 7
-			industrial_complex = 1
-		}
-		victory_points = {
+industrial_complex = 1
 
 		}
+ 
 
 	}
 

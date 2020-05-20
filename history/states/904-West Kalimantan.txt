@@ -12,11 +12,13 @@ add_core_of = BRU
 add_core_of = MAL
 		buildings = {
 			infrastructure = 2
-		}
-		victory_points = {
+			1316 = {
+				naval_base = 1
+
+			}
 
 		}
-
+ 
 	}
 
 	provinces={

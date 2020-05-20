@@ -10,17 +10,18 @@ add_core_of = FIN
 
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 1
+arms_factory = 1
+
 
 			#Mannerheim Line
 			9100 = {
-				bunker = 2
+
 			}
 			9105 = {
-				bunker = 2
+
 			}
 			9206 = {
-				coastal_bunker = 1
+
 			}
 		}
 		victory_points = {

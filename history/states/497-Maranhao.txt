@@ -12,12 +12,9 @@ add_core_of = MAR
 add_core_of = BRA
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			air_base = 1
-			12853 = {
-				naval_base = 2
 
-			}
+			air_base = 1
+			
 
 		}
 

@@ -8,10 +8,17 @@ add_core_of = ROM
 add_core_of = BUL
 		buildings = {
 			infrastructure = 6
-		}
-		victory_points = {
+industrial_complex = 1
+657 = {
+	naval_base = 8
 
+}
+687 = {
+	naval_base = 1
+
+}
 		}
+ 
 
 	}
 	provinces={

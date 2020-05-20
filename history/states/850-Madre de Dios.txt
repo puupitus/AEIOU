@@ -6,13 +6,11 @@ state={
 	history={
 		owner = PRU
 add_core_of = PRU
-		
+
 		buildings = {
 			infrastructure = 2
 		}
-		victory_points = {
-
-		}
+ 
 
 	}
 

@@ -9,10 +9,14 @@ add_core_of = ITA
 add_core_of = SAR
 		buildings = {
 			infrastructure = 7
-		}
-		victory_points = {
+industrial_complex = 1
+dockyard = 2
+6788 = {
+	naval_base = 8
 
+}
 		}
+ 
 
 	}
 

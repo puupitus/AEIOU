@@ -12,8 +12,8 @@ add_core_of = NGR
 
 		buildings = {
 			infrastructure = 3
-			arms_factory = 0
-			industrial_complex = 1
+
+
 			2050 = {
 				naval_base = 3
 

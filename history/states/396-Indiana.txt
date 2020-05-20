@@ -10,7 +10,8 @@ state={
 add_core_of = MID
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 1
+industrial_complex = 1
+
 		}
 		
 		victory_points = {

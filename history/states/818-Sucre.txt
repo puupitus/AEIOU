@@ -10,9 +10,7 @@ add_core_of = BOL
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = {
-
-		}
+ 
 
 	}
 

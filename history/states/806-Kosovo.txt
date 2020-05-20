@@ -6,13 +6,12 @@ state={
 	history={
 		owner = SER
 add_core_of = SER
-add_core_of = ALB	
+add_core_of = ALB
 		buildings = {
 			infrastructure = 4
+arms_factory = 1
 		}
-		victory_points = {
-
-		}
+ 
 
 	}
 

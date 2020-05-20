@@ -17,17 +17,15 @@ add_core_of = SCO
 		}
 		buildings = {
 			infrastructure = 4
+arms_factory = 1
 			anti_air_building = 2
-			industrial_complex = 1
+
 			air_base = 1
 			11064 = {
 				naval_base = 8
 
 			}
-			6196 = {
-				naval_base = 1
 
-			}
 
 		}
 

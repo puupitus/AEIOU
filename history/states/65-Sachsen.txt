@@ -12,8 +12,9 @@ state={
 		add_core_of = SAX
 		buildings = {
 			infrastructure = 7
-			arms_factory = 1
-			industrial_complex = 1
+industrial_complex = 1
+
+
 
 		}
 		victory_points = {

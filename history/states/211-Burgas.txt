@@ -14,18 +14,16 @@ add_core_of = BUL
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
+arms_factory = 1
+
 			9783 = {
 				naval_base = 3
 
 			}
-			9902 = {
-				naval_base = 1
-
-			}
+			
 
 		}
-		
+
 
 	}
 

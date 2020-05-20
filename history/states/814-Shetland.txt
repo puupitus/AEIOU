@@ -4,12 +4,15 @@ state={
 	history={
 		owner = SCO
 add_core_of = SCO
-		
+
 		buildings = {
 			infrastructure = 2
+			6196 = {
+				naval_base = 1
+
+			}
 		}
-		victory_points = {
-		}
+ 
 	}
 	provinces={
 		6196

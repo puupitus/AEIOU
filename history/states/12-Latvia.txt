@@ -10,22 +10,19 @@ state={
 		owner = LAT
 		add_core_of = LAT
 		victory_points = {
-			9340 5 
+			9340 5
 		}
 		victory_points = {
-			310 1 
+			310 1
 		}
 		buildings = {
 			infrastructure = 5
-			arms_factory = 1
-			industrial_complex = 1
+arms_factory = 1
+
+
 			air_base = 3
 			9340 = {
 				naval_base = 3
-
-			}
-			310 = {
-				bunker = 2
 
 			}
 
@@ -34,7 +31,7 @@ state={
 	}
 
 	provinces={
-		3298 3388 9240 9317 9340 9501 10323 10493 11302 
+		3298 3388 9240 9317 9340 9501 10323 10493 11302
 	}
 	manpower=2120500
 	buildings_max_level_factor=1.000

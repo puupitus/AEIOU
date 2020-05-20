@@ -17,15 +17,16 @@ add_core_of = SWE
 		}
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 1
-			dockyard = 1
+arms_factory = 1
+
+
 			11215 = {
 				naval_base = 5
-				coastal_bunker = 3
+
 			}
 			9279 = {
 				naval_base = 5
-				coastal_bunker = 1
+
 			}
 		}
 

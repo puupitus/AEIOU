@@ -8,24 +8,12 @@ state={
 add_core_of = ARG
 		buildings = {
 			infrastructure = 6
-			arms_factory = 1
-			industrial_complex = 1
-			dockyard = 1
+industrial_complex = 1
+
+
+
 			air_base = 4
-			12364 = {
-				naval_base = 7
-				bunker = 1
-				coastal_bunker = 1
-
-			}
-			7621 = {
-				naval_base = 2
-
-			}
-			1639 = {
-				naval_base = 1
-
-			}
+			
 
 		}
 

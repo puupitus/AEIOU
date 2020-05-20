@@ -12,6 +12,7 @@ add_core_of = SPW
 		}
 		buildings = {
 			infrastructure = 4
+arms_factory = 1
 			13010 = {
 				naval_base = 1
 			}

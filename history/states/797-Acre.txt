@@ -9,8 +9,7 @@ add_core_of = ACR
 		buildings = {
 			infrastructure = 2
 		}
-		victory_points = {
-		}
+
 	}
 	provinces={
 		2198 5216 10960

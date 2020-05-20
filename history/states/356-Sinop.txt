@@ -7,25 +7,22 @@ state={
 		owner = TUR
 add_core_of = TUR
 		victory_points = {
-			6938 1 
+			6938 1
 		}
 		victory_points = {
-			6995 1 
+			6995 1
 		}
 		buildings = {
 			infrastructure = 3
-			6995 = {
-				naval_base = 1
-
-			}
+			
 
 		}
-		
+
 
 	}
 
 	provinces={
-		979 3982 6920 6938 6978 9871 
+		979 3982 6920 6938 6978 9871
 	}
 	manpower=860589
 	buildings_max_level_factor=1.000

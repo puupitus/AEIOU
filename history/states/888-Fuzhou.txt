@@ -21,11 +21,16 @@ add_core_of = BEI
 add_core_of = AEI
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-		}
-		victory_points = {
+
+			4196 = {
+				naval_base = 3
+
+
+
+			}
 
 		}
+ 
 
 	}
 

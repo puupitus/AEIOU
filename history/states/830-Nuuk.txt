@@ -6,13 +6,15 @@ state={
 	history={
 		owner = BRC
 add_core_of = BRC
-		
+
 		buildings = {
 			infrastructure = 1
-		}
-		victory_points = {
+			12512 = {
+				naval_base = 1
 
+			}
 		}
+ 
 
 	}
 

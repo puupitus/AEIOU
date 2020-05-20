@@ -15,8 +15,9 @@ state=
 add_core_of = HAI
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
-			industrial_complex = 1
+arms_factory = 1
+
+
 			air_base = 1
 			4641 = {
 				naval_base = 3

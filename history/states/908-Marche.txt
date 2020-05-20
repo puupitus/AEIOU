@@ -8,10 +8,13 @@ state={
 add_core_of = PAP
 		buildings = {
 			infrastructure = 6
-		}
-		victory_points = {
+industrial_complex = 1
+925 = {
+	naval_base = 4
 
+}
 		}
+ 
 
 	}
 

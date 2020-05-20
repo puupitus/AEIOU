@@ -15,8 +15,9 @@ add_core_of = UKR
 		}
 		buildings = {
 			infrastructure = 7
-			arms_factory = 1
-			industrial_complex = 1
+industrial_complex = 1
+
+
 			fuel_silo = 1
 			air_base = 8
 

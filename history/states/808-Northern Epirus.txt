@@ -6,13 +6,16 @@ state={
 	history={
 		owner = TUR
 add_core_of = TUR
-add_core_of = ALB		
+add_core_of = ALB
 		buildings = {
 			infrastructure = 4
-		}
-		victory_points = {
+arms_factory = 1
+9805 = {
+	naval_base = 1
 
+}
 		}
+ 
 
 	}
 

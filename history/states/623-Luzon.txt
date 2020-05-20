@@ -14,7 +14,8 @@ state= {
 add_core_of = PHI
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
+arms_factory = 1
+
 			12213 = {
 				naval_base = 1
 			}

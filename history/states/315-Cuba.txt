@@ -15,8 +15,9 @@ add_core_of = SPW
 add_core_of = CUB
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
-			industrial_complex = 1
+arms_factory = 1
+
+
 			air_base = 1
 			7622 = {
 				naval_base = 3

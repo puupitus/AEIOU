@@ -9,10 +9,7 @@ add_core_of = NGR
 		buildings = {
 
 		}
-		victory_points = {
-
-		}
-
+ 
 	}
 
 	provinces={

@@ -12,10 +12,11 @@ add_core_of = ADU
 		victory_points = { 4135 10 }
 		buildings = {
 			infrastructure = 6
+industrial_complex = 1
 			air_base = 2
 			4135 = {
 				naval_base = 5
-				coastal_bunker = 2
+
 			}
 		}
 

@@ -20,11 +20,8 @@ add_core_of = MAL
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			1208 = {
-				naval_base = 1
 
-			}
+			
 			7371 = {
 				naval_base = 2
 

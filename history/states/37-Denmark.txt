@@ -14,9 +14,11 @@ add_core_of = DEN
 		}
 		buildings = {
 			infrastructure = 8
-			arms_factory = 1
-			industrial_complex = 1
-			dockyard = 1
+industrial_complex = 1
+arms_factory = 1
+dockyard = 2
+
+
 			air_base = 6
 			6287 = {
 				naval_base = 8
@@ -26,10 +28,7 @@ add_core_of = DEN
 				naval_base = 3
 
 			}
-			6361 = {
-				naval_base = 1
-
-			}
+			
 
 		}
 

@@ -14,12 +14,16 @@ add_core_of = EST
 		}
 		buildings = {
 			infrastructure = 5
-			arms_factory = 1
-			industrial_complex = 1
+arms_factory = 1
+4640 = {
+	naval_base = 1
+
+}
+
 			air_base = 2
 			3152 = {
 				naval_base = 3
-				coastal_bunker = 1
+
 
 			}
 

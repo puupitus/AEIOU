@@ -11,10 +11,12 @@ add_core_of = JAP
 
 		buildings = {
 			infrastructure = 7
+industrial_complex = 1
+dockyard = 5
 			air_base = 3
-			dockyard = 1
-			arms_factory = 1
-			industrial_complex = 1
+
+
+
 			1092 = {
 				naval_base = 10
 

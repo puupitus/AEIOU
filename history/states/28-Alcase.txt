@@ -20,40 +20,12 @@ add_core_of = FRA
 		}
 		buildings = {
 			infrastructure = 7
-			industrial_complex = 1
-			549 = {
-				bunker = 10
-
-			}
-			678 = {
-				bunker = 10
-
-			}
-			3629 = {
-				bunker = 10
-
-			}
-			6529 = {
-				bunker = 10
-
-			}
-			9503 = {
-				bunker = 10
-
-			}
-			9559 = {
-				bunker = 10
-
-			}
-			11502 = {
-				bunker = 10
-
-			}
+industrial_complex = 1
 			anti_air_building = 5
 			air_base = 5
 
 		}
- 
+
 
 	}
 

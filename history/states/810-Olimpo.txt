@@ -9,8 +9,7 @@ add_core_of = BOL
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = {
-		}
+ 
 	}
 	provinces={
 		2195 5165 8203 10973

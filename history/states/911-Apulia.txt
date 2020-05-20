@@ -8,10 +8,18 @@ state={
 add_core_of = NAP
 		buildings = {
 			infrastructure = 6
-		}
-		victory_points = {
+industrial_complex = 1
+dockyard = 5
+11837 = {
+	naval_base = 10
 
+}
+11998 = {
+	naval_base = 2
+
+}
 		}
+ 
 
 	}
 

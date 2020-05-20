@@ -8,19 +8,22 @@ state={
 		add_core_of = COL
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 1
-			air_base = 2
 
+
+			air_base = 2
+			12790 = {
+				naval_base = 5
+
+			}
 		}
 		victory_points = {
-			10747 10 
+			10747 10
 		}
 
 	}
 
 	provinces={
-		2023 4969 10494 10790 10864 12703 12790 12872 
+		2023 4969 10494 10790 10864 12703 12790 12872
 	}
 	manpower=4953049
 	buildings_max_level_factor=1.000

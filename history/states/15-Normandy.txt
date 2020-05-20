@@ -23,16 +23,17 @@ add_core_of = FRA
 		}
 		buildings = {
 			infrastructure = 7
-			industrial_complex = 1
+industrial_complex = 1
+
 			air_base = 6
 			6449 = {
 				naval_base = 3
-				coastal_bunker = 1
+
 
 			}
 			9434 = {
 				naval_base = 5
-				coastal_bunker = 1
+
 
 			}
 			485 = {

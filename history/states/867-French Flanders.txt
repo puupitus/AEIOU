@@ -13,10 +13,14 @@ add_core_of = HOL
 add_core_of = BEL
 		buildings = {
 			infrastructure = 8
-		}
-		victory_points = {
+industrial_complex = 1
+arms_factory = 1
+575 = {
+	naval_base = 6
 
+}
 		}
+ 
 
 	}
 

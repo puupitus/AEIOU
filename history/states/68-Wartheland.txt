@@ -15,7 +15,8 @@ state={
 		add_core_of = LUS
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 1
+industrial_complex = 1
+
 
 		}
 

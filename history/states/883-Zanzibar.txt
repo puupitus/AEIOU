@@ -9,10 +9,12 @@ add_core_of = ZAN
 add_core_of = TZN
 		buildings = {
 			infrastructure = 3
-		}
-		victory_points = {
+			2196 = {
+				naval_base = 2
 
+			}
 		}
+ 
 
 	}
 

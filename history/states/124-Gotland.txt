@@ -13,6 +13,7 @@ add_core_of = SWE
 		
 		buildings = {
 			infrastructure = 6
+industrial_complex = 1
 			408 = {
 				naval_base = 1
 			}
