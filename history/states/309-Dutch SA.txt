@@ -20,6 +20,7 @@ add_core_of = SUR
 		buildings = {
 			infrastructure = 3
 
+
 			12828 = {
 				naval_base = 1
 			}

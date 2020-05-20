@@ -9,6 +9,7 @@ add_core_of = MIT
 		buildings = {
 			infrastructure = 3
 
+
 		}
  
 

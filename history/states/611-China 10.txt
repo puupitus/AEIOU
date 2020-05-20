@@ -29,6 +29,7 @@ add_core_of = MEN
 		buildings = {
 			infrastructure = 3
 
+
 		}
 		victory_points = {
 			11752 3

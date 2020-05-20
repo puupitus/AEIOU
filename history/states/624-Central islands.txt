@@ -12,6 +12,7 @@ add_core_of = PHI
 		buildings = {
 			infrastructure = 3
 
+
 		}
 
 		victory_points = {

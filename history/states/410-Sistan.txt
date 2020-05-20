@@ -8,6 +8,7 @@ state={
 add_core_of = PER
 		buildings = {
 			infrastructure = 2
+
 			7982 = {
 				naval_base = 4
 

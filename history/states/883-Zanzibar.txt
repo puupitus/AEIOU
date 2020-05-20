@@ -9,6 +9,7 @@ add_core_of = ZAN
 add_core_of = TZN
 		buildings = {
 			infrastructure = 3
+
 			2196 = {
 				naval_base = 2
 

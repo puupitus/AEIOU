@@ -15,6 +15,7 @@ add_core_of = TUR
 		buildings = {
 			infrastructure = 3
 
+
 			1005 = {
 				naval_base = 4
 

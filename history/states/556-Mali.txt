@@ -15,6 +15,7 @@ add_core_of = MLI
 		}
 		buildings = {
 			infrastructure = 3
+
 		}
 	}
 

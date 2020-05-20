@@ -17,6 +17,7 @@ add_core_of = LIB
 			infrastructure = 2
 
 
+
 			7959 = {
 				naval_base = 2
 			}

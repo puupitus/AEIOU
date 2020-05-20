@@ -12,7 +12,9 @@ add_core_of = ENG
 		victory_points = { 271 5 }
 		buildings = {
 			infrastructure = 7
-industrial_complex = 1
+industrial_complex = 2
+arms_factory = 1
+
 
 
 			anti_air_building = 2

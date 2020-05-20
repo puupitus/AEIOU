@@ -14,6 +14,7 @@ state={
 add_core_of = JAK
 		buildings = {
 			infrastructure = 3
+
 			air_base = 3
 		}
 		

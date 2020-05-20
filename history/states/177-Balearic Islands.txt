@@ -16,6 +16,8 @@ add_core_of = SPR
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1
+arms_factory = 1
+
 			air_base = 1
 			9793 = {
 				naval_base = 2

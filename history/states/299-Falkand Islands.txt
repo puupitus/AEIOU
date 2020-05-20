@@ -10,6 +10,7 @@ state= {
 add_core_of = PAT
 		buildings = {
 			infrastructure = 2
+
 			12960 = {
 				naval_base = 1
 			}

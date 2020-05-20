@@ -16,6 +16,7 @@ add_core_of = BAH
 		buildings = {
 			infrastructure = 4
 arms_factory = 1
+
 			10254 = {
 				naval_base = 1
 			}

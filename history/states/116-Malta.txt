@@ -12,6 +12,7 @@ state=
 		}
 		buildings = {
 			infrastructure = 3
+
 			dockyard = 2
 			air_base = 3
 			12003 = {

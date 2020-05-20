@@ -15,6 +15,7 @@ add_core_of = SIB
 
 		buildings = {
 			infrastructure = 3
+
 			12446 = {
 				naval_base = 1
 

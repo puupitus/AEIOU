@@ -10,6 +10,7 @@ add_core_of = BRS
 			infrastructure = 4
 arms_factory = 1
 
+
 			air_base = 8
 			1572 = {
 				naval_base = 2

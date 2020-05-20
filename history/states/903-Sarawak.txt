@@ -13,6 +13,7 @@ add_core_of = BRU
 add_core_of = MAL
 		buildings = {
 			infrastructure = 3
+
 			1208 = {
 				naval_base = 1
 

@@ -11,6 +11,7 @@ add_core_of = KOK
 			infrastructure = 3
 
 
+
 		}
  
 		victory_points = {

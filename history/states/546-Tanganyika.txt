@@ -14,6 +14,7 @@ add_core_of = TZN
 		}
 		buildings = {
 			infrastructure = 3
+
 			
 
 		}

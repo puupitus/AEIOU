@@ -25,6 +25,7 @@ add_core_of = MAN
 arms_factory = 1
 
 
+
 		}
  
 

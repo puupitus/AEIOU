@@ -15,6 +15,7 @@ add_core_of = MAD
 		}
 		buildings = {
 			infrastructure = 2
+
 			air_base = 1
 			5222 = {
 				naval_base = 1

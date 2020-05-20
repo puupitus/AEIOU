@@ -9,6 +9,7 @@ add_core_of = CEA
 add_core_of = BRA
 		buildings = {
 			infrastructure = 3
+
 			5107 = {
 				naval_base = 3
 

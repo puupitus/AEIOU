@@ -15,6 +15,7 @@ add_core_of = RGR
 arms_factory = 1
 
 
+
 		}
 		
 		victory_points = {

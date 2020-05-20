@@ -9,6 +9,7 @@ add_core_of = DAI
 add_core_of = VIN
 		buildings = {
 			infrastructure = 3
+
 			4401 = {
 				naval_base = 4
 

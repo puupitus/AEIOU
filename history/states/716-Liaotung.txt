@@ -30,6 +30,7 @@ add_core_of = MAN
 arms_factory = 1
 
 
+
 			air_base = 5
 			964 = {
 				naval_base = 3

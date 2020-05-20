@@ -11,6 +11,7 @@ add_core_of = PER
 			infrastructure = 3
 
 
+
 		}
 		victory_points = {
 			5029 1

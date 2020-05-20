@@ -20,6 +20,7 @@ add_core_of = MOR
 		}
 		buildings = {
 			infrastructure = 3
+
 			air_base = 3
 			12100 = {
 				naval_base = 3

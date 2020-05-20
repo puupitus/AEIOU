@@ -15,6 +15,7 @@ add_core_of = SIE
 		}
 		buildings = {
 			infrastructure = 3
+
 			2038 = {
 				naval_base = 3
 			}

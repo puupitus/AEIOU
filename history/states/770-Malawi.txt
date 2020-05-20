@@ -12,6 +12,7 @@ add_core_of = MLW
 		buildings = {
 			infrastructure = 3
 
+
 		}
 
 	}

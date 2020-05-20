@@ -11,6 +11,7 @@ state={
 add_core_of = SIB
 		buildings = {
 			infrastructure = 3
+
 		}
 		victory_points = {
 			4724 1

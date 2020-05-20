@@ -11,6 +11,7 @@ add_core_of = TOG
 		}
 		buildings = {
 			infrastructure = 3
+
 			1951 = {
 				naval_base = 1
 

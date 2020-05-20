@@ -9,6 +9,7 @@ add_core_of = MOS
 		buildings = {
 			infrastructure = 2
 
+
 		}
 
 

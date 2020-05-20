@@ -27,6 +27,7 @@ add_core_of = BEI
 		buildings = {
 			infrastructure = 3
 
+
 		}
 
 	}

@@ -18,6 +18,7 @@ add_core_of = HON
 arms_factory = 1
 
 
+
 			air_base = 1
 			12865 = {
 				naval_base = 1

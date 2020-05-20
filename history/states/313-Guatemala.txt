@@ -14,6 +14,7 @@ add_core_of = GUA
 arms_factory = 1
 
 
+
 			air_base = 1
 			10886 = {
 				naval_base = 1

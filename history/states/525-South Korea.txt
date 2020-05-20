@@ -14,6 +14,7 @@ add_core_of = KOR
 arms_factory = 1
 
 
+
 			4056 = {
 				naval_base = 3
 			}

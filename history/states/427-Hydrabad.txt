@@ -15,6 +15,7 @@ add_core_of = HYD
 		buildings = {
 			infrastructure = 3
 
+
 			air_base = 3
 
 		}

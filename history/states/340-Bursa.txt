@@ -16,6 +16,7 @@ add_core_of = TUR
 			infrastructure = 4
 arms_factory = 1
 
+
 		}
 
 		victory_points = {

@@ -16,6 +16,7 @@ add_core_of = ECU
 			infrastructure = 3
 
 
+
 			air_base = 1
 			8252 = {
 				naval_base = 4

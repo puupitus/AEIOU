@@ -12,6 +12,7 @@ add_core_of = MAD
 add_core_of = MLD		
 		buildings = {
 			infrastructure = 3
+
 			13019 = {
 				naval_base = 1
 			}

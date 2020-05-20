@@ -15,6 +15,7 @@ state={
 add_core_of = OMA
 		buildings = {
 			infrastructure = 2
+
 			dockyard = 2
 
 			10760 = {

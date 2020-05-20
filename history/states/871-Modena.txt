@@ -8,7 +8,9 @@ state={
 add_core_of = MOD
 		buildings = {
 			infrastructure = 7
-industrial_complex = 1
+industrial_complex = 2
+arms_factory = 1
+
 dockyard = 2
 6973 = {
 	naval_base = 10

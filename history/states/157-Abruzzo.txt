@@ -12,6 +12,8 @@ add_core_of = NAP
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1
+arms_factory = 1
+
 
 			
 			6831 = {

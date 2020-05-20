@@ -10,7 +10,8 @@ add_core_of = FIN
 
 		buildings = {
 			infrastructure = 5
-arms_factory = 1
+industrial_complex = 1
+
 
 
 			#Mannerheim Line

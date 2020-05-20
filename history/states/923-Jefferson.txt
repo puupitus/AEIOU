@@ -12,17 +12,16 @@ add_core_of = NWE
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1
-1562 = {
-	naval_base = 10
+arms_factory = 1
 
-}
+
 610 = {
 	naval_base = 1
 
 }
 
 		}
- 
+
 
 	}
 

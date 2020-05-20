@@ -8,6 +8,7 @@ state={
 add_core_of = EAF
 		buildings = {
 			infrastructure = 3
+
 			10862 = {
 				naval_base = 2
 

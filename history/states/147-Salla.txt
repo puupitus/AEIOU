@@ -11,6 +11,7 @@ state=
 add_core_of = FIN
 		buildings = {
 			infrastructure = 3
+
 		}
 		
 
