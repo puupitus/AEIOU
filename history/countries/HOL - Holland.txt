@@ -1,3 +1,4 @@
+capital = 7
 create_faction = "Hague Treaty"
 set_cosmetic_tag = HOL_united
 set_autonomy = {
@@ -67,7 +68,7 @@ early_carrier = 1
 if = {
 	limit = { has_dlc = "Man the Guns" }
 	set_technology = {
-		
+
 		early_ship_hull_heavy = 1
 early_ship_hull_carrier = 1
 basic_torpedo = 1
@@ -77,8 +78,8 @@ mtg_transport = 1
 		early_ship_hull_cruiser = 1
 		basic_battery = 1
 basic_secondary_battery = 1
-		
-		
+
+
 	}
 }
 

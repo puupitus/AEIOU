@@ -1,3 +1,5 @@
+capital = 115
+
 set_autonomy = {
 		target = MLT
 		autonomous_state = autonomy_dominion
@@ -47,7 +49,7 @@ early_carrier = 1
 if = {
 	limit = { has_dlc = "Man the Guns" }
 	set_technology = {
-		
+
 		early_ship_hull_heavy = 1
 early_ship_hull_carrier = 1
 basic_torpedo = 1
@@ -57,8 +59,8 @@ mtg_transport = 1
 		early_ship_hull_cruiser = 1
 		basic_battery = 1
 basic_secondary_battery = 1
-		
-		
+
+
 	}
 }
 

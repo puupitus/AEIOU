@@ -8,6 +8,7 @@ state={
 	history={
 
 		owner = MLT
+		add_core_of = BAS
 		buildings = {
 			infrastructure = 4
 arms_factory = 1
