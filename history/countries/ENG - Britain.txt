@@ -1,8 +1,11 @@
 capital = 126
-
-create_faction = "Labour and Socialist International"
-
-
+set_cosmetic_tag = ENG_union
+create_faction = "London International"
+add_to_faction = NIR
+add_to_faction = USB
+add_to_faction = NEW
+add_to_faction = SHL
+add_to_faction = BRM
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

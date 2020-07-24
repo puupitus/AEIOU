@@ -1,6 +1,9 @@
 capital = 231
-
-
+create_faction = "Transcaucasian Confederation"
+add_to_faction = ARM
+add_to_faction = AZR
+add_to_faction = MOU
+add_to_faction = CIR
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

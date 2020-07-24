@@ -13,15 +13,15 @@ state={
 		victory_points = {
 			10329 1
 		}
-		owner = SIB
-add_core_of = SIB
+		owner = MOS
+add_core_of = MOS
 		buildings = {
 			infrastructure = 4
 arms_factory = 1
 
 
 		}
-		
+
 	}
 
 	provinces={

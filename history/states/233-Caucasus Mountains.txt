@@ -7,8 +7,10 @@ state={
 	}
 
 	history={
-		owner = MOU
+		owner = CIR
 		add_core_of = MOU
+		add_core_of = MOS
+		add_core_of = CIR
 		buildings = {
 			infrastructure = 3
 

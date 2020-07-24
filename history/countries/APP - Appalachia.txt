@@ -1,5 +1,12 @@
 capital = 922
-
+create_faction = "United Republics of America"
+add_to_faction = MID
+add_to_faction = VER
+add_to_faction = TEX
+add_to_faction = CDO
+add_to_faction = LAK
+add_to_faction = NWE
+add_to_faction = CAL
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

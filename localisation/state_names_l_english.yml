@@ -949,4 +949,5 @@
  STATE_948:0 "North Dagestan"
  STATE_949:0 "Artsakh"
  STATE_950:0 "Nakchivan"
- STATE_951:1 "Sēlija"
+ STATE_951:0 "Sēlija"
+ STATE_952:0 "Orkney"

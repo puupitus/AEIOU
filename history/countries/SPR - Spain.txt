@@ -1,4 +1,8 @@
 capital = 41
+create_faction = "Catholic League"
+add_to_faction = POR
+add_to_faction = PRM
+add_to_faction = SIC
 set_autonomy = {
 		target = SPW
 		autonomous_state = autonomy_colony

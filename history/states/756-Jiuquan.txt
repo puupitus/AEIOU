@@ -4,7 +4,7 @@ state={
 	name="STATE_756"
 
 	history={
-		owner = MON
+		owner = XSM
 add_core_of = TAN
 add_core_of = MON
 add_core_of = CHI

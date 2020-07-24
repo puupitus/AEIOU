@@ -6,15 +6,16 @@ state={
 	}
 
 	history={
-		owner = IDE
+		owner = MOS
 add_core_of = IDE
+add_core_of = MOS
 		buildings = {
 			infrastructure = 4
 arms_factory = 1
 
 
 		}
-		
+
 
 	}
 

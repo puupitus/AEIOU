@@ -1,25 +1,27 @@
-
 state={
-	id=858
-	name="STATE_858"
+	id=952
+	name="STATE_952"
 
 	history={
-		owner = TUR
-add_core_of = TUR
-add_core_of = ALB
-
+		owner = SCO
+		add_core_of = SCO
 		buildings = {
 			infrastructure = 3
+ industrial_complex = 1
+ 11064 = {
+   naval_base = 8
+
+ }
 
 		}
- 
+
 
 	}
 
 	provinces={
-		3896 9780 11762
+		11064
 	}
-	manpower=400000
+	manpower=65000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

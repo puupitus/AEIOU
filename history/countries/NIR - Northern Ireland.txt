@@ -1,5 +1,5 @@
 capital = 119
-
+set_cosmetic_tag = NIR_union
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

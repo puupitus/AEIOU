@@ -1,5 +1,7 @@
 capital = 7
 create_faction = "Hague Treaty"
+add_to_faction = WGR
+add_to_faction = TRV
 set_cosmetic_tag = HOL_united
 set_autonomy = {
 		target = DEI
@@ -32,6 +34,22 @@ set_autonomy = {
 set_autonomy = {
 		target = MAL
 		autonomous_state = autonomy_colony
+}
+GHA = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		democratic = 100
+	}
+}
+CRC = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		democratic = 100
+	}
 }
 if = {
 	limit = { has_dlc = "Man the Guns" }

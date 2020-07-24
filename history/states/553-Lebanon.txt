@@ -7,8 +7,9 @@ state={
 	state_category = town
 
 	history={
-		owner = LEB
+		owner = TUR
 add_core_of = LEB
+add_core_of = TUR
 		victory_points = {
 			792 5
 		}
@@ -23,7 +24,7 @@ arms_factory = 1
 			}
 		}
 
-		
+
 	}
 
 	provinces={

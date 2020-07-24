@@ -1,6 +1,52 @@
 capital = 294
-
-
+set_autonomy = {
+		target = QAT
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = MAJ
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = HOB
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = ZAN
+		autonomous_state = autonomy_dominion
+}
+QAT = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+MAJ = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+HOB = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+ZAN = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

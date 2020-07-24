@@ -8,8 +8,10 @@ state={
 	}
 
 	history={
-		owner = KUB
+		owner = MOS
+add_core_of = MOS
 add_core_of = KUB
+add_core_of = CIR
 		victory_points = {
 			3720 1
 		}
@@ -24,7 +26,7 @@ add_core_of = KUB
 industrial_complex = 1
 
 
-			
+
 
 		}
 

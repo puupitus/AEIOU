@@ -1,18 +1,8 @@
 capital = 115
-
 set_autonomy = {
 		target = MLT
 		autonomous_state = autonomy_dominion
 }
-MLT = {
-	set_politics = {
-		ruling_party = neutrality
-	}
-	set_popularities = {
-		neutrality = 100
-	}
-}
-
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

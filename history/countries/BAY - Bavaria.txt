@@ -1,5 +1,4 @@
 capital = 52
-set_cosmetic_tag = BAY_sgc
 
 
 if = {

@@ -6,15 +6,15 @@ state={
 
 	history=
 	{
-		owner = PAT
+		owner = ARG
 add_core_of = PAT
+add_core_of = ARG
 		buildings = {
 			infrastructure = 1
 			10995 = {
 				naval_base = 1
 			}
 		}
-		add_claim_by = ARG
 	}
 
 	provinces={

@@ -1,6 +1,4 @@
 capital = 608
-set_cosmetic_tag = BEI_empire
-
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

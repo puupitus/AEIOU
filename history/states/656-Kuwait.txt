@@ -7,7 +7,7 @@ state={
 
 	history={
 
-		owner = TUR
+		owner = KUW
 add_core_of = TUR
 add_core_of = KUW
 		victory_points = {

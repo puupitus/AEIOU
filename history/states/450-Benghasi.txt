@@ -7,7 +7,7 @@ state={
 		owner = SEO
 		add_core_of = SEO
 		victory_points = {
-			11954 3 
+			11954 3
 		}
 		buildings = {
 			infrastructure = 3
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		1062 1127 4120 7063 7139 10123 11954 12079 
+		1062 1127 4120 7063 7139 10123 11954 12079
 	}
 	manpower=1982535
 	buildings_max_level_factor=1.000

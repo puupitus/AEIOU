@@ -4,7 +4,7 @@ state={
 	name="STATE_420"
 
 	history={
-		owner = AZR
+		owner = PER
 add_core_of = AZR
 add_core_of = PER
 		buildings = {

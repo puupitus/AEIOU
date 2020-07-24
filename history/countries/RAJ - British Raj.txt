@@ -1,5 +1,5 @@
 capital = 431
-
+set_cosmetic_tag = RAJ_commonwealth
 
 if = {
 	limit = { has_dlc = "Man the Guns" }
@@ -63,7 +63,7 @@ create_country_leader = { name = "Absolutist Party" picture = "gfx/leaders/absol
 
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = neutrality
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

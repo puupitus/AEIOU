@@ -765,8 +765,8 @@ TRA = {
 	color_ui = rgb { 163 64 64 }
 }
 GEA = {
-	color = rgb { 217 104 104 }
-	color_ui = rgb { 217 104 104 }
+	color = rgb { 45 45 45 }
+	color_ui = rgb { 45 45 45 }
 }
 DEN = {
 	color = rgb { 170 10 10 }
@@ -901,8 +901,8 @@ KUB = {
 	color_ui = rgb { 201 38 120 }
 }
 TMS = {
-	color = rgb { 211 245 244 }
-	color_ui = rgb { 211 245 244 }
+	color = rgb { 171 205 204 }
+	color_ui = rgb { 171 205 204 }
 }
 DON = {
 	color = rgb { 212 189 17 }
@@ -1041,8 +1041,8 @@ HES = {
 	color_ui = rgb { 222 147 133 }
 }
 ITA = {
-	color = rgb { 229 150 148 }
-	color_ui = rgb { 229 150 148 }
+	color = rgb { 209 170 118 }
+	color_ui = rgb { 209 170 118 }
 }
 MOD = {
 	color = rgb { 106 163 184 }

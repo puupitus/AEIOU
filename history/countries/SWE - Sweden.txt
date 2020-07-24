@@ -1,5 +1,8 @@
 capital = 141
 create_faction = "League of the North"
+add_to_faction = DEN
+add_to_faction = NOR
+add_to_faction = SCO
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

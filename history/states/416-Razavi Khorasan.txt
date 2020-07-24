@@ -4,7 +4,7 @@ state={
 	name="STATE_416"
 
 	history={
-		owner = TMS
+		owner = PER
 add_core_of = TMS
 add_core_of = PER
 		buildings = {

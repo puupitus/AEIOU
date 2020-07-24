@@ -4,7 +4,7 @@ state={
 	name="STATE_866"
 
 	history={
-		owner = WAL
+		owner = LUX
 add_core_of = WAL
 add_core_of = WGR
 add_core_of = LUX
@@ -14,7 +14,7 @@ industrial_complex = 1
 arms_factory = 1
 
 		}
- 
+
 
 	}
 

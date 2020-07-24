@@ -1,5 +1,141 @@
 capital = 64
-
+create_faction = "Intercontinental Pact"
+add_to_faction = TUR
+add_to_faction = SAR
+add_to_faction = JAP
+add_to_faction = USA
+set_autonomy = {
+		target = NMB
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = PNG
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = SOL
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = SAM
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = TZN
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = KEN
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = UGA
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = RWA
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = BRD
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = LIT
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = COU
+		autonomous_state = autonomy_puppet
+}
+NMB = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+PNG = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+SOL = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+SAM = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+LIT = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+COU = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+TZN = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+KEN = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+UGA = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+BRD = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+RWA = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

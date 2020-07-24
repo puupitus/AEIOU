@@ -1,5 +1,7 @@
 capital = 924
-
+create_faction = "Aridoamerican Confederation"
+add_to_faction = BAJ
+add_to_faction = SON
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

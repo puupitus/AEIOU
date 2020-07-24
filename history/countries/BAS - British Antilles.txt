@@ -1,5 +1,5 @@
 capital = 308
-
+set_cosmetic_tag = BAS_commonwealth
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

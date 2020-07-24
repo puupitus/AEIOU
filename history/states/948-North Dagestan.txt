@@ -4,14 +4,15 @@ state={
 	name="STATE_948"
 
 	history={
-		owner = MOU
+		owner = MOS
 		add_core_of = MOU
+		add_core_of = MOS
 		buildings = {
 			infrastructure = 3
 
 
 		}
- 
+
 
 	}
 

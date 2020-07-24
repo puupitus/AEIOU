@@ -1,11 +1,13 @@
 capital = 16
 create_faction = "Entente"
+add_to_faction = MOS
+add_to_faction = GEA
 set_autonomy = {
 		target = WPH
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
-		target = SAR
+		target = ITA
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
@@ -21,16 +23,8 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = MEX
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
 		target = CAY
 		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = LEB
-		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = ALG
@@ -96,6 +90,18 @@ set_autonomy = {
 		target = GDL
 		autonomous_state = autonomy_colony
 }
+set_autonomy = {
+		target = EGY
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = MAH
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = PAT
+		autonomous_state = autonomy_puppet
+}
 ACA = {
 	set_politics = {
 		ruling_party = fascism
@@ -112,7 +118,14 @@ ALG = {
 		fascism = 100
 	}
 }
-
+ITA = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 QUE = {
 	set_politics = {
 		ruling_party = fascism
@@ -257,23 +270,6 @@ WPH = {
 	}
 }
 
-MEX = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
-LEB = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
 
 CAM = {
 	set_politics = {
@@ -301,8 +297,30 @@ DAI = {
 		fascism = 100
 	}
 }
-
-
+EGY = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+MAH = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+PAT = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

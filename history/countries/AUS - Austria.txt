@@ -1,65 +1,68 @@
 capital = 4
 create_faction = "Vienna Convention"
-
 set_autonomy = {
-		target = LOM
-		autonomous_state = autonomy_integrated_puppet
+		target = BAY
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
-		target = PRM
-		autonomous_state = autonomy_integrated_puppet
+		target = WUR
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = BAD
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = HES
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = LOM
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = MOD
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = TUS
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = SLV
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = CZE
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = HUN
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = CRO
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = DAL
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = BOS
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = SLA
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = TEM
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = TRS
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
-		target = BAY
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
-		target = ITA
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = CHA
@@ -86,17 +89,18 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = USA
-		autonomous_state = autonomy_dominion
+		target = LBA
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = SEO
+		autonomous_state = autonomy_colony
 }
 set_autonomy = {
 		target = POL
 		autonomous_state = autonomy_puppet
 }
-set_autonomy = {
-		target = LIT
-		autonomous_state = autonomy_puppet
-}
+
 set_autonomy = {
 		target = UKR
 		autonomous_state = autonomy_puppet
@@ -114,22 +118,25 @@ set_autonomy = {
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
-		target = PNG
+		target = KUW
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = SOL
+		target = MLD
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = SAM
-		autonomous_state = autonomy_colony
+		target = MEX
+		autonomous_state = autonomy_dominion
 }
-set_autonomy = {
-		target = NMB
-		autonomous_state = autonomy_colony
+AEI = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
 }
-
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

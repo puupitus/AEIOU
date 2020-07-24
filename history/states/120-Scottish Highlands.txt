@@ -10,8 +10,9 @@ state={
 
 	history={
 
-		owner = SCO
+		owner = ENG
 add_core_of = SCO
+add_core_of = ENG
 		victory_points = {
 			11064 1
 		}
@@ -22,10 +23,7 @@ arms_factory = 1
 			anti_air_building = 2
 
 			air_base = 1
-			11064 = {
-				naval_base = 8
-
-			}
+			
 
 
 		}
@@ -33,7 +31,7 @@ arms_factory = 1
 	}
 
 	provinces={
-		131 284 3159 3178 3373 6046 6062 6104 6205 9075 9090 11064 11161 11266
+		131 284 3159 3178 3373 6046 6062 6104 6205 9075 9090 11161 11266
 	}
 	manpower=765873
 	buildings_max_level_factor=1.000
