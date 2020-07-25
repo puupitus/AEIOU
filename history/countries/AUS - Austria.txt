@@ -161,6 +161,10 @@ set_autonomy = {
 		target = MLT
 		autonomous_state = autonomy_puppet
 }
+set_autonomy = {
+		target = BEL
+		autonomous_state = autonomy_puppet
+}
 AEI = {
 	set_politics = {
 		ruling_party = neutrality

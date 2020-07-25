@@ -2,6 +2,7 @@ capital = 64
 create_faction = "Berlin Pact"
 add_to_faction = HOL
 add_to_faction = SPR
+add_to_faction = LUX
 set_autonomy = {
 		target = NMB
 		autonomous_state = autonomy_colony

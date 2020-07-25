@@ -4,8 +4,9 @@ state={
 	name="STATE_365"
 
 	history={
-		owner = CSA
+		owner = APP
 add_core_of = CSA
+add_core_of = APP
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

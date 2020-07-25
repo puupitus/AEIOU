@@ -1,5 +1,5 @@
 capital = 464
-
+set_cosmetic_tag = ACA_aca
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

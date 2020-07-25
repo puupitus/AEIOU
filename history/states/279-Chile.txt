@@ -8,32 +8,25 @@ state={
 
 	history={
 		owner = CHL
-add_core_of = CHL
+		add_core_of = CHL
 		buildings = {
 			infrastructure = 5
-industrial_complex = 1
+			industrial_complex = 1
+			5228 = {
+				naval_base = 2
 
-5228 = {
-	naval_base = 2
-
-}
-
+			}
 			air_base = 3
 			8222 = {
 				naval_base = 5
 
 			}
-			5121 = {
-				naval_base = 1
-
-			}
+			
 			650 = {
-
 
 			}
 
 		}
-
 		victory_points = {
 			650 10
 		}
@@ -41,7 +34,7 @@ industrial_complex = 1
 	}
 
 	provinces={
-		650 5121 5169 5171 5191 5192 5228 8194 8222 8229 8251 11000 12914 12920 12954 12984
+		650 5171 5191 5192 5228 8194 8222 8229 8251 11000 12914 12984
 	}
 	manpower=4335146
 	buildings_max_level_factor=1.000

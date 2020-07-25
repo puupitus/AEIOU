@@ -1,5 +1,4 @@
 capital = 7
-set_cosmetic_tag = HOL_united
 set_autonomy = {
 		target = DEI
 		autonomous_state = autonomy_colony

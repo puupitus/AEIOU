@@ -8,23 +8,20 @@ state={
 
 	history={
 		owner = DES
-add_core_of = DES
+		add_core_of = DES
 		buildings = {
 			infrastructure = 4
-arms_factory = 1
-
-
+			arms_factory = 1
 
 		}
-
 		victory_points = {
-			4865 1
+			4865 1 
 		}
 
 	}
 
 	provinces={
-		850 1663 1740 1756 4668 4742 4865 7764 7818 7888 9695 10582 10651 10662 12535 12573 12699 13153
+		850 1663 1740 1862 4668 4736 4742 4816 4865 7756 7827 7879 7888 9695 10582 10591 10651 10662 12399 12535 12573 12699 13153 
 	}
 	manpower=1507846
 	buildings_max_level_factor=1.000

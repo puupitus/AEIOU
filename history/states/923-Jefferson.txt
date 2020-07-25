@@ -6,27 +6,25 @@ state={
 		oil=80.000
 		aluminium=4.000
 	}
+
 	history={
 		owner = NWE
-add_core_of = NWE
+		add_core_of = NWE
 		buildings = {
 			infrastructure = 6
-industrial_complex = 1
-arms_factory = 1
+			industrial_complex = 1
+			arms_factory = 1
+			610 = {
+				naval_base = 1
 
-
-610 = {
-	naval_base = 1
-
-}
+			}
 
 		}
-
 
 	}
 
 	provinces={
-		505 528 610 766 768 781 3471 3588 3644 4274 4331 4347 6482 6665 6745 6757 6772 9697 9730 10151 10159 10305 11495 11698 11733 12281
+		505 528 610 766 768 781 3471 3588 3644 4274 4331 4347 6482 6665 6745 6757 6772 9697 9730 10151 10159 10305 10422 11495 11698 11733 12134 12281 
 	}
 	manpower=2500000
 	buildings_max_level_factor=1.000

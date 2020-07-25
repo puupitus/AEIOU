@@ -17,11 +17,11 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = ACA
-		autonomous_state = autonomy_colony
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = LOU
-		autonomous_state = autonomy_colony
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = CAY

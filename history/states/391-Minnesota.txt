@@ -10,8 +10,8 @@ state={
 	}
 
 	history={
-		owner = LOU
-add_core_of = LOU
+		owner = MID
+add_core_of = MID
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1
@@ -19,7 +19,7 @@ arms_factory = 1
 
 
 		}
-		
+
 		victory_points = {
 			1866 5
 		}

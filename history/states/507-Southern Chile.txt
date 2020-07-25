@@ -5,19 +5,21 @@ state={
 
 	history={
 		owner = PAT
-add_core_of = PAT
-add_core_of = CHL
-add_core_of = ARG
+		add_core_of = PAT
+		add_core_of = CHL
+		add_core_of = ARG
 		buildings = {
 			infrastructure = 1
+			5121 = {
+				naval_base = 1
 
+			}
 		}
-
 
 	}
 
 	provinces={
-		2161 5118 5159 8198 8218 10961
+		2161 5118 5121 5159 5169 8198 8218 10961 12920 12954
 	}
 	manpower=268693
 	buildings_max_level_factor=1.000

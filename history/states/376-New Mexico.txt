@@ -9,23 +9,20 @@ state={
 
 	history={
 		owner = CDO
-add_core_of = CDO
+		add_core_of = CDO
 		buildings = {
 			infrastructure = 4
-arms_factory = 1
-
-
+			arms_factory = 1
 
 		}
-
 		victory_points = {
-			4975 1
+			4975 1 
 		}
 
 	}
 
 	provinces={
-		868 1658 1972 6887 7684 7999 9792 10535 10645 10914 12552
+		1972 2102 4975 10642 10645 10914 12552 12684 
 	}
 	manpower=423316
 	buildings_max_level_factor=1.000

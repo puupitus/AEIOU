@@ -1,5 +1,5 @@
 capital = 361
-
+set_cosmetic_tag = USA_uni
 
 if = {
 	limit = { has_dlc = "Man the Guns" }
