@@ -23,7 +23,10 @@ set_autonomy = {
 		target = MZB
 		autonomous_state = autonomy_colony
 }
-
+set_autonomy = {
+		target = BRA
+		autonomous_state = autonomy_puppet
+}
 
 
 if = {

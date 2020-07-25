@@ -9,7 +9,6 @@ state={
 	history={
 		owner = CIR
 		add_core_of = CIR
-		add_core_of = MOS
 		buildings = {
 			infrastructure = 4
 arms_factory = 1

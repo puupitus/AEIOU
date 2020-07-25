@@ -8,8 +8,7 @@ state={
 	}
 
 	history={
-		owner = TUR
-add_core_of = TUR
+		owner = ALB
 add_core_of = ALB
 		victory_points = {
 			9914 5
@@ -23,7 +22,7 @@ add_core_of = ALB
 
 
 			air_base = 3
-			
+
 
 		}
 

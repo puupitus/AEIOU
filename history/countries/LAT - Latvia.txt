@@ -1,5 +1,4 @@
 capital = 12
-set_cosmetic_tag = LAT_gov
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

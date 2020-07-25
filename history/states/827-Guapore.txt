@@ -4,14 +4,15 @@ state={
 	name="STATE_827"
 
 	history={
-		owner = BOL
+		owner = GPO
 add_core_of = BOL
 add_core_of = GPO
+add_core_of = BRA
 		buildings = {
 			infrastructure = 3
 
 		}
- 
+
 
 	}
 

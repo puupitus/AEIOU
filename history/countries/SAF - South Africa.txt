@@ -1,5 +1,4 @@
 capital = 681
-set_cosmetic_tag = SAF_commonwealth
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

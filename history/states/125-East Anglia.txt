@@ -7,8 +7,9 @@ state={
 	state_category = city
 
 	history={
-		owner = ENG
+		owner = IMP
 add_core_of = ENG
+add_core_of = IMP
 		victory_points = { 271 5 }
 		buildings = {
 			infrastructure = 7

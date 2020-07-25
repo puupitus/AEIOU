@@ -1,4 +1,5 @@
 capital = 294
+set_cosmetic_tag = OMA_emp
 set_autonomy = {
 		target = QAT
 		autonomous_state = autonomy_dominion

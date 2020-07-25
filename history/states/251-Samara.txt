@@ -4,9 +4,8 @@ state={
 	name="STATE_251"
 
 	history={
-		owner = MOS
+		owner = IDE
 add_core_of = IDE
-add_core_of = MOS
 		victory_points = {
 			11225 3
 		}

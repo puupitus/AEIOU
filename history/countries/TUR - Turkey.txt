@@ -1,5 +1,5 @@
 capital = 341
-
+set_cosmetic_tag = TUR_emp
 set_autonomy = {
 		target = JAB
 		autonomous_state = autonomy_puppet
@@ -52,9 +52,13 @@ set_autonomy = {
 		target = ROM
 		autonomous_state = autonomy_puppet
 }
+set_autonomy = {
+		target = ALB
+		autonomous_state = autonomy_puppet
+}
 JAB = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -62,7 +66,7 @@ JAB = {
 }
 ACE = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -70,7 +74,7 @@ ACE = {
 }
 HEJ = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -78,7 +82,7 @@ HEJ = {
 }
 MIT = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -86,7 +90,7 @@ MIT = {
 }
 YEM = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -94,7 +98,7 @@ YEM = {
 }
 KUR = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -102,7 +106,7 @@ KUR = {
 }
 ABK = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -110,7 +114,7 @@ ABK = {
 }
 CRI = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -118,7 +122,7 @@ CRI = {
 }
 MOU = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -126,7 +130,7 @@ MOU = {
 }
 MNT = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -134,7 +138,7 @@ MNT = {
 }
 SER = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -142,7 +146,7 @@ SER = {
 }
 BUL = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -150,7 +154,15 @@ BUL = {
 }
 ROM = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+ALB = {
+	set_politics = {
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -218,7 +230,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

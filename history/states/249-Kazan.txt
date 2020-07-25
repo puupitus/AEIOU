@@ -7,9 +7,8 @@ state={
 	}
 
 	history={
-		owner = MOS
+		owner = IDE
 add_core_of = IDE
-add_core_of = MOS
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

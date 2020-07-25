@@ -7,6 +7,7 @@ state={
 		owner = LUX
 add_core_of = WAL
 add_core_of = LUX
+add_core_of = WGR
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

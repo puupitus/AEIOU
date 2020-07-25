@@ -10,9 +10,9 @@ state={
 
 	history={
 
-		owner = ENG
+		owner = IMP
 add_core_of = SCO
-add_core_of = ENG
+add_core_of = IMP
 		victory_points = {
 			11064 1
 		}
@@ -23,7 +23,7 @@ arms_factory = 1
 			anti_air_building = 2
 
 			air_base = 1
-			
+
 
 
 		}

@@ -10,14 +10,14 @@ state={
 		victory_points = {
 			12763 3
 		}
-		owner = JAK
-add_core_of = JAK
+		owner = PUN
+add_core_of = PUN
 		buildings = {
 			infrastructure = 3
 
 			air_base = 3
 		}
-		
+
 	}
 
 	provinces={

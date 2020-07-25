@@ -9,9 +9,9 @@ state={
 		}
 		owner = SLV
 add_core_of = SLV
-		
-		
-		
+
+
+
 		buildings = {
 			infrastructure = 2
 

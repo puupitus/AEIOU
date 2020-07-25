@@ -1,5 +1,4 @@
 capital = 512
-set_cosmetic_tag = PAT_ara
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

@@ -1,5 +1,4 @@
 capital = 285
-set_cosmetic_tag = AST_commonwealth
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

@@ -1,40 +1,5 @@
 capital = 195
-set_autonomy = {
-		target = LAT
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
-		target = EST
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
-		target = FIN
-		autonomous_state = autonomy_dominion
-}
-LAT = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-EST = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-FIN = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
+set_cosmetic_tag = MOS_emp
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

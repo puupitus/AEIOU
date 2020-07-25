@@ -1,4 +1,5 @@
 capital = 4
+set_cosmetic_tag = AUS_emp
 create_faction = "Vienna Convention"
 set_autonomy = {
 		target = BAY
@@ -100,7 +101,6 @@ set_autonomy = {
 		target = POL
 		autonomous_state = autonomy_puppet
 }
-
 set_autonomy = {
 		target = UKR
 		autonomous_state = autonomy_puppet
@@ -114,7 +114,7 @@ set_autonomy = {
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
-		target = ROM
+		target = GAL
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
@@ -128,6 +128,30 @@ set_autonomy = {
 set_autonomy = {
 		target = MEX
 		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = LIT
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = COU
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = SWI
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = HAN
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = SUD
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = DAR
+		autonomous_state = autonomy_colony
 }
 AEI = {
 	set_politics = {

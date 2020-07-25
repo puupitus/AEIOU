@@ -8,8 +8,8 @@ state={
 	}
 
 	history={
-		owner = RGR
-add_core_of = RGR
+		owner = CDO
+add_core_of = CDO
 		buildings = {
 			infrastructure = 4
 arms_factory = 1

@@ -1,5 +1,4 @@
 capital = 13
-set_cosmetic_tag = EST_gov
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

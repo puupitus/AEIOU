@@ -1,9 +1,6 @@
 capital = 64
-create_faction = "Intercontinental Pact"
-add_to_faction = TUR
-add_to_faction = SAR
-add_to_faction = JAP
-add_to_faction = USA
+create_faction = "Berlin Pact"
+add_to_faction = HOL
 set_autonomy = {
 		target = NMB
 		autonomous_state = autonomy_colony
@@ -40,14 +37,6 @@ set_autonomy = {
 		target = BRD
 		autonomous_state = autonomy_colony
 }
-set_autonomy = {
-		target = LIT
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = COU
-		autonomous_state = autonomy_puppet
-}
 NMB = {
 	set_politics = {
 		ruling_party = neutrality
@@ -73,22 +62,6 @@ SOL = {
 	}
 }
 SAM = {
-	set_politics = {
-		ruling_party = neutrality
-	}
-	set_popularities = {
-		neutrality = 100
-	}
-}
-LIT = {
-	set_politics = {
-		ruling_party = neutrality
-	}
-	set_popularities = {
-		neutrality = 100
-	}
-}
-COU = {
 	set_politics = {
 		ruling_party = neutrality
 	}

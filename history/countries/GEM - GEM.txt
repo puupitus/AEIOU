@@ -1,5 +1,4 @@
 capital = 894
-set_cosmetic_tag = GEM_commonwealth
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

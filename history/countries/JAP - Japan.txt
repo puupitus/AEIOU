@@ -1,4 +1,5 @@
 capital = 282
+set_cosmetic_tag = JAP_emp
 set_autonomy = {
 		target = MAN
 		autonomous_state = autonomy_colony

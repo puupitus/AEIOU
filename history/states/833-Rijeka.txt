@@ -9,7 +9,7 @@ add_core_of = CRO
 			infrastructure = 2
 
 		}
- 
+
 
 	}
 	provinces={

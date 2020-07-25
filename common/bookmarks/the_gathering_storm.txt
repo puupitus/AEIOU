@@ -15,8 +15,8 @@ bookmarks = {
 			focuses = {
 			}
 		}
-		"ENG"={
-			history = "ENG_GATHERING_STORM_DESC"
+		"IMP"={
+			history = "IMP_GATHERING_STORM_DESC"
 			ideology = communism
 			ideas = {
 			}

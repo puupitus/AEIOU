@@ -8,8 +8,7 @@ state={
 	}
 
 	history={
-		owner = MOS
-add_core_of = MOS
+		owner = KAL
 add_core_of = KAL
 		buildings = {
 			infrastructure = 4

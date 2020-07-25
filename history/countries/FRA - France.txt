@@ -1,4 +1,5 @@
 capital = 16
+set_cosmetic_tag = FRA_emp
 create_faction = "Entente"
 add_to_faction = MOS
 add_to_faction = GEA
@@ -102,7 +103,31 @@ set_autonomy = {
 		target = PAT
 		autonomous_state = autonomy_puppet
 }
+set_autonomy = {
+		target = WGR
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = RAJ
+		autonomous_state = autonomy_colony
+}
 ACA = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+RAJ = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+WGR = {
 	set_politics = {
 		ruling_party = fascism
 	}

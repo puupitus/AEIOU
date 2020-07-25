@@ -4,8 +4,7 @@ state={
 	name="STATE_438"
 
 	history={
-		owner = SIN
-add_core_of = SIN
+		owner = BEN
 add_core_of = BEN
 		victory_points = {
 			12137 1

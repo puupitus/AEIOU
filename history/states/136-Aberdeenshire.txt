@@ -12,9 +12,9 @@ state={
 
 	history={
 
-		owner = ENG
+		owner = IMP
 add_core_of = SCO
-add_core_of = ENG
+add_core_of = IMP
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

@@ -4,8 +4,7 @@ state={
 	name="STATE_860"
 
 	history={
-		owner = TUR
-add_core_of = TUR
+		owner = ALB
 add_core_of = ALB
 
 		buildings = {
@@ -16,7 +15,7 @@ add_core_of = ALB
 
 			}
 		}
- 
+
 	}
 
 	provinces={

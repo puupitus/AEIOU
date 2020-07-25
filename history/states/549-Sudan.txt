@@ -7,8 +7,7 @@ state={
 		victory_points = {
 			2096 1
 		}
-		owner = MAH
-add_core_of = MAH
+		owner = SUD
 add_core_of = SUD
 		buildings = {
 			infrastructure = 3

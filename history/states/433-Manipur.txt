@@ -7,8 +7,7 @@ state={
 		victory_points = {
 			2054 1
 		}
-		owner = SIN
-add_core_of = SIN
+		owner = BAR
 add_core_of = BAR
 		buildings = {
 			infrastructure = 3

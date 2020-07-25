@@ -4,8 +4,7 @@ state={
 	name="STATE_406"
 
 	history={
-		owner = MOS
-add_core_of = MOS
+		owner = KAL
 add_core_of = KAL
 		buildings = {
 			infrastructure = 1

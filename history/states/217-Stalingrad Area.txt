@@ -4,8 +4,7 @@ state={
 	name="STATE_217"
 
 	history={
-		owner = MOS
-add_core_of = MOS
+		owner = KAL
 add_core_of = KAL
 		victory_points = {
 			3529 30.0
@@ -20,7 +19,7 @@ arms_factory = 1
 			air_base = 1
 
 		}
- 
+
 
 	}
 
