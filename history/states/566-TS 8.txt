@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = TAN
+		owner = SIB
 add_core_of = TAN
 add_core_of = MON
 add_core_of = MEN

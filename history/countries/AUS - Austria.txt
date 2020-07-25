@@ -153,6 +153,14 @@ set_autonomy = {
 		target = DAR
 		autonomous_state = autonomy_colony
 }
+set_autonomy = {
+		target = PAP
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = MLT
+		autonomous_state = autonomy_puppet
+}
 AEI = {
 	set_politics = {
 		ruling_party = neutrality

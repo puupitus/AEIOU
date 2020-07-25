@@ -1,8 +1,4 @@
 capital = 115
-set_autonomy = {
-		target = MLT
-		autonomous_state = autonomy_dominion
-}
 
 if = {
 	limit = { has_dlc = "Man the Guns" }
