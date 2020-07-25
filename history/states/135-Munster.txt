@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = NIR
+		owner = IRE
 add_core_of = NIR
 add_core_of = IRE
 		buildings = {

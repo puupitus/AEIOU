@@ -1,25 +1,26 @@
 ideologies = {
 
-  fascism = {
+  neutrality = {
 
 		types = {
 
-      absolutist  = {
+			federalist = {
 			}
 
 		}
 
 		dynamic_faction_names = {
-			"FACTION_NAME_FASCIST_1"
-			"FACTION_NAME_FASCIST_2"
-			"FACTION_NAME_FASCIST_3"
-			"FACTION_NAME_FASCIST_4"
-			"FACTION_NAME_FASCIST_5"
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
 		}
 
-		color = { 35 35 35 }
+		color = { 3 28 252 }
 
-    war_impact_on_world_tension = 0.25		#no major danger
+
+		war_impact_on_world_tension = 0.25		#no major danger
 		faction_impact_on_world_tension = 0.1
 
 		rules = {

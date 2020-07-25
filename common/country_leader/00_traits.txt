@@ -436,7 +436,7 @@ leader_traits = {
 		}
 	}
 
-	staunch_constitutionalist = {
+	staunch_federalist = {
 		random = no
 		drift_defence_factor = 0.5
 
