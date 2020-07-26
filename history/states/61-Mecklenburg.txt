@@ -4,8 +4,7 @@ state={
 	name="STATE_61"
 
 	history={
-		owner = PRE
-add_core_of = PRE
+		owner = MEK
 add_core_of = MEK
 		victory_points = {
 			321 5

@@ -1,5 +1,4 @@
 capital = 395
-set_cosmetic_tag = MID_mon
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

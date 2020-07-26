@@ -1,6 +1,14 @@
 capital = 52
-
-
+create_faction = "German Confederation"
+add_to_faction = WUR
+add_to_faction = BAD
+add_to_faction = HES
+add_to_faction = WPH
+add_to_faction = THU
+add_to_faction = HAN
+add_to_faction = SHL
+add_to_faction = MEK
+add_to_faction = SAX
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

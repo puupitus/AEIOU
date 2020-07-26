@@ -12,8 +12,8 @@ state={
 			6464 5
 		}
 		owner = PRE
-add_core_of = PRE
 add_core_of = GER
+add_core_of = PRE
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

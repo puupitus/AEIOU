@@ -10,8 +10,8 @@ state={
 	}
 
 	history={
-		owner = MID
-add_core_of = MID
+		owner = LOU
+add_core_of = LOU
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

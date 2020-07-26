@@ -1,4 +1,7 @@
 capital = 7
+create_faction = "Hague Treaty"
+add_to_faction = SPR
+add_to_faction = LUX
 set_autonomy = {
 		target = DEI
 		autonomous_state = autonomy_colony
@@ -33,7 +36,7 @@ set_autonomy = {
 }
 GHA = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = fascism
 	}
 	set_popularities = {
 		democratic = 100
@@ -41,7 +44,7 @@ GHA = {
 }
 CRC = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = fascism
 	}
 	set_popularities = {
 		democratic = 100
@@ -109,7 +112,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = fascism
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

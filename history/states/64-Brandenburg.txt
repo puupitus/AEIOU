@@ -5,8 +5,8 @@ state={
 
 	history={
 		owner = PRE
-		add_core_of = PRE
 		add_core_of = DDR
+		add_core_of = PRE
 		victory_points = {
 			6521 50
 		}

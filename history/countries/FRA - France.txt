@@ -3,17 +3,14 @@ set_cosmetic_tag = FRA_emp
 create_faction = "Entente"
 add_to_faction = MOS
 add_to_faction = GEA
-set_autonomy = {
-		target = WPH
-		autonomous_state = autonomy_puppet
-}
+
 set_autonomy = {
 		target = ITA
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = QUE
-		autonomous_state = autonomy_colony
+		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = ACA
@@ -21,7 +18,7 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = LOU
-		autonomous_state = autonomy_puppet
+		autonomous_state = autonomy_colony
 }
 set_autonomy = {
 		target = CAY
@@ -110,6 +107,14 @@ set_autonomy = {
 set_autonomy = {
 		target = RAJ
 		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = BRI
+		autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+		target = COR
+		autonomous_state = autonomy_integrated_puppet
 }
 ACA = {
 	set_politics = {
@@ -286,14 +291,6 @@ VOL = {
 	}
 }
 
-WPH = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
 
 
 CAM = {
@@ -339,6 +336,22 @@ MAH = {
 	}
 }
 PAT = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+BRI = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+COR = {
 	set_politics = {
 		ruling_party = fascism
 	}

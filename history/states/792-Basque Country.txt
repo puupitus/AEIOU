@@ -6,9 +6,9 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = NAV
 add_core_of = SPR
-add_core_of = ADU
+add_core_of = NAV
 		victory_points = {
 			740 10
 		}

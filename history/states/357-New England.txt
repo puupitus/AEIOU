@@ -7,8 +7,9 @@ state={
 	}
 
 	history={
-		owner = USB
+		owner = IMP
 add_core_of = USB
+add_core_of = IMP
 		buildings = {
 			infrastructure = 7
 industrial_complex = 2
@@ -22,7 +23,7 @@ arms_factory = 1
 				naval_base = 8
 
 			}
-			
+
 
 		}
 

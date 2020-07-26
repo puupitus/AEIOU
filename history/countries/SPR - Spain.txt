@@ -4,10 +4,6 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = BRS
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
 		target = MOR
 		autonomous_state = autonomy_colony
 }
@@ -19,9 +15,22 @@ set_autonomy = {
 		target = PHI
 		autonomous_state = autonomy_colony
 }
-
-
-
+set_autonomy = {
+		target = CAT
+		autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+		target = NAV
+		autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+		target = ADU
+		autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+		target = GLC
+		autonomous_state = autonomy_integrated_puppet
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"
@@ -84,7 +93,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

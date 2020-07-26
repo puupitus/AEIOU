@@ -1,8 +1,5 @@
 capital = 64
-create_faction = "Berlin Pact"
-add_to_faction = HOL
-add_to_faction = SPR
-add_to_faction = LUX
+
 set_autonomy = {
 		target = NMB
 		autonomous_state = autonomy_colony
@@ -41,7 +38,7 @@ set_autonomy = {
 }
 NMB = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -49,7 +46,7 @@ NMB = {
 }
 PNG = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -57,7 +54,7 @@ PNG = {
 }
 SOL = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -65,15 +62,16 @@ SOL = {
 }
 SAM = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
 	}
 }
+
 TZN = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -81,7 +79,7 @@ TZN = {
 }
 KEN = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -89,7 +87,7 @@ KEN = {
 }
 UGA = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -97,7 +95,7 @@ UGA = {
 }
 BRD = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -105,7 +103,7 @@ BRD = {
 }
 RWA = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
 		neutrality = 100
@@ -173,7 +171,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

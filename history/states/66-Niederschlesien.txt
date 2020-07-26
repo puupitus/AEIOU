@@ -9,8 +9,8 @@ state={
 
 	history={
 		owner = PRE
-		add_core_of = PRE
 		add_core_of = GER
+		add_core_of = PRE
 		victory_points = {
 			9570 10
 		}
@@ -23,7 +23,7 @@ arms_factory = 1
 			air_base = 6
 
 		}
-	 
+
 
 	}
 
