@@ -13,7 +13,6 @@ state={
 
 	history={
 		owner = IMP
-add_core_of = USA
 add_core_of = IMP
 		buildings = {
 			infrastructure = 8

@@ -8,8 +8,7 @@ state={
 	}
 
 	history={
-		owner = TUR
-add_core_of = TUR
+		owner = MAC
 add_core_of = MAC
 add_core_of = BUL
 		buildings = {

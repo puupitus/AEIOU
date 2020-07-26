@@ -13,8 +13,8 @@ state={
 	state_category = city
 
 	history={
-		owner = TUR
-add_core_of = TUR
+		owner = GRE
+add_core_of = GRE
 		victory_points = {
 			4109 20
 		}
@@ -49,7 +49,7 @@ industrial_complex = 1
 			}
 
 		}
-		
+
 
 	}
 

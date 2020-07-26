@@ -110,10 +110,6 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = MEX
-		autonomous_state = autonomy_dominion
-}
-set_autonomy = {
 		target = LIT
 		autonomous_state = autonomy_puppet
 }
@@ -134,19 +130,11 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = PAP
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
 		target = MLT
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
 		target = BEL
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = USA
 		autonomous_state = autonomy_puppet
 }
 AEI = {

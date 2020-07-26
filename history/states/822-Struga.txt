@@ -4,8 +4,7 @@ state={
 	name="STATE_822"
 
 	history={
-		owner = TUR
-add_core_of = TUR
+		owner = MAC
 add_core_of = MAC
 add_core_of = BUL
 add_core_of = ALB
@@ -14,7 +13,7 @@ add_core_of = ALB
 arms_factory = 1
 
 		}
- 
+
 
 	}
 

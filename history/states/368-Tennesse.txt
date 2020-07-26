@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = APP
-add_core_of = APP
+		owner = IMP
+add_core_of = IMP
 		buildings = {
 			infrastructure = 5
 industrial_complex = 1
@@ -16,7 +16,7 @@ industrial_complex = 1
 
 
 		}
-		
+
 		victory_points = {
 			12501 3
 		}

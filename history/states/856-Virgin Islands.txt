@@ -2,13 +2,13 @@ state={
 	id=856
 	name="STATE_856"
 	history={
-		owner = DEN
-add_core_of = DEN
+		owner = BAS
+add_core_of = BAS
 
 		buildings = {
 			infrastructure = 1
 		}
- 
+
 
 	}
 	provinces={

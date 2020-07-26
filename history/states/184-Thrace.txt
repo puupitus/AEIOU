@@ -10,9 +10,10 @@ state={
 		victory_points = {
 			11905 1
 		}
-		owner = TUR
-add_core_of = TUR
+		owner = GRE
+add_core_of = GRE
 add_core_of = BUL
+add_core_of = TUR
 		buildings = {
 			infrastructure = 4
 arms_factory = 1

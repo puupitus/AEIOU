@@ -1,6 +1,13 @@
 capital = 277
 set_cosmetic_tag = MEX_emp
-
+set_autonomy = {
+		target = SON
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = BAJ
+		autonomous_state = autonomy_puppet
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"
@@ -63,7 +70,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

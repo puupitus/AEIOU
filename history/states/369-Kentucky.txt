@@ -4,8 +4,8 @@ state={
 	name="STATE_369"
 
 	history={
-		owner = APP
-add_core_of = APP
+		owner = IMP
+add_core_of = IMP
 		buildings = {
 			infrastructure = 5
 industrial_complex = 1
@@ -14,15 +14,15 @@ industrial_complex = 1
 			air_base = 4
 
 		}
-		
+
 		victory_points = {
-			6696 1 
+			6696 1
 		}
 
 	}
 
 	provinces={
-		1445 1582 4402 4452 4988 6696 6974 7547 9727 10727 12568 12637 12709 
+		1445 1582 4402 4452 4988 6696 6974 7547 9727 10727 12568 12637 12709
 	}
 	manpower=2614588
 	buildings_max_level_factor=1.000
