@@ -4,9 +4,9 @@ state={
 	name="STATE_917"
 
 	history={
-		owner = IMP
+		owner = USB
 add_core_of = USA
-add_core_of = IMP
+add_core_of = USB
 		buildings = {
 			infrastructure = 8
 industrial_complex = 2

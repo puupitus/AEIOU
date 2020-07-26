@@ -4,7 +4,8 @@ state={
 	name="STATE_365"
 
 	history={
-		owner = APP
+		owner = USA
+add_core_of = USA
 add_core_of = CSA
 add_core_of = APP
 		buildings = {

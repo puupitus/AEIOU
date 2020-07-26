@@ -7,10 +7,9 @@ state={
 	state_category = rural
 
 	history={
-		owner = IMP
+		owner = NEW
 add_core_of = NEW
 add_core_of = CAN
-add_core_of = IMP
 		buildings = {
 			infrastructure = 3
 

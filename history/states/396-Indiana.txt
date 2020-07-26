@@ -6,8 +6,8 @@ state={
 	state_category = large_city
 
 	history={
-		owner = IMP
-add_core_of = IMP
+		owner = USA
+add_core_of = USA
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1
