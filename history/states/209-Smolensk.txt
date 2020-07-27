@@ -6,7 +6,6 @@ state={
 	history={
 		owner = MOS
 		add_core_of = MOS
-		add_core_of = EST
 		add_core_of = RUS
 		victory_points = {
 			11202 3

@@ -6,7 +6,6 @@ state={
 	history={
 		owner = AZR
 add_core_of = AZR
-add_core_of = PER
 		buildings = {
 			infrastructure = 3
 

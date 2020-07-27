@@ -10,7 +10,6 @@ state={
 	history={
 		owner = CIR
 		add_core_of = CIR
-		add_core_of = KUB
 		buildings = {
 			infrastructure = 5
 industrial_complex = 1

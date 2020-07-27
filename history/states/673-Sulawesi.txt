@@ -13,9 +13,6 @@ state={
 		owner = INS
 add_core_of = INS
 
-add_core_of = SWK
-add_core_of = BRU
-
 		victory_points = {
 			10263 3
 		}

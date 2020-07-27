@@ -6,7 +6,6 @@ state={
 	history={
 		owner = KUR
 add_core_of = KUR
-add_core_of = PER
 		buildings = {
 			infrastructure = 3
 

@@ -12,7 +12,6 @@ state={
 
 	history={
 		owner = QUE
-add_core_of = CAN
 add_core_of = QUE
 		buildings = {
 			infrastructure = 6

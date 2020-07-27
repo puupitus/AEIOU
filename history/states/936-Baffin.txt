@@ -4,9 +4,8 @@ state={
 	name="STATE_936"
 
 	history={
-		owner = QUE
+		owner = CAN
 add_core_of = CAN
-add_core_of = QUE
 		buildings = {
 			infrastructure = 1
 			3691 = {
@@ -14,7 +13,7 @@ add_core_of = QUE
 
 			}
 		}
- 
+
 
 	}
 

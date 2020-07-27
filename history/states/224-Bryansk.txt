@@ -6,7 +6,6 @@ state={
 	history={
 		owner = MOS
 		add_core_of = MOS
-		add_core_of = BLR
 		victory_points = {
 			3335 10
 		}

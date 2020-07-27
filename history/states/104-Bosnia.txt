@@ -9,8 +9,6 @@ state={
 	history={
 		owner = BOS
 add_core_of = BOS
-add_core_of = SER
-add_core_of = CRO
 		victory_points = {
 			11899 5
 		}

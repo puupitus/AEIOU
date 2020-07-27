@@ -11,9 +11,6 @@ state={
 	history={
 		owner = GEM
 add_core_of = GEM
-add_core_of = MAL
-add_core_of = SWK
-add_core_of = BRU
 		buildings = {
 			infrastructure = 3
 
@@ -23,7 +20,7 @@ add_core_of = BRU
 
 			}
 		}
- 
+
 
 	}
 

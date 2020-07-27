@@ -10,6 +10,8 @@ add_to_faction = RAJ
 add_to_faction = KEN
 add_to_faction = GEM
 add_to_faction = FIJ
+add_to_faction = USB
+add_to_faction = NEW
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

@@ -9,8 +9,6 @@ state={
 	history={
 		owner = SWK
 add_core_of = SWK
-add_core_of = BRU
-add_core_of = MAL
 		buildings = {
 			infrastructure = 3
 
@@ -19,7 +17,7 @@ add_core_of = MAL
 
 			}
 		}
- 
+
 
 	}
 

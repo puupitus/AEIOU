@@ -6,7 +6,6 @@ state={
 	history={
 		owner = BOL
 add_core_of = BOL
-add_core_of = CHL
 		buildings = {
 			infrastructure = 3
 
@@ -16,7 +15,7 @@ add_core_of = CHL
 				naval_base = 1
 
 			}
-			
+
 
 		}
 

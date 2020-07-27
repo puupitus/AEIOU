@@ -10,7 +10,6 @@ state={
 	history={
 		owner = FRA
 		add_core_of = FRA
-		add_core_of = WAL
 		victory_points = {
 			575 5
 		}
@@ -28,7 +27,7 @@ arms_factory = 2
 
 
 			air_base = 10
-			
+
 
 		}
 

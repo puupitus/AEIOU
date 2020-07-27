@@ -5,12 +5,11 @@ state={
 	history={
 		owner = ETH
 add_core_of = ETH
-add_core_of = SOM
 		buildings = {
 			infrastructure = 3
 
 		}
- 
+
 	}
 	provinces={
 		4995 7980 8062 10775 12714 12757 12812

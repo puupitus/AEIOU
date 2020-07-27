@@ -10,7 +10,6 @@ state=
 	history=
 	{
 		owner = IMP
-add_core_of = NIR
 add_core_of = IRE
 add_core_of = IMP
 		buildings = {

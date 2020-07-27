@@ -6,7 +6,6 @@ state={
 	history={
 		owner = USA
 add_core_of = USA
-add_core_of = APP
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1
@@ -20,17 +19,17 @@ arms_factory = 1
 			}
 
 		}
-		
+
 		victory_points = {
-			7138 3 
+			7138 3
 		}
 
 	}
 
 	provinces={
-		1019 1077 1132 1163 4168 6943 7045 7083 9876 10051 10081 11783 11927 12054 12445 
+		1019 1077 1132 1163 4168 6943 7045 7083 9876 10051 10081 11783 11927 12054 12445
 	}
-	manpower=3170274
+	manpower=2170274
 	buildings_max_level_factor=1.000
 	state_category=city
 }

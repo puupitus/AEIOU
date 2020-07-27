@@ -10,8 +10,6 @@ state={
 	history={
 		owner = BRU
 add_core_of = BRU
-add_core_of = SWK
-add_core_of = MAL
 		victory_points = {
 			7371 1
 		}
@@ -22,7 +20,7 @@ add_core_of = MAL
 			infrastructure = 3
 
 
-			
+
 			7371 = {
 				naval_base = 2
 

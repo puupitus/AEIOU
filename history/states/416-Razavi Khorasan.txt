@@ -6,7 +6,6 @@ state={
 	history={
 		owner = TMS
 add_core_of = TMS
-add_core_of = PER
 		buildings = {
 			infrastructure = 3
 

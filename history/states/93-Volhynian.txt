@@ -8,7 +8,6 @@ state={
 			6557 1
 		}
 		owner = UKR
-add_core_of = POL
 add_core_of = UKR
 		buildings = {
 			infrastructure = 5

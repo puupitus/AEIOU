@@ -6,7 +6,6 @@ state={
 	history={
 		owner = USA
 add_core_of = USA
-add_core_of = APP
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

@@ -6,9 +6,8 @@ state={
 	history={
 		owner = FIN
 		add_core_of = FIN
-		add_core_of = SWE
 		victory_points = {
-			3122 3 
+			3122 3
 		}
 		buildings = {
 			infrastructure = 4
@@ -25,7 +24,7 @@ arms_factory = 1
 	}
 
 	provinces={
-		63 66 82 120 158 195 3122 3172 6013 6081 6198 6212 9038 9156 11041 11065 11081 11121 11126 11132 11164 
+		63 66 82 120 158 195 3122 3172 6013 6081 6198 6212 9038 9156 11041 11065 11081 11121 11126 11132 11164
 	}
 	manpower=1611029
 	buildings_max_level_factor=1.000

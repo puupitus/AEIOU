@@ -11,8 +11,6 @@ state={
 			9602 3
 		}
 		owner = TEM
-add_core_of = SER
-add_core_of = ROM
 add_core_of = TEM
 		buildings = {
 			infrastructure = 4

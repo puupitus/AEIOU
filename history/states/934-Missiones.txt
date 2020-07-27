@@ -4,13 +4,11 @@ state={
 	history={
 	  owner = PAR
 add_core_of = PAR
-add_core_of = ENT
-add_core_of = ARG
 	  buildings = {
 			infrastructure = 2
 
 	  }
- 
+
 
 	}
 	provinces={

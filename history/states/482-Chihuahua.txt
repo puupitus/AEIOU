@@ -5,7 +5,6 @@ state={
 
 	history={
 		owner = RGR
-add_core_of = MEX
 add_core_of = RGR
 		buildings = {
 			infrastructure = 3

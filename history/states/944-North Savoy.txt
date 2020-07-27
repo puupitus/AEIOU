@@ -6,14 +6,13 @@ state={
 	history={
 		owner = FRA
 		add_core_of = FRA
-		add_core_of = SAR
 		buildings = {
 			infrastructure = 4
 arms_factory = 1
 
 
 		}
- 
+
 
 	}
 

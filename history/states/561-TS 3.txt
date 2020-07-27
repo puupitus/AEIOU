@@ -5,7 +5,6 @@ state={
 
 	history={
 		owner = SIB
-add_core_of = SOV
 add_core_of = SIB
 		buildings = {
 			infrastructure = 3

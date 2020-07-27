@@ -5,8 +5,6 @@ state={
 
 	history={
 		owner = LUX
-add_core_of = WAL
-add_core_of = WGR
 add_core_of = LUX
 		buildings = {
 			infrastructure = 6

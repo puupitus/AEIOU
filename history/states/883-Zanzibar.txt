@@ -6,7 +6,6 @@ state={
 	history={
 		owner = ZAN
 add_core_of = ZAN
-add_core_of = TZN
 		buildings = {
 			infrastructure = 3
 
@@ -15,7 +14,7 @@ add_core_of = TZN
 
 			}
 		}
- 
+
 
 	}
 

@@ -10,7 +10,6 @@ state={
 	history={
 		owner = BAY
 add_core_of = BAY
-add_core_of = WGR
 		victory_points = {
 			11435 1
 		}

@@ -8,7 +8,6 @@ state= {
 	history= 	{
 		owner = PAT
 add_core_of = PAT
-add_core_of = ARG
 		buildings = {
 			infrastructure = 2
 

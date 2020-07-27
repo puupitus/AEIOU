@@ -9,7 +9,6 @@ state={
 	history={
 		owner = ENT
 add_core_of = ENT
-add_core_of = ARG
 		buildings = {
 			infrastructure = 5
 industrial_complex = 1

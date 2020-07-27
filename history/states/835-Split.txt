@@ -6,8 +6,6 @@ state={
 	history={
 		owner = DAL
 add_core_of = DAL
-add_core_of = CRO
-add_core_of = MNT
 
 		buildings = {
 			infrastructure = 5
@@ -18,7 +16,7 @@ industrial_complex = 1
 
 }
 		}
- 
+
 
 	}
 

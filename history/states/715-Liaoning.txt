@@ -5,23 +5,24 @@ state={
 
 	history={
 		owner = MAN
-add_core_of = CHI
-add_core_of = XSM
-add_core_of = SIK
-add_core_of = YUN
-add_core_of = GXC
-add_core_of = PRC
-add_core_of = GND
-add_core_of = HNN
-add_core_of = ANH
-add_core_of = ZHI
-add_core_of = SHD
-add_core_of = SHX
-add_core_of = BEI
 add_core_of = MAN
-add_core_of = MON
-add_core_of = MEN
-add_core_of = TAN
+
+
+
+
+
+
+
+
+
+
+
+
+
+add_core_of = MAN
+
+
+
 
 		buildings = {
 			infrastructure = 3

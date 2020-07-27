@@ -1,13 +1,4 @@
 capital = 427
-create_faction = "Princely Confederation"
-add_to_faction = MYS
-add_to_faction = GUJ
-add_to_faction = GWA
-add_to_faction = BAR
-add_to_faction = SIN
-add_to_faction = PUN
-add_to_faction = BEN
-add_to_faction = TRA
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

@@ -7,7 +7,6 @@ state={
 		owner = MOS
 		add_core_of = MOS
 		add_core_of = ING
-		add_core_of = EST
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 5

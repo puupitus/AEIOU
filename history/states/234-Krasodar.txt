@@ -10,7 +10,6 @@ state={
 	history={
 		owner = KUB
 add_core_of = KUB
-add_core_of = CIR
 		victory_points = {
 			3720 1
 		}

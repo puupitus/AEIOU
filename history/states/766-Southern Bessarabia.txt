@@ -12,8 +12,7 @@ state=
 		}
 
 
-		owner = MOL
-add_core_of = MOL
+		owner = BUL
 add_core_of = BUL
 		buildings = {
 			infrastructure = 4

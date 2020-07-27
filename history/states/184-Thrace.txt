@@ -11,9 +11,7 @@ state={
 			11905 1
 		}
 		owner = BUL
-add_core_of = GRE
 add_core_of = BUL
-add_core_of = TUR
 		buildings = {
 			infrastructure = 4
 arms_factory = 1

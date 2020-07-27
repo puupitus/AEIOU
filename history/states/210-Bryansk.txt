@@ -6,7 +6,6 @@ state={
 	history={
 		owner = MOS
 		add_core_of = MOS
-		add_core_of = BLR
 		buildings = {
 			infrastructure = 5
 industrial_complex = 1

@@ -6,7 +6,6 @@ state={
 	history={
 		owner = DAI
 add_core_of = DAI
-add_core_of = VIN
 		buildings = {
 			infrastructure = 3
 
@@ -15,7 +14,7 @@ add_core_of = VIN
 
 			}
 		}
- 
+
 
 	}
 

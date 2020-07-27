@@ -10,10 +10,6 @@ state={
 	history={
 		owner = INS
 add_core_of = INS
-
-add_core_of = MAL
-add_core_of = SWK
-add_core_of = BRU
 		victory_points = {
 			10237 1
 		}
@@ -24,7 +20,7 @@ add_core_of = BRU
 				naval_base = 3
 
 			}
-			
+
 
 		}
 
