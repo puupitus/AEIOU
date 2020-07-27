@@ -10,8 +10,10 @@ state={
 		victory_points = {
 			9602 3
 		}
-		owner = SER
+		owner = TEM
 add_core_of = SER
+add_core_of = ROM
+add_core_of = TEM
 		buildings = {
 			infrastructure = 4
 arms_factory = 1

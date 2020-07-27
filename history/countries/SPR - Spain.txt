@@ -19,22 +19,6 @@ set_autonomy = {
 		target = BRS
 		autonomous_state = autonomy_colony
 }
-set_autonomy = {
-		target = CAT
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
-		target = NAV
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
-		target = ADU
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
-		target = GLC
-		autonomous_state = autonomy_integrated_puppet
-}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

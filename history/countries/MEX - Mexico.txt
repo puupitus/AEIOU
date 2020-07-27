@@ -1,13 +1,5 @@
 capital = 277
 set_cosmetic_tag = MEX_emp
-set_autonomy = {
-		target = SON
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = BAJ
-		autonomous_state = autonomy_puppet
-}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

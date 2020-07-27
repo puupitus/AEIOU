@@ -1,6 +1,4 @@
 capital = 7
-create_faction = "Hague Treaty"
-add_to_faction = LUX
 set_autonomy = {
 		target = DEI
 		autonomous_state = autonomy_colony

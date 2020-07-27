@@ -6,7 +6,7 @@ state=
 
 	state_category = enclave
 	history={
-		owner = ADU
+		owner = SPR
 add_core_of = SPR
 add_core_of = ADU
 		victory_points = { 4135 10 }

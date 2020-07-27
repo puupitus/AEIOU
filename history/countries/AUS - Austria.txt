@@ -6,14 +6,6 @@ set_autonomy = {
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
-		target = MOD
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = TUS
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
 		target = SLV
 		autonomous_state = autonomy_puppet
 }

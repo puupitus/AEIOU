@@ -1,5 +1,5 @@
-capital = 924
-
+capital = 480
+set_cosmetic_tag = RGR_ari
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

@@ -12,14 +12,14 @@ state={
 		}
 		owner = BUL
 add_core_of = BUL
+add_core_of = ROM
 		buildings = {
 			infrastructure = 5
 industrial_complex = 1
 
 
 		}
-		
-		add_claim_by = BUL
+
 	}
 
 	provinces={

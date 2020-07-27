@@ -1,5 +1,5 @@
 capital = 375
-
+set_cosmetic_tag = TEX_gre
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

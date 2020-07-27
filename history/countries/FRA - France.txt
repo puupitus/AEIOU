@@ -5,10 +5,6 @@ add_to_faction = MOS
 add_to_faction = GEA
 
 set_autonomy = {
-		target = ITA
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
 		target = QUE
 		autonomous_state = autonomy_puppet
 }
@@ -109,12 +105,8 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = BRI
-		autonomous_state = autonomy_integrated_puppet
-}
-set_autonomy = {
-		target = COR
-		autonomous_state = autonomy_integrated_puppet
+		target = WPH
+		autonomous_state = autonomy_puppet
 }
 ACA = {
 	set_politics = {
@@ -141,14 +133,6 @@ WGR = {
 	}
 }
 ALG = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-ITA = {
 	set_politics = {
 		ruling_party = fascism
 	}
@@ -351,7 +335,7 @@ BRI = {
 		fascism = 100
 	}
 }
-COR = {
+WPH = {
 	set_politics = {
 		ruling_party = fascism
 	}

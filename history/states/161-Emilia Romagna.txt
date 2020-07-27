@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = PAP
-add_core_of = PAP
+		owner = MOD
+add_core_of = MOD
 		victory_points = {
 			6606 3
 		}
@@ -25,7 +25,7 @@ arms_factory = 1
 			}
 
 		}
-		
+
 
 	}
 

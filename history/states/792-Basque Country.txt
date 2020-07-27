@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = NAV
+		owner = SPR
 add_core_of = SPR
 add_core_of = NAV
 		victory_points = {
