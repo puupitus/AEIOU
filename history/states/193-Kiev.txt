@@ -7,22 +7,19 @@ state={
 		victory_points = {
 			3568 3
 		}
-		owner = UKR
-add_core_of = UKR
+		owner = MOS
+		add_core_of = MOS
 		buildings = {
 			infrastructure = 5
-industrial_complex = 1
-
+			industrial_complex = 1
 			air_base = 8
 
 		}
-		
-		
 
 	}
 
 	provinces={
-		238 489 546 582 3480 3542 3568 3584 6458 6508 6532 6589 9437 9506 9543 11425 11489 11557
+		238 489 546 582 3480 3542 3568 3584 6458 6508 6532 6589 9437 9506 9543 11425 11489 11530 11557
 	}
 	manpower=1373637
 	buildings_max_level_factor=1.000

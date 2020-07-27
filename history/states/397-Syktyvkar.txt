@@ -5,19 +5,17 @@ state={
 
 	history={
 		owner = MOS
-add_core_of = MOS
-add_core_of = RUS
+		add_core_of = MOS
+		add_core_of = RUS
 		buildings = {
 			infrastructure = 2
 
-
 		}
-
 
 	}
 
 	provinces={
-		1295 3155 4298 7330 7712 7898 9225 10579 11200 12558
+		1295 3155 4298 7330 7712 7898 9225 10579 11200 12393 12558 
 	}
 	manpower=437203
 	buildings_max_level_factor=1.000
