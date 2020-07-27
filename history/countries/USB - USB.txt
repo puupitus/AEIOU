@@ -1,5 +1,4 @@
 capital = 357
-set_cosmetic_tag = USB_nesc
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

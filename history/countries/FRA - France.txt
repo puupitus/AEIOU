@@ -101,14 +101,14 @@ set_autonomy = {
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
-		target = RAJ
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
 		target = WPH
 		autonomous_state = autonomy_puppet
 }
-ACA = {
+set_autonomy = {
+		target = MDS
+		autonomous_state = autonomy_colony
+}
+MDS = {
 	set_politics = {
 		ruling_party = fascism
 	}
@@ -116,7 +116,7 @@ ACA = {
 		fascism = 100
 	}
 }
-RAJ = {
+ACA = {
 	set_politics = {
 		ruling_party = fascism
 	}

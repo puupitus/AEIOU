@@ -1,5 +1,12 @@
 capital = 473
-
+create_faction = "Commonwealth of Nations"
+add_to_faction = AST
+add_to_faction = NZL
+add_to_faction = HAW
+add_to_faction = SAF
+add_to_faction = SIE
+add_to_faction = BAS
+add_to_faction = RAJ
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

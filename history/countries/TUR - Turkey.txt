@@ -1,5 +1,4 @@
 capital = 341
-set_cosmetic_tag = TUR_emp
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"
