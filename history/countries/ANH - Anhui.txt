@@ -1,5 +1,5 @@
 capital = 613
-
+set_cosmetic_tag = ANH_hki
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

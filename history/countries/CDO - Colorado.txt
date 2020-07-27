@@ -3,7 +3,6 @@ create_faction = "United Republics of America"
 add_to_faction = TEX
 add_to_faction = LAK
 add_to_faction = NWE
-add_to_faction = DES
 add_to_faction = CAL
 
 if = {

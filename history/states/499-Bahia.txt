@@ -4,7 +4,7 @@ state={
 	name="STATE_499"
 
 	history={
-		owner = BHI
+		owner = BRA
 add_core_of = BRA
 add_core_of = BHI
 		buildings = {

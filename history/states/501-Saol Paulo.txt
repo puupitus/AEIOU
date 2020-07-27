@@ -6,7 +6,7 @@ state={
 	state_category = city
 
 	history={
-		owner = SAO
+		owner = BRA
 add_core_of = BRA
 add_core_of = SAO
 		buildings = {

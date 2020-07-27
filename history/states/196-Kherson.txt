@@ -10,9 +10,8 @@ state={
 		victory_points = {
 			721 1
 		}
-		owner = CRI
-add_core_of = UKR
-add_core_of = CRI
+		owner = NOV
+add_core_of = NOV
 		buildings = {
 			infrastructure = 5
 industrial_complex = 1

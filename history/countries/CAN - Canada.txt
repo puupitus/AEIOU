@@ -7,6 +7,9 @@ add_to_faction = SAF
 add_to_faction = SIE
 add_to_faction = BAS
 add_to_faction = RAJ
+add_to_faction = KEN
+add_to_faction = GEM
+add_to_faction = FIJ
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"
@@ -69,7 +72,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

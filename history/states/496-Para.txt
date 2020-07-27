@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = MIN
+		owner = BRA
 add_core_of = BRA
 add_core_of = MIN
 		victory_points = {

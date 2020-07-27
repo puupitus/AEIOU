@@ -13,6 +13,7 @@ state={
 	history={
 		owner = MOS
 add_core_of = MOS
+add_core_of = RUS
 		buildings = {
 			infrastructure = 1
 			12530 = {

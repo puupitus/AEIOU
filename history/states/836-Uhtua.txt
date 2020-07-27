@@ -8,11 +8,12 @@ state={
 add_core_of = MOS
 		add_core_of = KAR
 		add_core_of = FIN
+		add_core_of = RUS
 		buildings = {
 			infrastructure = 3
 
 		}
- 
+
 
 	}
 

@@ -31,12 +31,52 @@ set_autonomy = {
 		target = MAL
 		autonomous_state = autonomy_colony
 }
+DEI = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+SRL = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+SUR = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+NGA = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 GHA = {
 	set_politics = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		democratic = 100
+		fascism = 100
+	}
+}
+SEN = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
 	}
 }
 CRC = {
@@ -44,7 +84,15 @@ CRC = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		democratic = 100
+		fascism = 100
+	}
+}
+MAL = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
 	}
 }
 if = {

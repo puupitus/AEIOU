@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = MAR
+		owner = BRA
 add_core_of = MAR
 add_core_of = BRA
 		buildings = {

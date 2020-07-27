@@ -23,10 +23,6 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = KEN
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
 		target = UGA
 		autonomous_state = autonomy_colony
 }
@@ -43,7 +39,7 @@ NMB = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 PNG = {
@@ -51,7 +47,7 @@ PNG = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 SOL = {
@@ -59,7 +55,7 @@ SOL = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 SAM = {
@@ -67,7 +63,7 @@ SAM = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 
@@ -76,15 +72,7 @@ TZN = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
-	}
-}
-KEN = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 UGA = {
@@ -92,7 +80,7 @@ UGA = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 BRD = {
@@ -100,7 +88,7 @@ BRD = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 RWA = {
@@ -108,7 +96,7 @@ RWA = {
 		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 if = {

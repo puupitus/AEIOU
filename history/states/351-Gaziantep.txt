@@ -6,12 +6,13 @@ state={
 	history={
 		owner = MOS
 add_core_of = MOS
+add_core_of = RUS
 		buildings = {
 			infrastructure = 3
 
 
 		}
-		
+
 		victory_points = {
 			9131 3
 		}

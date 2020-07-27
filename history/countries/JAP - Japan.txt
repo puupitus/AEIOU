@@ -21,42 +21,42 @@ set_autonomy = {
 }
 MAN = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 MEN = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 KOR = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 ALK = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 SOV = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = fascism
 	}
 	set_popularities = {
-		neutrality = 100
+		fascism = 100
 	}
 }
 if = {
@@ -121,7 +121,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = PIR
+		owner = BRA
 add_core_of = PIR
 add_core_of = BRA
 		buildings = {

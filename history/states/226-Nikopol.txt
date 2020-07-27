@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = UKR
-add_core_of = UKR
+		owner = NOV
+add_core_of = NOV
 		victory_points = {
 			11437 10
 		}
@@ -23,8 +23,8 @@ industrial_complex = 1
 			air_base = 2
 
 		}
-		
-		
+
+
 
 	}
 
