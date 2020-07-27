@@ -44,7 +44,7 @@ dockyard = 5
 	provinces={
 		68 391 3211 3314 9498
 	}
-	manpower=7123000
+	manpower=8123000
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 }

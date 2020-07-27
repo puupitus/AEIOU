@@ -5,7 +5,7 @@ state={
 	history={
 		owner = HOL
 add_core_of = HOL
-		
+
 		victory_points = {
 			6241 5
 		}
@@ -36,7 +36,7 @@ arms_factory = 1
 	provinces={
 		6241 6286 6336 8622 9309 9335 9363 9403 11318
 	}
-	manpower=3364000
+	manpower=4364000
 	buildings_max_level_factor=1.000
 	state_category=city
 }

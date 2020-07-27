@@ -6,6 +6,7 @@ state={
 	history={
 		owner = BRA
 add_core_of = PNA
+add_core_of = BRA
 
 		buildings = {
 			infrastructure = 5
@@ -13,7 +14,7 @@ industrial_complex = 1
 
 
 		}
- 
+
 
 	}
 

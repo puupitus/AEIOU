@@ -19,15 +19,15 @@ arms_factory = 1
 		victory_points = {
 			11586 15
 		}
-		
-		
+
+
 
 	}
 
 	provinces={
 		797 3609 3922 3939 3956 3984 6970 6998 9599 9906 11580 11583 11586
 	}
-	manpower=3279121
+	manpower=4279121
 	buildings_max_level_factor=1.000
 	state_category=large_city
 }
