@@ -3,167 +3,167 @@ set_cosmetic_tag = AUS_emp
 create_faction = "Vienna Convention"
 set_autonomy = {
 		target = BAY
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = WUR
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = BAD
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = HES
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = EGY
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = BUR
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = LOM
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = SLV
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = CZE
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = HUN
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = CRO
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = DAL
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = BOS
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = SLA
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = TEM
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = TRS
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = CHA
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = COG
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = CMR
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = GAB
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = CAR
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = AEI
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = LBA
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = SEO
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = POL
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = UKR
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = BLR
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = MOL
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = GAL
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = KUW
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = LIT
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = COU
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = SWI
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = SUD
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = DAR
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MLT
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = MAH
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MLD
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = TAH
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = GDL
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MEX
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 MEX = {
 	set_politics = {

@@ -1,27 +1,27 @@
 capital = 112
 set_autonomy = {
 		target = GNB
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = ANG
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = ZAM
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = ZIM
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MLW
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MZB
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 GNB = {
 	set_politics = {

@@ -4,47 +4,47 @@ add_to_faction = IMP
 add_to_faction = GEA
 set_autonomy = {
 		target = CAY
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = ALG
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = DAH
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MLI
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = GNA
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = TOG
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MRT
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = NGR
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = VOL
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = IVO
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = WGR
-		autonomous_state = autonomy_puppet
+		autonomous_state = AEIOU_protectorate
 }
 WGR = {
 	set_politics = {

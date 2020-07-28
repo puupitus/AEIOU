@@ -1,35 +1,35 @@
 capital = 64
 set_autonomy = {
 		target = NMB
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = PNG
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = SOL
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = SAM
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = TZN
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = UGA
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = RWA
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = BRD
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 NMB = {
 	set_politics = {

@@ -1,23 +1,23 @@
 capital = 282
 set_autonomy = {
 		target = MAN
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MEN
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = KOR
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = ALK
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = SOV
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 MAN = {
 	set_politics = {

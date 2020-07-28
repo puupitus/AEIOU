@@ -13,43 +13,43 @@ add_to_faction = FIJ
 add_to_faction = USB
 set_autonomy = {
 		target = RAJ
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = AST
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = HAW
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = SAF
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = SIE
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = BAS
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = KEN
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = GEM
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = FIJ
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = USB
-		autonomous_state = autonomy_dominion
+		autonomous_state = AEIOU_client
 }
 RAJ = {
 	set_politics = {

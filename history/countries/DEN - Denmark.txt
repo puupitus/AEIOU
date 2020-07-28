@@ -2,19 +2,19 @@ capital = 37
 
 set_autonomy = {
 		target = BRC
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = ICE
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = EAF
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = BAN
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 BRC = {
 	set_politics = {

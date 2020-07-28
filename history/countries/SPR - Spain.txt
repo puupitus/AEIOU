@@ -1,23 +1,23 @@
 capital = 41
 set_autonomy = {
 		target = SPW
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MOR
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = EQG
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = PHI
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = BRS
-		autonomous_state = autonomy_colony
+		autonomous_state = AEIOU_colony
 }
 SPW = {
 	set_politics = {
