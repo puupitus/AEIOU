@@ -4,8 +4,8 @@ state={
 	name="STATE_893"
 
 	history={
-		owner = DAI
-add_core_of = DAI
+		owner = AEI
+add_core_of = AEI
 		buildings = {
 			infrastructure = 3
 

@@ -4,7 +4,8 @@ state={
 	name="STATE_227"
 
 	history={
-		owner = NOV
+		owner = USG
+add_core_of = USG
 		add_core_of = NOV
 		buildings = {
 			infrastructure = 5
@@ -12,13 +13,13 @@ state={
 
 		}
 		victory_points = {
-			6474 10 
+			6474 10
 		}
 
 	}
 
 	provinces={
-		502 3466 3479 6474 6493 6505 9446 9461 
+		502 3466 3479 6474 6493 6505 9446 9461
 	}
 	manpower=3767336
 	buildings_max_level_factor=1.000

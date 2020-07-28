@@ -6,7 +6,8 @@ state={
 	}
 
 	history={
-		owner = IDE
+		owner = USG
+add_core_of = USG
 add_core_of = IDE
 		buildings = {
 			infrastructure = 4

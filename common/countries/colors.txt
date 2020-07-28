@@ -17,8 +17,8 @@ SWE = {
 	color_ui = rgb { 40 85 222 }
 }
 BUR = {
-	color = rgb { 180 180 200 }
-	color_ui = rgb { 180 180 200 }
+	color = rgb { 210 170 180 }
+	color_ui = rgb { 210 170 180 }
 }
 MDS = {
 	color = rgb { 145 220 70 }
@@ -712,7 +712,7 @@ HAN = {
 	color = rgb { 232 223 49 }
 	color_ui = rgb { 232 223 49 }
 }
-MOS = {
+USG = {
 	color = rgb { 7 105 19 }
 	color_ui = rgb { 7 105 19 }
 }
@@ -729,8 +729,8 @@ NOV = {
 	color_ui = rgb { 8 50 158 }
 }
 MOU = {
-	color = rgb { 5 95 5 }
-	color_ui = rgb { 5 95 5 }
+	color = rgb { 5 75 5 }
+	color_ui = rgb { 5 75 5 }
 }
 IDE = {
 	color = rgb { 25 166 168 }
@@ -888,7 +888,7 @@ SIB = {
 	color = rgb { 50 237 75 }
 	color_ui = rgb { 50 237 75 }
 }
-RUS = {
+MOS = {
 	color = rgb { 97 60 28 }
 	color_ui = rgb { 97 60 28 }
 }
@@ -1327,4 +1327,8 @@ INS = {
 GYA = {
 	color = rgb { 171 171 14 }
 	color_ui = rgb { 171 171 14 }
+}
+RUS = {
+	color = rgb { 68 158 203 }
+	color_ui = rgb { 68 158 203 }
 }

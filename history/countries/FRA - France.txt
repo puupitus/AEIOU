@@ -1,21 +1,7 @@
 capital = 16
-set_cosmetic_tag = FRA_emp
 create_faction = "Entente"
-add_to_faction = MOS
+add_to_faction = IMP
 add_to_faction = GEA
-
-set_autonomy = {
-		target = QUE
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = ACA
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = LOU
-		autonomous_state = autonomy_colony
-}
 set_autonomy = {
 		target = CAY
 		autonomous_state = autonomy_colony
@@ -30,10 +16,6 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = MLI
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = SOM
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
@@ -57,72 +39,12 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = TAH
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = DAI
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = CAM
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = LAO
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = MAD
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
 		target = IVO
 		autonomous_state = autonomy_colony
 }
 set_autonomy = {
-		target = GDL
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = EGY
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = MAH
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
-		target = PAT
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
 		target = WGR
 		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = WPH
-		autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-		target = MDS
-		autonomous_state = autonomy_colony
-}
-MDS = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-ACA = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
 }
 WGR = {
 	set_politics = {
@@ -140,24 +62,6 @@ ALG = {
 		fascism = 100
 	}
 }
-QUE = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
-GDL = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
 DAH = {
 	set_politics = {
 		ruling_party = fascism
@@ -194,24 +98,6 @@ IVO = {
 	}
 }
 
-LOU = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
-MAD = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
 MLI = {
 	set_politics = {
 		ruling_party = fascism
@@ -229,7 +115,6 @@ MRT = {
 		fascism = 100
 	}
 }
-
 NGR = {
 	set_politics = {
 		ruling_party = fascism
@@ -238,25 +123,6 @@ NGR = {
 		fascism = 100
 	}
 }
-
-TAH = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
-SOM = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
 TOG = {
 	set_politics = {
 		ruling_party = fascism
@@ -265,77 +131,7 @@ TOG = {
 		fascism = 100
 	}
 }
-
 VOL = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
-
-
-CAM = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
-LAO = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
-DAI = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-EGY = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-MAH = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-PAT = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-BRI = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-WPH = {
 	set_politics = {
 		ruling_party = fascism
 	}
@@ -405,7 +201,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

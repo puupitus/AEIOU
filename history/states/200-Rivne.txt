@@ -4,25 +4,23 @@ state={
 	name="STATE_200"
 
 	history={
-		owner = NOV
-add_core_of = NOV
+		owner = USG
+		add_core_of = USG
+		add_core_of = NOV
 		victory_points = {
-			11405 1
+			11405 1 
 		}
 		buildings = {
 			infrastructure = 5
-industrial_complex = 1
-
+			industrial_complex = 1
 			air_base = 3
 
 		}
 
-
-
 	}
 
 	provinces={
-		429 472 3399 3421 3449 6420 6776 11405
+		429 453 472 486 3399 3421 3449 6420 6776 11405 
 	}
 	manpower=2294082
 	buildings_max_level_factor=1.000

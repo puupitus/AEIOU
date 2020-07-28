@@ -4,7 +4,8 @@ state={
 	name="STATE_217"
 
 	history={
-		owner = KAL
+		owner = USG
+add_core_of = USG
 add_core_of = KAL
 		victory_points = {
 			3529 30.0

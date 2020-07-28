@@ -13,7 +13,8 @@ state={
 		victory_points = {
 			9566 1
 		}
-		owner = MOS
+		owner = USG
+add_core_of = USG
 add_core_of = MOS
 		buildings = {
 			infrastructure = 5

@@ -2,33 +2,31 @@
 state={
 	id=221
 	name="STATE_221"
-	manpower = 3227520
-
-	state_category = city
-
 	resources={
-		steel=33 # was: 56
+		steel=33.000
 	}
 
 	history={
-		owner = MOS
-add_core_of = MOS
+		owner = USG
+		add_core_of = USG
+		add_core_of = MOS
 		victory_points = {
-			418 10
+			418 10 
 		}
 		buildings = {
 			infrastructure = 7
-industrial_complex = 2
-arms_factory = 1
-
-
+			industrial_complex = 2
+			arms_factory = 1
 			air_base = 5
-		}
 
+		}
 
 	}
 
 	provinces={
-		418 3409 3508 3531 6530 6554 9531 9556 11397 11461 11541
+		418 3409 3508 3531 6530 6554 9531 9556 11397 11452 11461 11541 
 	}
+	manpower=3227520
+	buildings_max_level_factor=1.000
+	state_category=city
 }

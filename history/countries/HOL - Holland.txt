@@ -31,6 +31,18 @@ set_autonomy = {
 		target = MAL
 		autonomous_state = autonomy_colony
 }
+set_autonomy = {
+		target = MDS
+		autonomous_state = autonomy_colony
+}
+MDS = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 DEI = {
 	set_politics = {
 		ruling_party = fascism

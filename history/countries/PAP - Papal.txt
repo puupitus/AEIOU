@@ -2,8 +2,10 @@ capital = 2
 create_faction = "Italian Confederation"
 add_to_faction = TUS
 add_to_faction = MOD
-add_to_faction = ITA
+add_to_faction = COR
 add_to_faction = NAP
+add_to_faction = ITA
+add_to_faction = SIC
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

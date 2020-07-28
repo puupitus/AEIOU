@@ -4,7 +4,8 @@ state={
 	name="STATE_247"
 
 	history={
-		owner = MOS
+		owner = USG
+add_core_of = USG
 		add_core_of = MOS
 		victory_points = {
 			6245 10 

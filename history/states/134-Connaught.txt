@@ -9,9 +9,8 @@ state=
 
 	history=
 	{
-		owner = IMP
+		owner = IRE
 add_core_of = IRE
-add_core_of = IMP
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

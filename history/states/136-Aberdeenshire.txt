@@ -12,9 +12,8 @@ state={
 
 	history={
 
-		owner = IMP
+		owner = SCO
 add_core_of = SCO
-add_core_of = IMP
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

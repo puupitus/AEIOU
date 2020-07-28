@@ -4,7 +4,7 @@ state={
 	name="STATE_326"
 
 	history={
-		owner = AEI
+		owner = CAN
 
 
 
@@ -18,7 +18,7 @@ state={
 
 
 
-add_core_of = AEI
+add_core_of = CAN
 
 
 		victory_points = {

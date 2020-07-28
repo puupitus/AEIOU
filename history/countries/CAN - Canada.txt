@@ -1,4 +1,5 @@
 capital = 473
+set_cosmetic_tag = CAN_bri
 create_faction = "Commonwealth of Nations"
 add_to_faction = AST
 add_to_faction = NZL
@@ -6,12 +7,130 @@ add_to_faction = HAW
 add_to_faction = SAF
 add_to_faction = SIE
 add_to_faction = BAS
-add_to_faction = RAJ
 add_to_faction = KEN
 add_to_faction = GEM
 add_to_faction = FIJ
 add_to_faction = USB
-add_to_faction = NEW
+set_autonomy = {
+		target = RAJ
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = AST
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = HAW
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = SAF
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = SIE
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = BAS
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = KEN
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = GEM
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = FIJ
+		autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+		target = USB
+		autonomous_state = autonomy_dominion
+}
+RAJ = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+AST = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+HAW = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+SAF = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+SIE = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+BAS = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+KEN = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+GEM = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+FIJ = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+USB = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

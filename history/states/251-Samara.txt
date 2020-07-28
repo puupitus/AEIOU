@@ -4,7 +4,8 @@ state={
 	name="STATE_251"
 
 	history={
-		owner = IDE
+		owner = USG
+add_core_of = USG
 add_core_of = IDE
 		victory_points = {
 			11225 3

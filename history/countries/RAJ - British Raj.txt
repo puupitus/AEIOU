@@ -1,5 +1,5 @@
 capital = 431
-set_cosmetic_tag = RAJ_upi
+set_cosmetic_tag = RAJ_dom
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

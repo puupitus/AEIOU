@@ -2,6 +2,30 @@ capital = 4
 set_cosmetic_tag = AUS_emp
 create_faction = "Vienna Convention"
 set_autonomy = {
+		target = BAY
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = WUR
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = BAD
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = HES
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = EGY
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = BUR
+		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
 		target = LOM
 		autonomous_state = autonomy_puppet
 }
@@ -98,10 +122,6 @@ set_autonomy = {
 		autonomous_state = autonomy_puppet
 }
 set_autonomy = {
-		target = MLD
-		autonomous_state = autonomy_colony
-}
-set_autonomy = {
 		target = LIT
 		autonomous_state = autonomy_puppet
 }
@@ -124,6 +144,106 @@ set_autonomy = {
 set_autonomy = {
 		target = MLT
 		autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+		target = MAH
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = MLD
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = TAH
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = GDL
+		autonomous_state = autonomy_colony
+}
+set_autonomy = {
+		target = MEX
+		autonomous_state = autonomy_dominion
+}
+MEX = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+BAY = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+WUR = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+BAD = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+HES = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+GDL = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+TAH = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+MLD = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+MAH = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+EGY = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
 }
 AEI = {
 	set_politics = {
@@ -277,14 +397,6 @@ LOM = {
 		fascism = 100
 	}
 }
-MLD = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
 MLT = {
 	set_politics = {
 		ruling_party = fascism
@@ -358,6 +470,14 @@ TRS = {
 	}
 }
 UKR = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+BUR = {
 	set_politics = {
 		ruling_party = fascism
 	}
