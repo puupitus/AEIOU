@@ -2,12 +2,16 @@ capital = 4
 set_cosmetic_tag = AUS_emp
 create_faction = "Vienna Convention"
 set_autonomy = {
+		target = SCO
+		autonomous_state = AEIOU_client
+}
+set_autonomy = {
 		target = BAY
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = WUR
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = BAD
@@ -23,31 +27,31 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = BUR
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = LOM
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = SLV
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = CZE
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = HUN
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = CRO
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = DAL
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = BOS
@@ -55,7 +59,7 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = SLA
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = TEM
@@ -103,7 +107,7 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = UKR
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = BLR
@@ -115,7 +119,7 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = GAL
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = KUW
@@ -131,7 +135,7 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = SWI
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = SUD
@@ -143,7 +147,7 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = MLT
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = MAH
