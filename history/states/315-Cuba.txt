@@ -10,8 +10,7 @@ state= {
 	state_category = town
 
 	history= {
-		owner = SPW
-add_core_of = SPW
+		owner = CUB
 add_core_of = CUB
 		buildings = {
 			infrastructure = 4

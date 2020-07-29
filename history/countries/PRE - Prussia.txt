@@ -1,14 +1,12 @@
 capital = 64
+set_cosmetic_tag = PRE_ukg
 set_autonomy = {
 		target = NMB
 		autonomous_state = AEIOU_colony
 }
+
 set_autonomy = {
-		target = PNG
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = SOL
+		target = CMR
 		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
@@ -16,38 +14,26 @@ set_autonomy = {
 		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
-		target = TZN
-		autonomous_state = AEIOU_colony
+		target = ALB
+		autonomous_state = AEIOU_client
 }
-set_autonomy = {
-		target = UGA
-		autonomous_state = AEIOU_colony
+ALB = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
 }
-set_autonomy = {
-		target = RWA
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = BRD
-		autonomous_state = AEIOU_colony
+CMR = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
 }
 NMB = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-PNG = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-SOL = {
 	set_politics = {
 		ruling_party = fascism
 	}
@@ -64,38 +50,8 @@ SAM = {
 	}
 }
 
-TZN = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-UGA = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-BRD = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-RWA = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
+
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"
@@ -158,7 +114,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = neutrality
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

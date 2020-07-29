@@ -1,5 +1,8 @@
 capital = 493
-
+create_faction = "Latin Union"
+add_to_faction = FCA
+add_to_faction = VEN
+add_to_faction = RGR
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

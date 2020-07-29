@@ -1,23 +1,13 @@
-capital = 473
+capital = 276
 set_cosmetic_tag = CAN_bri
 create_faction = "Commonwealth of Nations"
-add_to_faction = AST
-add_to_faction = NZL
-add_to_faction = HAW
-add_to_faction = SAF
-add_to_faction = SIE
-add_to_faction = BAS
-add_to_faction = KEN
-add_to_faction = GEM
-add_to_faction = FIJ
-add_to_faction = USB
 set_autonomy = {
 		target = RAJ
-		autonomous_state = AEIOU_client
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = AST
-		autonomous_state = AEIOU_client
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = HAW
@@ -25,31 +15,55 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = SAF
-		autonomous_state = AEIOU_client
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = SIE
-		autonomous_state = AEIOU_client
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = BAS
-		autonomous_state = AEIOU_client
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = KEN
-		autonomous_state = AEIOU_client
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = GEM
-		autonomous_state = AEIOU_client
+		autonomous_state = AEIOU_protectorate
 }
 set_autonomy = {
 		target = FIJ
 		autonomous_state = AEIOU_client
 }
 set_autonomy = {
-		target = USB
+		target = USA
+		autonomous_state = AEIOU_protectorate
+}
+set_autonomy = {
+		target = NZL
+		autonomous_state = AEIOU_protectorate
+}
+set_autonomy = {
+		target = KUW
 		autonomous_state = AEIOU_client
+}
+KUW = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+NZL = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
 }
 RAJ = {
 	set_politics = {
@@ -123,7 +137,7 @@ FIJ = {
 		fascism = 100
 	}
 }
-USB = {
+USA = {
 	set_politics = {
 		ruling_party = fascism
 	}

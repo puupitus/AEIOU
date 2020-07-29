@@ -4,8 +4,9 @@ state={
 	name="STATE_800"
 
 	history={
-		owner = WAL
-add_core_of = WAL
+		owner = WGR
+add_core_of = WGR
+add_core_of = LUX
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

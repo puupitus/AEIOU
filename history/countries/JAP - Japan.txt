@@ -1,4 +1,5 @@
 capital = 282
+create_faction = "Tokyo Conference"
 set_autonomy = {
 		target = MAN
 		autonomous_state = AEIOU_colony
@@ -18,6 +19,18 @@ set_autonomy = {
 set_autonomy = {
 		target = SOV
 		autonomous_state = AEIOU_colony
+}
+set_autonomy = {
+		target = FSM
+		autonomous_state = AEIOU_colony
+}
+FSM = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
 }
 MAN = {
 	set_politics = {

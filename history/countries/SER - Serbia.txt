@@ -1,5 +1,5 @@
 capital = 107
-create_faction = "Balkan League"
+create_faction = "Belgrade Pact"
 add_to_faction = MNT
 add_to_faction = GRE
 add_to_faction = ROM

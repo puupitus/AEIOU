@@ -11,8 +11,9 @@ state=
 
 
 	history= {
-		owner = LIB
+		owner = SIE
 add_core_of = LIB
+add_core_of = SIE
 		buildings = {
 			infrastructure = 2
 
@@ -25,7 +26,7 @@ add_core_of = LIB
 		victory_points = {
 			7959 3
 		}
-		
+
 	}
 	provinces={
 		7959 8006

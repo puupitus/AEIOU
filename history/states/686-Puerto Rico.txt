@@ -5,8 +5,7 @@ state={
 
 	history={
 
-		owner = SPW
-add_core_of = SPW
+		owner = PUE
 add_core_of = PUE
 		victory_points = {
 			1440 1

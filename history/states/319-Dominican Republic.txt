@@ -11,8 +11,7 @@ state=
 	}
 	history=
 	{
-		owner = SPW
-add_core_of = SPW
+		owner = DOM
 add_core_of = DOM
 		buildings = {
 			infrastructure = 4

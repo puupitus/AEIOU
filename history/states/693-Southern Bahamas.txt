@@ -7,8 +7,7 @@ state={
 
 	history={
 
-		owner = SPW
-add_core_of = SPW
+		owner = BAH
 add_core_of = BAH
 		buildings = {
 			infrastructure = 4

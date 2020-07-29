@@ -1,6 +1,6 @@
 capital = 16
 create_faction = "Entente"
-add_to_faction = IMP
+add_to_faction = QUE
 set_autonomy = {
 		target = CAY
 		autonomous_state = AEIOU_colony
@@ -40,6 +40,18 @@ set_autonomy = {
 set_autonomy = {
 		target = IVO
 		autonomous_state = AEIOU_colony
+}
+set_autonomy = {
+		target = GDL
+		autonomous_state = AEIOU_colony
+}
+GDL = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
 }
 ALG = {
 	set_politics = {

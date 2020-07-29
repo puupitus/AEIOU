@@ -35,6 +35,18 @@ set_autonomy = {
 		target = MDS
 		autonomous_state = AEIOU_colony
 }
+set_autonomy = {
+		target = WAL
+		autonomous_state = AEIOU_client
+}
+WAL = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 MDS = {
 	set_politics = {
 		ruling_party = fascism

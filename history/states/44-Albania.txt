@@ -9,28 +9,23 @@ state={
 
 	history={
 		owner = ALB
-add_core_of = ALB
+		add_core_of = ALB
 		victory_points = {
-			9914 5
+			9914 5 
 		}
 		victory_points = {
-			11767 1
+			11767 1 
 		}
 		buildings = {
 			infrastructure = 3
-
-
-
 			air_base = 3
 
-
 		}
-
 
 	}
 
 	provinces={
-		3448 3884 6900 9875 9914
+		3448 3884 6900 9875 9914 11762 
 	}
 	manpower=1203000
 	buildings_max_level_factor=1.000

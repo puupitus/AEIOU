@@ -4,8 +4,8 @@ state={
 	name="STATE_927"
 
 	history={
-		owner = COL
-add_core_of = COL
+		owner = FCA
+add_core_of = FCA
 add_core_of = PAN
 		buildings = {
 			infrastructure = 4
@@ -17,7 +17,7 @@ arms_factory = 1
 }
 
 		}
- 
+
 
 	}
 

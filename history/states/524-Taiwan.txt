@@ -4,8 +4,7 @@ state={
 	name="STATE_524"
 
 	history={
-		owner = PHI
-add_core_of = PHI
+		owner = AEI
 
 
 
@@ -27,7 +26,7 @@ industrial_complex = 1
 
 
 			air_base = 6
-			
+
 
 		}
 		victory_points = {

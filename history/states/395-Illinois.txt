@@ -6,8 +6,8 @@ state={
 	state_category = megalopolis
 
 	history={
-		owner = USA
-add_core_of = USA
+		owner = CAN
+add_core_of = CAN
 		buildings = {
 			infrastructure = 7
 industrial_complex = 2

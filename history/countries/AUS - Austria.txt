@@ -15,15 +15,11 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = BAD
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = HES
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
-		target = EGY
-		autonomous_state = AEIOU_colony
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = BUR
@@ -55,7 +51,7 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = BOS
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = SLA
@@ -63,11 +59,11 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = TEM
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = TRS
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = CHA
@@ -75,10 +71,6 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = COG
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = CMR
 		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
@@ -103,7 +95,7 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = POL
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = UKR
@@ -111,27 +103,23 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = BLR
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = MOL
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
 		target = GAL
 		autonomous_state = AEIOU_autonomy
 }
 set_autonomy = {
-		target = KUW
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
 		target = LIT
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = COU
-		autonomous_state = AEIOU_protectorate
+		autonomous_state = AEIOU_client
 }
 set_autonomy = {
 		target = SWI
@@ -139,18 +127,6 @@ set_autonomy = {
 }
 set_autonomy = {
 		target = SUD
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = DAR
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = MLT
-		autonomous_state = AEIOU_client
-}
-set_autonomy = {
-		target = MAH
 		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
@@ -162,12 +138,84 @@ set_autonomy = {
 		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
-		target = GDL
+		target = SPW
 		autonomous_state = AEIOU_colony
 }
 set_autonomy = {
 		target = MEX
 		autonomous_state = AEIOU_client
+}
+set_autonomy = {
+		target = TZN
+		autonomous_state = AEIOU_colony
+}
+set_autonomy = {
+		target = UGA
+		autonomous_state = AEIOU_colony
+}
+set_autonomy = {
+		target = RWA
+		autonomous_state = AEIOU_colony
+}
+set_autonomy = {
+		target = BRD
+		autonomous_state = AEIOU_colony
+}
+set_autonomy = {
+		target = PNG
+		autonomous_state = AEIOU_colony
+}
+set_autonomy = {
+		target = SOL
+		autonomous_state = AEIOU_colony
+}
+PNG = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+SOL = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+TZN = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+UGA = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+BRD = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+RWA = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
 }
 MEX = {
 	set_politics = {
@@ -209,7 +257,7 @@ HES = {
 		fascism = 100
 	}
 }
-GDL = {
+SPW = {
 	set_politics = {
 		ruling_party = fascism
 	}
@@ -226,22 +274,6 @@ TAH = {
 	}
 }
 MLD = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-MAH = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-EGY = {
 	set_politics = {
 		ruling_party = fascism
 	}
@@ -289,14 +321,6 @@ CHA = {
 		fascism = 100
 	}
 }
-CMR = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
 COG = {
 	set_politics = {
 		ruling_party = fascism
@@ -337,14 +361,6 @@ DAL = {
 		fascism = 100
 	}
 }
-DAR = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
 GAB = {
 	set_politics = {
 		ruling_party = fascism
@@ -369,14 +385,6 @@ HUN = {
 		fascism = 100
 	}
 }
-KUW = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
 LBA = {
 	set_politics = {
 		ruling_party = fascism
@@ -394,14 +402,6 @@ LIT = {
 	}
 }
 LOM = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-MLT = {
 	set_politics = {
 		ruling_party = fascism
 	}

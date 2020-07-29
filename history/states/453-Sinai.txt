@@ -8,8 +8,8 @@ state={
 
 
 	history = {
-		owner = EGY
-add_core_of = EGY
+		owner = AUS
+add_core_of = AUS
 		buildings = {
 			infrastructure = 2
 

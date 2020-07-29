@@ -6,7 +6,8 @@ state={
 		steel=30.000
 	}
 	history={
-		owner = WPH
+		owner = PRE
+add_core_of = PRE
 add_core_of = WPH
 
 		buildings = {

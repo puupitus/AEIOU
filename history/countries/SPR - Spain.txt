@@ -1,9 +1,5 @@
 capital = 41
 set_autonomy = {
-		target = SPW
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
 		target = MOR
 		autonomous_state = AEIOU_colony
 }
@@ -14,18 +10,6 @@ set_autonomy = {
 set_autonomy = {
 		target = PHI
 		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = BRS
-		autonomous_state = AEIOU_colony
-}
-SPW = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
 }
 MOR = {
 	set_politics = {
@@ -44,14 +28,6 @@ EQG = {
 	}
 }
 PHI = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-BRS = {
 	set_politics = {
 		ruling_party = fascism
 	}
@@ -121,7 +97,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no
