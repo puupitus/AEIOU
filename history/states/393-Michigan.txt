@@ -9,8 +9,8 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = CAN
-add_core_of = CAN
+		owner = USA
+add_core_of = USA
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1

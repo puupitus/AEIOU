@@ -49,6 +49,18 @@ set_autonomy = {
 		target = KUW
 		autonomous_state = AEIOU_client
 }
+set_autonomy = {
+		target = LAK
+		autonomous_state = AEIOU_client
+}
+LAK = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 KUW = {
 	set_politics = {
 		ruling_party = fascism

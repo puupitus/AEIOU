@@ -7,8 +7,9 @@ state={
 	}
 
 	history={
-		owner = USB
+		owner = USA
 add_core_of = USB
+add_core_of = USA
 		buildings = {
 			infrastructure = 7
 industrial_complex = 2

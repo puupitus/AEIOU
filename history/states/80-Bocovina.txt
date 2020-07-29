@@ -10,8 +10,8 @@ state={
 		victory_points = {
 			577 1
 		}
-		owner = MOL
-add_core_of = MOL
+		owner = GAL
+add_core_of = GAL
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1
@@ -19,7 +19,7 @@ arms_factory = 1
 
 
 		}
-		
+
 	}
 	provinces={
 		577 9548

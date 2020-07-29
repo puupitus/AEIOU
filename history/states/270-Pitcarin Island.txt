@@ -7,8 +7,8 @@ state=
 
 	history=
 	{
-		owner = TAH
-add_core_of = TAH
+		owner = CAN
+add_core_of = CAN
 		buildings = {
 			infrastructure = 1
 			1280 = {

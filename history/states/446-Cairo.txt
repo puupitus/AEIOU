@@ -16,9 +16,7 @@ industrial_complex = 1
 
 
 			air_base = 5
-			12049 = {
-				naval_base = 2
-			}
+			
 		}
 
 		victory_points = {
@@ -39,6 +37,6 @@ industrial_complex = 1
 	}
 
 	provinces={
-		1068 3996 4055 4073 4143 7011 7188 10005 10031 12004 12049 992 7117
+		1068 3996 4055 4143 7011 7188 10005 10031 12004 992 7117
 	}
 }

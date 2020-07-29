@@ -8,8 +8,8 @@ state={
 
 
 	history = {
-		owner = AUS
-add_core_of = AUS
+		owner = TUR
+add_core_of = TUR
 		buildings = {
 			infrastructure = 2
 
@@ -20,6 +20,6 @@ add_core_of = AUS
 	}
 
 	provinces={
-		1112 1155 4161 9947 10002 10099 11922 11979 12073
+		1112 4161 10002 10099 11922 11979 12073
 	}
 }
