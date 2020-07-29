@@ -3,7 +3,7 @@ state={
 	name="STATE_690"
 	manpower = 140000
 
-	state_category = tiny_island
+	state_category = small_island
 
 	history={
 
@@ -14,7 +14,7 @@ add_core_of = BAH
 		}
 		buildings = {
 			infrastructure = 4
-arms_factory = 1
+dockyard = 1
 
 			10254 = {
 				naval_base = 1

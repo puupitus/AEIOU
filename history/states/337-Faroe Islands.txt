@@ -3,22 +3,22 @@ state=
 	id=337
 	name="STATE_337"
 	manpower = 25900
-	
-	state_category = enclave
-	
+
+	state_category = small_island
+
 	history=
 	{
 		owner = DEN
 add_core_of = DEN
 		buildings = {
 			infrastructure = 4
-arms_factory = 1
+industrial_complex = 1
 
 			13003 = {
 				naval_base = 1
 			}
 		}
-		
+
 	}
 	provinces= { 13003 }
 }

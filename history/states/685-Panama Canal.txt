@@ -3,7 +3,7 @@ state={
 	name="STATE_685"
 	manpower = 139467
 
-	state_category = enclave
+	state_category = town
 
 	history={
 		owner = SPW
@@ -14,8 +14,8 @@ add_core_of = PAN
 		}
 		buildings = {
 			infrastructure = 4
-arms_factory = 1
-
+industrial_complex = 1
+dockyard = 1
 			air_base = 6
 			7617 = {
 				naval_base = 3

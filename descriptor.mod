@@ -9,7 +9,6 @@ tags={
 	"National Focuses"
 }
 name="AEIOU"
-supported_version="1.9.2"
 replace_path="history"
 replace_path="gfx/flags"
 replace_path="map"
@@ -43,3 +42,4 @@ replace_path="common/units/names"
 replace_path="common/units/names_divisions"
 replace_path="common/units/names_ships"
 replace_path="events"
+supported_version="1.9.3"
