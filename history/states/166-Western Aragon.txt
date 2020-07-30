@@ -6,7 +6,8 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = FSU
+add_core_of = FSU
 add_core_of = SPR
 		victory_points = {
 			3816 3

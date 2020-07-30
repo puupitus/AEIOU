@@ -3,58 +3,6 @@ set_autonomy = {
 		target = DEI
 		autonomous_state = AEIOU_colony
 }
-set_autonomy = {
-		target = SRL
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = SUR
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = NGA
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = GHA
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = SEN
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = CRC
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = MAL
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = MDS
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = WAL
-		autonomous_state = AEIOU_client
-}
-WAL = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-MDS = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
 DEI = {
 	set_politics = {
 		ruling_party = fascism
@@ -62,6 +10,10 @@ DEI = {
 	set_popularities = {
 		fascism = 100
 	}
+}
+set_autonomy = {
+		target = SRL
+		autonomous_state = AEIOU_colony
 }
 SRL = {
 	set_politics = {
@@ -71,6 +23,10 @@ SRL = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = SUR
+		autonomous_state = AEIOU_colony
+}
 SUR = {
 	set_politics = {
 		ruling_party = fascism
@@ -78,6 +34,10 @@ SUR = {
 	set_popularities = {
 		fascism = 100
 	}
+}
+set_autonomy = {
+		target = NGA
+		autonomous_state = AEIOU_colony
 }
 NGA = {
 	set_politics = {
@@ -87,6 +47,10 @@ NGA = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = GHA
+		autonomous_state = AEIOU_colony
+}
 GHA = {
 	set_politics = {
 		ruling_party = fascism
@@ -94,6 +58,10 @@ GHA = {
 	set_popularities = {
 		fascism = 100
 	}
+}
+set_autonomy = {
+		target = SEN
+		autonomous_state = AEIOU_colony
 }
 SEN = {
 	set_politics = {
@@ -103,6 +71,10 @@ SEN = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = CRC
+		autonomous_state = AEIOU_colony
+}
 CRC = {
 	set_politics = {
 		ruling_party = fascism
@@ -111,7 +83,35 @@ CRC = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = MAL
+		autonomous_state = AEIOU_colony
+}
 MAL = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+set_autonomy = {
+		target = MDS
+		autonomous_state = AEIOU_colony
+}
+MDS = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+set_autonomy = {
+		target = WAL
+		autonomous_state = AEIOU_client
+}
+WAL = {
 	set_politics = {
 		ruling_party = fascism
 	}

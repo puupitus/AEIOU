@@ -3,7 +3,8 @@ state={
 	name="STATE_172"
 
 	history={
-		owner = SPR
+		owner = FSU
+add_core_of = FSU
 add_core_of = SPR
 add_core_of = NAV
 		victory_points = {

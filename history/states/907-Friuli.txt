@@ -4,7 +4,8 @@ state={
 	name="STATE_907"
 
 	history={
-		owner = LOM
+		owner = AUS
+add_core_of = AUS
 add_core_of = LOM
 		buildings = {
 			infrastructure = 6

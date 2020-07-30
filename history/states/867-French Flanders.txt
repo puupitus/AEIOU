@@ -7,7 +7,8 @@ state={
 		aluminium=4.000
 	}
 	history={
-		owner = FRA
+		owner = FSU
+add_core_of = FSU
 add_core_of = FRA
 		buildings = {
 			infrastructure = 8

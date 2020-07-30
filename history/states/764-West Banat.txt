@@ -6,7 +6,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = TEM
+		owner = AUS
+add_core_of = AUS
 add_core_of = TEM
 		buildings = {
 			infrastructure = 6

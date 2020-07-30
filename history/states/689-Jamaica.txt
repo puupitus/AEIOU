@@ -7,8 +7,9 @@ state={
 
 	history={
 
-		owner = JAM
+		owner = GDL
 add_core_of = JAM
+add_core_of = GDL
 		victory_points = {
 			12304 1
 		}

@@ -7,8 +7,9 @@ state={
 
 	history={
 
-		owner = BAH
+		owner = GDL
 add_core_of = BAH
+add_core_of = GDL
 		buildings = {
 			infrastructure = 4
 industrial_complex = 1

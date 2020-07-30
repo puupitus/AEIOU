@@ -11,7 +11,8 @@ state=
 		victory_points = {
 			9793 1
 		}
-		owner = SPR
+		owner = FSU
+add_core_of = FSU
 add_core_of = SPR
 		buildings = {
 			infrastructure = 6

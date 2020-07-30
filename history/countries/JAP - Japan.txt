@@ -4,34 +4,6 @@ set_autonomy = {
 		target = MAN
 		autonomous_state = AEIOU_colony
 }
-set_autonomy = {
-		target = MEN
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = KOR
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = ALK
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = SOV
-		autonomous_state = AEIOU_colony
-}
-set_autonomy = {
-		target = FSM
-		autonomous_state = AEIOU_colony
-}
-FSM = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
 MAN = {
 	set_politics = {
 		ruling_party = fascism
@@ -39,6 +11,10 @@ MAN = {
 	set_popularities = {
 		fascism = 100
 	}
+}
+set_autonomy = {
+		target = MEN
+		autonomous_state = AEIOU_colony
 }
 MEN = {
 	set_politics = {
@@ -48,6 +24,10 @@ MEN = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = KOR
+		autonomous_state = AEIOU_colony
+}
 KOR = {
 	set_politics = {
 		ruling_party = fascism
@@ -55,6 +35,10 @@ KOR = {
 	set_popularities = {
 		fascism = 100
 	}
+}
+set_autonomy = {
+		target = ALK
+		autonomous_state = AEIOU_colony
 }
 ALK = {
 	set_politics = {
@@ -64,7 +48,23 @@ ALK = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = SOV
+		autonomous_state = AEIOU_colony
+}
 SOV = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+set_autonomy = {
+		target = FSM
+		autonomous_state = AEIOU_colony
+}
+FSM = {
 	set_politics = {
 		ruling_party = fascism
 	}

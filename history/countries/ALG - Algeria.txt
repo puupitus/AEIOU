@@ -1,5 +1,4 @@
 capital = 459
-set_cosmetic_tag = ALG_mag
 
 
 if = {

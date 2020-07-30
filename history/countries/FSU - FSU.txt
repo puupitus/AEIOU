@@ -1,329 +1,317 @@
-capital = 4
-set_cosmetic_tag = AUS_emp
-create_faction = "Vienna Convention"
+capital = 19
+
+create_faction = "Entente"
 
 set_autonomy = {
-		target = BAY
-		autonomous_state = AEIOU_client
-}
-BAY = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = WUR
-		autonomous_state = AEIOU_client
-}
-WUR = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = BAD
-		autonomous_state = AEIOU_client
-}
-BAD = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = HES
-		autonomous_state = AEIOU_client
-}
-HES = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = CHA
+		target = CAY
 		autonomous_state = AEIOU_colony
 }
-CHA = {
+CAY = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = COG
+		target = ALG
 		autonomous_state = AEIOU_colony
 }
-COG = {
+ALG = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = GAB
+		target = DAH
 		autonomous_state = AEIOU_colony
 }
-GAB = {
+DAH = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = CAR
+		target = MLI
 		autonomous_state = AEIOU_colony
 }
-CAR = {
+MLI = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = AEI
+		target = GNA
 		autonomous_state = AEIOU_colony
 }
-AEI = {
+GNA = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = SEO
+		target = TOG
 		autonomous_state = AEIOU_colony
 }
-SEO = {
+TOG = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = POL
-		autonomous_state = AEIOU_client
-}
-POL = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = UKR
-		autonomous_state = AEIOU_client
-}
-UKR = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = BLR
-		autonomous_state = AEIOU_client
-}
-BLR = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = GAL
-		autonomous_state = AEIOU_autonomy
-}
-GAL = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = LIT
-		autonomous_state = AEIOU_client
-}
-LIT = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = COU
-		autonomous_state = AEIOU_client
-}
-COU = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = SUD
+		target = MRT
 		autonomous_state = AEIOU_colony
 }
-SUD = {
+MRT = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = MLD
+		target = NGR
 		autonomous_state = AEIOU_colony
 }
-MLD = {
+NGR = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = TAH
+		target = VOL
 		autonomous_state = AEIOU_colony
 }
-TAH = {
+VOL = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = SPW
+		target = IVO
 		autonomous_state = AEIOU_colony
 }
-SPW = {
+IVO = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = MEX
-		autonomous_state = AEIOU_client
-}
-MEX = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = TZN
+		target = GDL
 		autonomous_state = AEIOU_colony
 }
-TZN = {
+GDL = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = UGA
+		target = MOR
 		autonomous_state = AEIOU_colony
 }
-UGA = {
+MOR = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = RWA
+		target = EQG
 		autonomous_state = AEIOU_colony
 }
-RWA = {
+EQG = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = BRD
+		target = PHI
 		autonomous_state = AEIOU_colony
 }
-BRD = {
+PHI = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = PNG
-		autonomous_state = AEIOU_colony
+		target = QUE
+		autonomous_state = AEIOU_protectorate
 }
-PNG = {
+QUE = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
 	}
 }
 set_autonomy = {
-		target = SOL
-		autonomous_state = AEIOU_colony
+		target = BRS
+		autonomous_state = AEIOU_protectorate
 }
-SOL = {
+BRS = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = neutrality
 	}
 	set_popularities = {
-		fascism = 100
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = LOU
+		autonomous_state = AEIOU_protectorate
+}
+LOU = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = ACA
+		autonomous_state = AEIOU_protectorate
+}
+ACA = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = PUE
+		autonomous_state = AEIOU_protectorate
+}
+PUE = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = DOM
+		autonomous_state = AEIOU_protectorate
+}
+DOM = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = CUB
+		autonomous_state = AEIOU_protectorate
+}
+CUB = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = CAM
+		autonomous_state = AEIOU_protectorate
+}
+CAM = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = LAO
+		autonomous_state = AEIOU_protectorate
+}
+LAO = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = DAI
+		autonomous_state = AEIOU_protectorate
+}
+DAI = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = LBA
+		autonomous_state = AEIOU_colony
+}
+LBA = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = TUN
+		autonomous_state = AEIOU_colony
+}
+TUN = {
+	set_politics = {
+		ruling_party = neutrality
+	}
+	set_popularities = {
+		neutrality = 100
 	}
 }
 
@@ -389,7 +377,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = neutrality
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no

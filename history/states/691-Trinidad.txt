@@ -11,8 +11,8 @@ state={
 
 	history={
 
-		owner = CRC
-add_core_of = CRC
+		owner = GDL
+add_core_of = GDL
 add_core_of = TRI
 		victory_points = {
 			3284 1

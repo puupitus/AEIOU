@@ -4,7 +4,8 @@ state={
 	name="STATE_815"
 
 	history={
-		owner = SLA
+		owner = AUS
+add_core_of = AUS
 add_core_of = SLA
 		buildings = {
 			infrastructure = 6

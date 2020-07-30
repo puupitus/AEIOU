@@ -4,8 +4,10 @@ state={
 	name="STATE_735"
 
 	history={
-		owner = BUR
+		owner = FSU
+add_core_of = FSU
 		add_core_of = BUR
+add_core_of = FRA
 		victory_points = {
 			778 1
 		}

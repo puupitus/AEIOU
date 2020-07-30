@@ -6,7 +6,8 @@ state=
 	manpower=71532
 	history=
 	{
-		owner = ECU
+		owner = COL
+		add_core_of = COL
 add_core_of = ECU
 		buildings = {
 			infrastructure = 2

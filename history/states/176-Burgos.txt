@@ -3,7 +3,8 @@ state={
 	name="STATE_176"
 
 	history={
-		owner = SPR
+		owner = FSU
+add_core_of = FSU
 add_core_of = SPR
 		buildings = {
 			infrastructure = 6

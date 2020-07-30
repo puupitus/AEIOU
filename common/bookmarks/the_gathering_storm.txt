@@ -7,9 +7,9 @@ bookmarks = {
 		default_country = "FRA"
 		default = yes
 
-		"FRA"={
-			history = "FRA_GATHERING_STORM_DESC"
-			ideology = fascism
+		"FSU"={
+			history = "FSU_GATHERING_STORM_DESC"
+			ideology = neutrality
 			ideas = {
 			}
 			focuses = {
@@ -25,7 +25,7 @@ bookmarks = {
 		}
 		"AUS"={
 			history = "AUS_GATHERING_STORM_DESC"
-			ideology = neutrality
+			ideology = fascism
 			ideas = {
 			}
 			focuses = {
@@ -33,7 +33,7 @@ bookmarks = {
 		}
 		"HOL"={
 			history = "HOL_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = fascism
 			ideas = {
 			}
 			focuses = {
@@ -49,7 +49,7 @@ bookmarks = {
 		"POL"={
 			minor = yes
 			history = "POL_GATHERING_STORM_DESC"
-			ideology = neutrality
+			ideology = fascism
 			ideas = {
 			}
 			focuses = {

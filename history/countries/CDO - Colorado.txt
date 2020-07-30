@@ -1,10 +1,9 @@
 capital = 382
-create_faction = "United Republics of America"
+create_faction = "Independent States of America"
 add_to_faction = TEX
 add_to_faction = NWE
 add_to_faction = CAL
 add_to_faction = DES
-add_to_faction = BRS
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

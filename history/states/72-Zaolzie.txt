@@ -6,7 +6,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = GAL
+		owner = AUS
+add_core_of = AUS
 add_core_of = GAL
 		buildings = {
 			infrastructure = 6

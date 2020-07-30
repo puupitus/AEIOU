@@ -9,7 +9,8 @@ state={
 		#victory_points = {
 		#	6483 1
 		#}
-		owner = GAL
+		owner = AUS
+add_core_of = AUS
 add_core_of = GAL
 		buildings = {
 			infrastructure = 5

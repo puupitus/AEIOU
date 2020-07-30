@@ -103,8 +103,8 @@ BUL = {
 	color_ui = rgb { 210 147 217 }
 }
 POR = {
-	color = rgb { 9 180 227 }
-	color_ui = rgb { 9 180 227 }
+	color = rgb { 29 200 247 }
+	color_ui = rgb { 29 200 247 }
 }
 FIN = {
 	color = rgb { 205 212 228 }
@@ -1331,4 +1331,8 @@ GYA = {
 RUS = {
 	color = rgb { 68 158 203 }
 	color_ui = rgb { 68 158 203 }
+}
+FSU = {
+	color = rgb { 15 115 169 }
+	color_ui = rgb { 15 115 169 }
 }

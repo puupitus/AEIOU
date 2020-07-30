@@ -4,7 +4,8 @@ state={
 	name="STATE_818"
 
 	history={
-		owner = BOL
+		owner = PRU
+add_core_of = PRU
 add_core_of = BOL
 
 		buildings = {

@@ -13,7 +13,8 @@ state={
 		victory_points = {
 			9606 3
 		}
-		owner = TEM
+		owner = AUS
+add_core_of = AUS
 add_core_of = TEM
 		buildings = {
 			infrastructure = 5

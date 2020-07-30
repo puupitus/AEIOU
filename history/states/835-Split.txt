@@ -4,7 +4,8 @@ state={
 	name="STATE_835"
 
 	history={
-		owner = DAL
+		owner = AUS
+add_core_of = AUS
 add_core_of = DAL
 
 		buildings = {

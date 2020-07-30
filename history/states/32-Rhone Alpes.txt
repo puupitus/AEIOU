@@ -12,8 +12,10 @@ state={
 	}
 
 	history={
-		owner = BUR
+		owner = FSU
+add_core_of = FSU
 add_core_of = BUR
+add_core_of = FRA
 add_core_of = OCC
 		buildings = {
 			infrastructure = 4

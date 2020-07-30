@@ -5,78 +5,6 @@ set_autonomy = {
 		target = RAJ
 		autonomous_state = AEIOU_protectorate
 }
-set_autonomy = {
-		target = AST
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
-		target = HAW
-		autonomous_state = AEIOU_client
-}
-set_autonomy = {
-		target = SAF
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
-		target = SIE
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
-		target = BAS
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
-		target = KEN
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
-		target = GEM
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
-		target = FIJ
-		autonomous_state = AEIOU_client
-}
-set_autonomy = {
-		target = USA
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
-		target = NZL
-		autonomous_state = AEIOU_protectorate
-}
-set_autonomy = {
-		target = KUW
-		autonomous_state = AEIOU_client
-}
-set_autonomy = {
-		target = LAK
-		autonomous_state = AEIOU_client
-}
-LAK = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-KUW = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-NZL = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
 RAJ = {
 	set_politics = {
 		ruling_party = fascism
@@ -84,6 +12,10 @@ RAJ = {
 	set_popularities = {
 		fascism = 100
 	}
+}
+set_autonomy = {
+		target = AST
+		autonomous_state = AEIOU_protectorate
 }
 AST = {
 	set_politics = {
@@ -93,6 +25,10 @@ AST = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = HAW
+		autonomous_state = AEIOU_client
+}
 HAW = {
 	set_politics = {
 		ruling_party = fascism
@@ -100,6 +36,10 @@ HAW = {
 	set_popularities = {
 		fascism = 100
 	}
+}
+set_autonomy = {
+		target = SAF
+		autonomous_state = AEIOU_protectorate
 }
 SAF = {
 	set_politics = {
@@ -109,6 +49,10 @@ SAF = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = SIE
+		autonomous_state = AEIOU_protectorate
+}
 SIE = {
 	set_politics = {
 		ruling_party = fascism
@@ -116,6 +60,10 @@ SIE = {
 	set_popularities = {
 		fascism = 100
 	}
+}
+set_autonomy = {
+		target = BAS
+		autonomous_state = AEIOU_protectorate
 }
 BAS = {
 	set_politics = {
@@ -125,6 +73,10 @@ BAS = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = KEN
+		autonomous_state = AEIOU_protectorate
+}
 KEN = {
 	set_politics = {
 		ruling_party = fascism
@@ -132,6 +84,10 @@ KEN = {
 	set_popularities = {
 		fascism = 100
 	}
+}
+set_autonomy = {
+		target = GEM
+		autonomous_state = AEIOU_protectorate
 }
 GEM = {
 	set_politics = {
@@ -141,6 +97,10 @@ GEM = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = FIJ
+		autonomous_state = AEIOU_client
+}
 FIJ = {
 	set_politics = {
 		ruling_party = fascism
@@ -149,7 +109,47 @@ FIJ = {
 		fascism = 100
 	}
 }
+set_autonomy = {
+		target = USA
+		autonomous_state = AEIOU_protectorate
+}
 USA = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+set_autonomy = {
+		target = NZL
+		autonomous_state = AEIOU_protectorate
+}
+NZL = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+set_autonomy = {
+		target = KUW
+		autonomous_state = AEIOU_client
+}
+KUW = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+set_autonomy = {
+		target = LAK
+		autonomous_state = AEIOU_client
+}
+LAK = {
 	set_politics = {
 		ruling_party = fascism
 	}

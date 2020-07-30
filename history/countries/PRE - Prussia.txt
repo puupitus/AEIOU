@@ -1,17 +1,41 @@
 capital = 64
 set_cosmetic_tag = PRE_ukg
+
 set_autonomy = {
 		target = NMB
 		autonomous_state = AEIOU_colony
 }
-
+NMB = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 set_autonomy = {
 		target = CMR
 		autonomous_state = AEIOU_colony
 }
+CMR = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 set_autonomy = {
 		target = SAM
 		autonomous_state = AEIOU_colony
+}
+SAM = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
 }
 set_autonomy = {
 		target = ALB
@@ -25,31 +49,6 @@ ALB = {
 		fascism = 100
 	}
 }
-CMR = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-NMB = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-SAM = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-
 
 
 if = {
@@ -114,7 +113,7 @@ create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitar
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = no
