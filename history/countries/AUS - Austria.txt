@@ -1,7 +1,18 @@
 capital = 4
 set_cosmetic_tag = AUS_emp
 create_faction = "Vienna Convention"
-
+set_autonomy = {
+		target = WES
+		autonomous_state = AEIOU_colony
+}
+WES = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 set_autonomy = {
 		target = BAY
 		autonomous_state = AEIOU_client

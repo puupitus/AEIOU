@@ -1,10 +1,6 @@
 capital = 294
 set_cosmetic_tag = OMA_emp
 set_autonomy = {
-		target = QAT
-		autonomous_state = AEIOU_client
-}
-set_autonomy = {
 		target = MAJ
 		autonomous_state = AEIOU_client
 }
@@ -15,14 +11,6 @@ set_autonomy = {
 set_autonomy = {
 		target = ZAN
 		autonomous_state = AEIOU_client
-}
-QAT = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
 }
 MAJ = {
 	set_politics = {

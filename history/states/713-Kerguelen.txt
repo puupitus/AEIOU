@@ -5,8 +5,9 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = FSU
-add_core_of = FSU
+		
+
+owner = FRA
 add_core_of = FRA
 		buildings = {
 			infrastructure = 1

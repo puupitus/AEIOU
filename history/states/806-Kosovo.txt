@@ -4,8 +4,8 @@ state={
 	name="STATE_806"
 
 	history={
-		owner = SER
-add_core_of = SER
+		owner = TUR
+add_core_of = TUR
 		buildings = {
 			infrastructure = 4
 arms_factory = 1
@@ -16,7 +16,7 @@ arms_factory = 1
 	}
 
 	provinces={
-		6940 6953 9849 9874 9890
+		6940 6953 9849 9874 9890 9906
 	}
 	manpower=900000
 	buildings_max_level_factor=1.000

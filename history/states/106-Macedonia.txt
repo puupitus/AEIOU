@@ -8,9 +8,9 @@ state={
 	}
 
 	history={
-		owner = BUL
+		owner = TUR
 add_core_of = MAC
-add_core_of = BUL
+add_core_of = TUR
 		buildings = {
 			infrastructure = 4
 arms_factory = 1

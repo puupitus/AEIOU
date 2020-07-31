@@ -1,4 +1,54 @@
 capital = 41
+
+set_autonomy = {
+		target = MOR
+		autonomous_state = AEIOU_colony
+}
+MOR = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		democratic = 100
+	}
+}
+set_autonomy = {
+		target = EQG
+		autonomous_state = AEIOU_colony
+}
+EQG = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		democratic = 100
+	}
+}
+set_autonomy = {
+		target = PHI
+		autonomous_state = AEIOU_colony
+}
+PHI = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		democratic = 100
+	}
+}
+set_autonomy = {
+		target = BRS
+		autonomous_state = AEIOU_protectorate
+}
+BRS = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		democratic = 100
+	}
+}
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

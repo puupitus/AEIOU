@@ -6,9 +6,10 @@ state={
 		steel=50.000
 	}
 	history={
-		owner = FSU
-add_core_of = FSU
+		
+
 add_core_of = BUR
+owner = FRA
 add_core_of = FRA
 
 		buildings = {

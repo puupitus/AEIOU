@@ -8,8 +8,8 @@ state={
 	}
 
 	history={
-		owner = USG
-add_core_of = USG
+		owner = TUR
+add_core_of = TUR
 add_core_of = KUB
 		victory_points = {
 			3720 1

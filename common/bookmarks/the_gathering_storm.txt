@@ -7,9 +7,9 @@ bookmarks = {
 		default_country = "FRA"
 		default = yes
 
-		"FSU"={
-			history = "FSU_GATHERING_STORM_DESC"
-			ideology = neutrality
+		"FRA"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = democratic
 			ideas = {
 			}
 			focuses = {

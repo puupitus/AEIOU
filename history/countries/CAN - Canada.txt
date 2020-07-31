@@ -110,18 +110,6 @@ FIJ = {
 	}
 }
 set_autonomy = {
-		target = USA
-		autonomous_state = AEIOU_protectorate
-}
-USA = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
 		target = NZL
 		autonomous_state = AEIOU_protectorate
 }
@@ -136,14 +124,6 @@ NZL = {
 set_autonomy = {
 		target = KUW
 		autonomous_state = AEIOU_client
-}
-KUW = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
 }
 set_autonomy = {
 		target = LAK

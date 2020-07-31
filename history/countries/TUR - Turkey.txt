@@ -1,7 +1,55 @@
 capital = 49
 set_cosmetic_tag = TUR_emp
 create_faction = "Ankara Accord"
-add_to_faction = DAR
+set_autonomy = {
+		target = DAR
+		autonomous_state = AEIOU_client
+}
+DAR = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+set_autonomy = {
+		target = DAR
+		autonomous_state = AEIOU_protectorate
+}
+JAB = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+set_autonomy = {
+		target = ACE
+		autonomous_state = AEIOU_protectorate
+}
+ACE = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+
+set_autonomy = {
+		target = QAT
+		autonomous_state = AEIOU_protectorate
+}
+QAT = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

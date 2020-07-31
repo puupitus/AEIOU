@@ -1,4 +1,153 @@
 capital = 16
+
+create_faction = "Radical Entente"
+add_to_faction = WGR
+
+set_autonomy = {
+		target = CAY
+		autonomous_state = AEIOU_colony
+}
+CAY = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = ALG
+		autonomous_state = AEIOU_colony
+}
+ALG = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = DAH
+		autonomous_state = AEIOU_colony
+}
+DAH = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = MLI
+		autonomous_state = AEIOU_colony
+}
+MLI = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = GNA
+		autonomous_state = AEIOU_colony
+}
+GNA = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = MRT
+		autonomous_state = AEIOU_colony
+}
+MRT = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = NGR
+		autonomous_state = AEIOU_colony
+}
+NGR = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = VOL
+		autonomous_state = AEIOU_colony
+}
+VOL = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = GDL
+		autonomous_state = AEIOU_colony
+}
+GDL = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = DAI
+		autonomous_state = AEIOU_protectorate
+}
+DAI = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = LBA
+		autonomous_state = AEIOU_colony
+}
+LBA = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+set_autonomy = {
+		target = TUN
+		autonomous_state = AEIOU_colony
+}
+TUN = {
+	set_politics = {
+		ruling_party = democratic
+	}
+	set_popularities = {
+		neutrality = 100
+	}
+}
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

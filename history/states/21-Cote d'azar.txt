@@ -10,9 +10,10 @@ state={
 	state_category = city
 
 	history={
-		owner = FSU
-add_core_of = FSU
+		
+
 add_core_of = BUR
+owner = FRA
 add_core_of = FRA
 add_core_of = OCC
 		victory_points = {

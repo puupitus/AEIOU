@@ -7,7 +7,8 @@ state={
 	}
 
 	history={
-		owner = MOU
+		owner = TUR
+add_core_of = TUR
 		add_core_of = MOU
 		buildings = {
 			infrastructure = 4

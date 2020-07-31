@@ -11,8 +11,7 @@ state={
 	state_category = city
 
 	history={
-		owner = IMP
-add_core_of = IMP
+		owner = IRE
 add_core_of = IRE
 		victory_points = {
 			11293 5

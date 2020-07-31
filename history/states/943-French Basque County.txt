@@ -4,9 +4,10 @@ state={
 	name="STATE_943"
 
 	history={
-		owner = FSU
-add_core_of = FSU
-		add_core_of = FRA
+		
+
+		owner = FRA
+add_core_of = FRA
 		add_core_of = NAV
 		add_core_of = OCC
 		buildings = {

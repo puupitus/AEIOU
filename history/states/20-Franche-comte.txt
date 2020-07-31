@@ -8,8 +8,9 @@ state={
 	}
 
 	history={
-		owner = FSU
-add_core_of = FSU
+		
+
+owner = FRA
 add_core_of = FRA
 add_core_of = OCC
 		victory_points = {

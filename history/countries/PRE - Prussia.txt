@@ -2,6 +2,18 @@ capital = 64
 set_cosmetic_tag = PRE_ukg
 
 set_autonomy = {
+		target = TOG
+		autonomous_state = AEIOU_colony
+}
+TOG = {
+	set_politics = {
+		ruling_party = fascism
+	}
+	set_popularities = {
+		fascism = 100
+	}
+}
+set_autonomy = {
 		target = NMB
 		autonomous_state = AEIOU_colony
 }
@@ -30,18 +42,6 @@ set_autonomy = {
 		autonomous_state = AEIOU_colony
 }
 SAM = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = ALB
-		autonomous_state = AEIOU_client
-}
-ALB = {
 	set_politics = {
 		ruling_party = fascism
 	}

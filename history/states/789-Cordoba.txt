@@ -3,8 +3,9 @@ state={
 	name="STATE_789"
 
 	history={
-		owner = FSU
-add_core_of = FSU
+		
+
+owner = SPR
 add_core_of = SPR
 add_core_of = ADU
 		victory_points = {

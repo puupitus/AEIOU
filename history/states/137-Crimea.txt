@@ -7,8 +7,8 @@ state={
 	state_category = city
 
 	history={
-		owner = USG
-add_core_of = USG
+		owner = TUR
+add_core_of = TUR
 add_core_of = CRI
 		victory_points = {
 			3686 20

@@ -13,6 +13,7 @@ state={
 		owner = AUS
 add_core_of = AUS
 add_core_of = GAL
+add_core_of = MOL
 		buildings = {
 			infrastructure = 6
 industrial_complex = 1
