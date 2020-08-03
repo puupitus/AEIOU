@@ -25,14 +25,38 @@ bookmarks = {
 		}
 		"AUS"={
 			history = "AUS_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"TUR"={
+			history = "TUR_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
 			}
 			focuses = {
 			}
 		}
-		"HOL"={
-			history = "HOL_GATHERING_STORM_DESC"
+		"PRE"={
+			history = "PRE_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"CAN"={
+			history = "CAN_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"JAP"={
+			history = "JAP_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
 			}

@@ -1,7 +1,5 @@
 capital = 16
 
-create_faction = "Radical Entente"
-add_to_faction = WGR
 
 set_autonomy = {
 		target = CAY

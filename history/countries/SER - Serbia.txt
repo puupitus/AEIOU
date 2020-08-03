@@ -1,8 +1,6 @@
 capital = 107
 create_faction = "Belgrade Pact"
 add_to_faction = MNT
-add_to_faction = GRE
-add_to_faction = ROM
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

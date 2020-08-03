@@ -2,19 +2,7 @@ capital = 49
 set_cosmetic_tag = TUR_emp
 create_faction = "Ankara Accord"
 set_autonomy = {
-		target = DAR
-		autonomous_state = AEIOU_client
-}
-DAR = {
-	set_politics = {
-		ruling_party = fascism
-	}
-	set_popularities = {
-		fascism = 100
-	}
-}
-set_autonomy = {
-		target = DAR
+		target = JAB
 		autonomous_state = AEIOU_protectorate
 }
 JAB = {

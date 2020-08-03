@@ -1,6 +1,5 @@
 capital = 395
 set_cosmetic_tag = USA_sra
-create_faction = "Chicago International"
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

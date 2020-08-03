@@ -1,5 +1,6 @@
 capital = 126
-set_cosmetic_tag = IMP_usc
+set_cosmetic_tag = IMP_soc
+create_faction = "Socialist International"
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "GEN_1936_naval_mtg"

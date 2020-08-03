@@ -1,5 +1,9 @@
 capital = 41
 
+create_faction = "Radical Entente"
+add_to_faction = WGR
+add_to_faction = FRA
+add_to_faction = GRE
 set_autonomy = {
 		target = MOR
 		autonomous_state = AEIOU_colony
