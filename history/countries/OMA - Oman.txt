@@ -93,8 +93,8 @@ navy_experience = 50
 set_convoys = 100
 create_country_leader = { name = "Socialist Party" picture = "gfx/leaders/socialism.dds" ideology = socialist }
 create_country_leader = { name = "Radical Party" picture = "gfx/leaders/radicalism.dds" ideology = radical }
-create_country_leader = { name = "Federalist Party" picture = "gfx/leaders/federalism.dds" ideology = federalist }
-create_country_leader = { name = "Unitarian Party" picture = "gfx/leaders/unitarism.dds" ideology = unitarian }
+create_country_leader = { name = "Constitutionalist Party" picture = "gfx/leaders/federalism.dds" ideology = constitutionalist }
+create_country_leader = { name = "Absolutist Party" picture = "gfx/leaders/unitarism.dds" ideology = absolutist }
 
 
 set_politics = {
